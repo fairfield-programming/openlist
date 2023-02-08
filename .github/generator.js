@@ -38,7 +38,7 @@ function createLicenseEndpoints() {
 
     licensesData.forEach(i => {
 
-        const licensePath = path.join(licensesPath, i)
+        const licensePath = path.join(licensesPath, i.id)
 
         fs.mkdirSync(licensePath)
         fs.writeFileSync(path.join(licensePath, 'index.json'), JSON.stringify(i));
