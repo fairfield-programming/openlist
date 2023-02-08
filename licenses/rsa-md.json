@@ -1,0 +1,11 @@
+{
+    "id": "rsa-md",
+    "name": "RSA Message-Digest License",
+    "creator": [],
+    "since": "",
+    "description": "",
+    "permissions": [],
+    "conditions": [],
+    "limitations": [],
+    "body": "Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All rights reserved.\n\nMD5\n\nMD5\n\nRSA Data Security, Inc. makes no representations concerning either the merchantability of this software\nor the suitability of this software for any particular purpose. It is provided \"as is\" without express\nor implied warranty of any kind.\n\nThese notices must be retained in any copies of any part of this documentation and/or software."
+}

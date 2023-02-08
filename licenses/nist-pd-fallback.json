@@ -1,0 +1,11 @@
+{
+    "id": "nist-pd-fallback",
+    "name": "NIST Public Domain Notice with license fallback",
+    "creator": [],
+    "since": "",
+    "description": "",
+    "permissions": [],
+    "conditions": [],
+    "limitations": [],
+    "body": "Conditions of Use\n\nThis software was developed by employees of the National Institute of\nStandards and Technology (NIST), an agency of the Federal Government and\nis being made available as a public service. Pursuant to title 17 United\nStates Code Section 105, works of NIST employees are not subject to\ncopyright protection in the United States. This software may be subject\nto foreign copyright. Permission in the United States and in foreign\ncountries, to the extent that NIST may hold copyright, to use, copy,\nmodify, create derivative works, and distribute this software and its\ndocumentation without fee is hereby granted on a non-exclusive basis,\nprovided that this notice and disclaimer of warranty appears in all\ncopies.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\" WITHOUT ANY WARRANTY OF ANY KIND,\nEITHER EXPRESSED, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO,\nANY WARRANTY THAT THE SOFTWARE WILL CONFORM TO SPECIFICATIONS, ANY\nIMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,\nAND FREEDOM FROM INFRINGEMENT, AND ANY WARRANTY THAT THE DOCUMENTATION\nWILL CONFORM TO THE SOFTWARE, OR ANY WARRANTY THAT THE SOFTWARE WILL BE\nERROR FREE. IN NO EVENT SHALL NIST BE LIABLE FOR ANY DAMAGES, INCLUDING,\nBUT NOT LIMITED TO, DIRECT, INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES,\nARISING OUT OF, RESULTING FROM, OR IN ANY WAY CONNECTED WITH THIS\nSOFTWARE, WHETHER OR NOT BASED UPON WARRANTY, CONTRACT, TORT, OR\nOTHERWISE, WHETHER OR NOT INJURY WAS SUSTAINED BY PERSONS OR PROPERTY OR\nOTHERWISE, AND WHETHER OR NOT LOSS WAS SUSTAINED FROM, OR AROSE OUT OF\nTHE RESULTS OF, OR USE OF, THE SOFTWARE OR SERVICES PROVIDED HEREUNDER."
+}

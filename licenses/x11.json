@@ -1,0 +1,11 @@
+{
+    "id": "x11",
+    "name": "X11 License",
+    "creator": [],
+    "since": "",
+    "description": "",
+    "permissions": [],
+    "conditions": [],
+    "limitations": [],
+    "body": "X11 License\n\nCopyright (C) 1996 X Consortium\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and\nassociated documentation files (the \"Software\"), to deal in the Software without restriction,\nincluding without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,\nand/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,\nsubject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial\nportions of the Software.\n\nTHE X CONSORTIUM\n\nthe X Consortium\n\nthe X Consortium.\n\nX Window System is a trademark of X Consortium, Inc."
+}
