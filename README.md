@@ -6,7 +6,6 @@ This is the FPA License List.
 
 ### Get All Licenses - [`/licenses`](https://fairfield-programming.github.io/license-list/licenses/)
 
-**Supports:**
 [![Supports JSON](https://img.shields.io/badge/json-blue)](https://fairfield-programming.github.io/license-list/licenses.json)
 [![Supports XMl](https://img.shields.io/badge/xml-blue)](https://fairfield-programming.github.io/license-list/licenses.xml)
 [![Supports YAML](https://img.shields.io/badge/yaml-blue)](https://fairfield-programming.github.io/license-list/licenses.yaml)
