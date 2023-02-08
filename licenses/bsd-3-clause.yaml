@@ -1,0 +1,46 @@
+id: bsd-3-clause
+name: BSD 3-Clause "New" or "Revised" License
+creator: []
+since: ''
+description: ''
+permissions: []
+conditions: []
+limitations: []
+body: >-
+  Copyright (c) <year> <owner>.
+
+
+  are
+
+
+  BY THE COPYRIGHT HOLDERS AND
+
+  CONTRIBUTORS
+
+
+  EXPRESS
+
+
+  THE
+
+  COPYRIGHT HOLDER OR CONTRIBUTORS
+
+
+  1. Redistributions of source code must retain the above copyright notice, this
+  list of conditions
+
+  and the following disclaimer.
+
+
+  2. Redistributions in binary form must reproduce the above copyright notice,
+  this list of conditions
+
+  and the following disclaimer in the documentation and/or other materials
+  provided with the
+
+  distribution.
+
+
+  3. be used to endorse or promote products derived from this
+
+  software without specific prior written permission.
