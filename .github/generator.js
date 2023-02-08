@@ -30,6 +30,25 @@ function setupEndpoints() {
 
 }
 
+// For each license, create their endpoints
+function createLicenseEndpoints() {
+
+    const publicPath = path.join(process.cwd(), 'public')
+    const licensesPath = path.join(process.cwd(), 'public', 'licenses');
+
+    licensesData.forEach(i => {
+
+        const licensePath = path.join(licensesPath, i)
+
+        fs.mkdirSync(licensePath)
+        fs.writeFileSync(path.join(licensePath, 'index.json'), JSON.stringify(i));
+        fs.writeFileSync(licensePath + ".json", JSON.stringify(i));
+        fs.writeFileSync(licensePath + ".yaml", yaml.dump(i));
+
+    })
+
+}
+
 function createLicensesEndpoint() {
 
     const publicPath = path.join(process.cwd(), 'public')
@@ -56,3 +75,4 @@ function createLicensesEndpoint() {
 setupEndpoints();
 readLicensesData();
 createLicensesEndpoint();
+createLicenseEndpoints();
