@@ -1,6 +1,6 @@
-# License List
+# [![Open List](https://raw.githubusercontent.com/fairfield-programming/openlist/master/.github/cover.svg)](https://github.com/fairfield-programming/openlist)
 
-This is the FPA License List.
+The definitive license list for the open-source world.
 
 ## Public API
 
