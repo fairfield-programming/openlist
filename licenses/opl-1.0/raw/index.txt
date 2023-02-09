@@ -1,0 +1,41 @@
+OPEN PUBLIC LICENSEVersion 1.0
+
+1. Definitions.
+
+2. Source Code License.
+
+3. Distribution Obligations.
+
+4. Inability to Comply Due to Statute or Regulation.
+
+5. Application of this License.
+
+6. Versions of the License.
+
+7. DISCLAIMER OF WARRANTY.
+
+8. TERMINATION.
+
+9. LIMITATION OF LIABILITY.
+
+10. U.S. GOVERNMENT END USERS.
+
+11. MISCELLANEOUS.
+
+12. RESPONSIBILITY FOR CLAIMS.
+
+Except in cases where another Contributor has failed to comply with Section 3.4, You are responsible for
+damages arising, directly or indirectly, out of Your utilization of rights under this License, based
+on the number of copies of Covered Code you made available, the revenues you received from utilizing
+such rights, and other relevant factors. You agree to work with affected parties to distribute with
+Initial Developer responsibility on an equitable basis.
+
+EXHIBIT A.
+
+Text for this Exhibit A is found in the corresponding addendum, described in section 6.4 above, text file
+provided by the Initial Developer. This license is not valid or complete with out that file.
+
+EXHIBIT B.
+
+Text for this Exhibit B is found in the corresponding addendum, described in section 6.4 above, text file
+provided by the Initial Developer. This license is not valid or complete with out that file.

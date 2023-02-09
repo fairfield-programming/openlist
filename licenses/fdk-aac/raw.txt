@@ -1,0 +1,15 @@
+Software License for The Fraunhofer FDK AAC Codec Library for Android
+
+© Copyright 1995 - 2012 Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.
+
+All rights reserved.
+
+1. INTRODUCTION
+
+2. COPYRIGHT LICENSE
+
+3. NO PATENT LICENSE
+
+4. DISCLAIMER
+
+5. CONTACT INFORMATION

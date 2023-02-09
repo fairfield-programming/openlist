@@ -1,0 +1,11 @@
+Microsoft Reciprocal License (Ms-RL)
+
+This license governs use of the accompanying software. If you use the software, you accept this license.
+If you do not accept the license, do not use the software.
+
+1. DefinitionsThe terms "reproduce," "reproduction," "derivative works,"
+and "distribution" have the same meaning here as under U.S. copyright law.
+
+2. Grant of Rights
+
+3. Conditions and Limitations

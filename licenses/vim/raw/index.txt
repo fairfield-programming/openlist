@@ -1,0 +1,20 @@
+VIM LICENSE
+
+I) There are no restrictions on distributing unmodified copies ofexcept that they must include
+this license text. You can also distribute unmodified parts of, likewise unrestricted
+except that they must include this license text. You are also allowed to include executables
+that you made from the unmodifiedsources, plus your own usage examples and Vim
+scripts.
+
+II) It is allowed to distribute a modified (or extended) version of, including executables and/or
+source code, when the following four conditions are met:
+
+III) If you distribute a modified version of, you are encouraged to use the Vim license for your
+changes and make them available to the maintainer, including the source code. The preferred
+way to do this is by e-mail or by uploading the files to a server and e-mailing the URL. If
+the number of changes is small (e.g., a modified Makefile) e-mailing a context diff will do.
+The e-mail address to be used is <maintainer@vim.org>
+
+IV) It is not allowed to remove this license from the distribution of thesources, parts of it or
+from a modified version. You may use this license for previousreleases instead of the
+license that they came with, at your option.

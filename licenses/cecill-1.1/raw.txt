@@ -1,0 +1,72 @@
+FREE SOFTWARE LICENSING AGREEMENT CeCILL
+
+- firstly, its conformity with French law, both as regards the law of torts and intellectual
+property law, and the protection that it offers to authors and the holders of economic rights
+over software.
+
+- secondly, compliance with the principles for the distribution of free software: access to source
+codes, extended user-rights.
+
+Commissariat à l'Energie Atomique - CEA, a public scientific, technical and industrial
+establishment, having its principal place of business at 31-33 rue de la Fédération, 75752
+PARIS cedex 15, France.
+
+Centre National de la Recherche Scientifique - CNRS, a public scientific and technological establishment,
+having its principal place of business at 3 rue Michel-Ange 75794 Paris cedex 16, France.
+
+Institut National de Recherche en Informatique et en Automatique - INRIA, a public scientific and
+technological establishment, having its principal place of business at Domaine de Voluceau,
+Rocquencourt, BP 105, 78153 Le Chesnay cedex.
+
+PREAMBLE
+
+The purpose of this Free Software Licensing Agreement is to grant users the right to modify and
+redistribute the software governed by this license within the framework of an "open source"
+distribution model.
+
+The exercising of these rights is conditional upon certain obligations for users so as to ensure that
+this status is retained for subsequent redistribution operations.
+
+As a counterpart to the access to the source code and rights to copy, modify and redistribute granted by
+the license, users are provided only with a limited warranty and the software's author, the
+holder of the economic rights, and the successive licensors only have limited liability.
+
+In this respect, it is brought to the user's attention that the risks associated with loading,
+using, modifying and/or developing or reproducing the software by the user given its nature of Free
+Software, that may mean that it is complicated to manipulate, and that also therefore means that it is
+reserved for developers and experienced professionals having in-depth computer knowledge. Users are
+therefore encouraged to load and test the Software's suitability as regards their requirements in
+conditions enabling the security of their systems and/or data to be ensured and, more generally, to
+use and operate it in the same conditions of security. This Agreement may be freely reproduced and
+published, provided it is not altered, and that no Articles are either added or removed herefrom.
+
+This Agreement may apply to any or all software for which the holder of the economic rights decides to
+submit the operation thereof to its provisions.
+
+Article 1 - DEFINITIONS
+
+Article 2 - PURPOSE
+
+Article 3 - ACCEPTANCE
+
+Article 4 - EFFECTIVE DATE AND TERM
+
+Article 5 - SCOPE OF THE RIGHTS GRANTED
+
+Article 6 - INTELLECTUAL PROPERTY
+
+Article 7 - RELATED SERVICES
+
+Article 8 - LIABILITY
+
+Article 9 - WARRANTY
+
+Article 10 - TERMINATION
+
+Article 11 - MISCELLANEOUS PROVISIONS
+
+Article 12 - NEW VERSIONS OF THE AGREEMENT
+
+Article 13 - GOVERNING LAW AND JURISDICTION
+
+Version 1.1 of 10/26/2004

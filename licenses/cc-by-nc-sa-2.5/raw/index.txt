@@ -1,0 +1,56 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 2.5
+
+CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS
+LICENSE DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON
+AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE INFORMATION PROVIDED,
+AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM ITS USE.
+
+License
+
+THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE
+("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE
+LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS
+PROHIBITED.
+
+BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS
+LICENSE. THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH
+TERMS AND CONDITIONS.
+
+Creative Commons is not a party to this License, and makes no warranty whatsoever in connection with the
+Work. Creative Commons will not be liable to You or any party on any legal theory for any damages
+whatsoever, including without limitation any general, special, incidental or consequential damages
+arising in connection to this license. Notwithstanding the foregoing two (2) sentences, if Creative
+Commons has expressly identified itself as the Licensor hereunder, it shall have all rights and
+obligations of Licensor.
+
+Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL,
+neither party will use the trademark "Creative Commons" or any related trademark or logo of
+Creative Commons without the prior written consent of Creative Commons. Any permitted use will be in
+compliance with Creative Commons' then-current trademark usage guidelines, as may be published on
+its website or otherwise made available upon request from time to time.
+
+Creative Commons may be contacted at http://creativecommons.org/.
+
+1. Definitions
+
+2. Fair Use Rights. Nothing in this license is intended to reduce, limit, or restrict any rights
+arising from fair use, first sale or other limitations on the exclusive rights of the
+copyright owner under copyright law or other applicable laws.
+
+3. License Grant. Subject to the terms and conditions of this License, Licensor hereby grants You a
+worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable
+copyright) license to exercise the rights in the Work as stated below:
+
+4. Restrictions. The license granted in Section 3 above is expressly made subject to and limited by
+the following restrictions:
+
+5. Representations, Warranties and Disclaimer
+
+6. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL
+LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL,
+PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF
+LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7. Termination
+
+8. Miscellaneous

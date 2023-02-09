@@ -1,0 +1,81 @@
+Licence Libre du Québec – Réciprocité forte (LiLiQ-R+)
+
+Version 1.1
+
+1. PréambuleCette licence s'applique à tout logiciel distribué
+dont le titulaire du droit d'auteur précise
+qu'il est sujet aux termes de la Licence Libre
+du Québec – Réciprocité forte (LiLiQ-R+)
+(ci-après appelée la « licence »).
+
+2. DéfinitionsDans la présente licence, à moins que le contexte
+n'indique un sens différent, on entend par:
+
+3. Licence de droit d'auteurSous réserve des termes de la licence, le concédant
+accorde au licencié une licence non exclusive
+et libre de redevances lui permettant
+d’exercer les droits suivants sur le
+logiciel:
+
+4. DistributionLe licencié peut distribuer des copies du logiciel,
+d'un logiciel modifié ou dérivé, sous réserve
+de respecter les conditions suivantes :
+
+4.1. RéciprocitéChaque fois que le licencié distribue le logiciel,
+le concédant offre au récipiendaire une
+concession sur le logiciel selon les termes de
+la présente licence. Le licencié doit offrir
+une concession selon les termes de la présente
+licence pour tout logiciel modifié ou dérivé
+qu'il distribue.
+
+4.2. CompatibilitéDans la mesure où le licencié souhaite distribuer
+un logiciel modifié ou dérivé combiné à un
+logiciel assujetti à une licence compatible,
+mais dont il ne serait pas possible d'en
+respecter les termes, le concédant offre, en
+plus de la présente concession, une concession
+selon les termes de cette licence compatible.
+
+5. ContributionsSous réserve d'une entente distincte, toute
+contribution soumise par un contributeur au
+concédant pour inclusion dans le logiciel sera
+soumise aux termes de cette licence.
+
+6. Marques de commerceLa licence n'accorde aucune permission particulière
+qui permettrait d'utiliser les marques de
+commerce du concédant, autre que celle requise
+permettant d'identifier la provenance du
+logiciel.
+
+7. GarantiesSauf mention contraire, le concédant distribue le
+logiciel sans aucune garantie, aux risques et
+périls de l'acquéreur de la copie du logiciel,
+et ce, sans assurer que le logiciel puisse
+répondre à un besoin particulier ou puisse
+donner un résultat quelconque.
+
+8. ResponsabilitéLe licencié est responsable de tout préjudice
+résultant de l'exercice des droits accordés
+par la licence.
+
+9. RésiliationLa présente licence est résiliée de plein droit dès
+que les droits qui y sont accordés ne sont pas
+exercés conformément aux termes qui y sont
+stipulés.
+
+10. Version de la licenceLe Centre de services partagés du Québec, ses
+ayants cause ou toute personne qu'il désigne,
+peuvent diffuser des versions révisées ou
+modifiées de cette licence. Chaque version
+recevra un numéro unique. Si un logiciel est
+déjà soumis aux termes d'une version
+spécifique, c'est seulement cette version qui
+liera les parties à la licence.
+
+11. DiversDans la mesure où le concédant est un ministère, un organisme
+public ou une personne morale de droit public, créés en vertu
+d'une loi de l'Assemblée nationale du Québec, la licence est
+régie par le droit applicable au Québec et en cas de
+contestation, les tribunaux du Québec seront seuls
+compétents.
