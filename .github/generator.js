@@ -47,8 +47,6 @@ function createLicenseEndpoints() {
         fs.writeFileSync(licensePath + ".yaml", yaml.dump(i));
 
         // Raw Endpoints
-        fs.mkdirSync(path.join(licensePath, 'raw'))
-        fs.writeFileSync(path.join(licensePath, 'raw', 'index.txt'), i.body)
         fs.writeFileSync(path.join(licensePath, 'raw.txt'), i.body)
 
     })
