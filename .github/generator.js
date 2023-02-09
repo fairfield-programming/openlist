@@ -59,7 +59,7 @@ function createLicensesEndpoint() {
         return {
             id: i.id,
             name: i.name,
-            url: `https://fairfield-programming.github.io/license-list/licenses/${i.id}`,
+            url: `https://fairfield-programming.github.io/openlist/licenses/${i.id}`,
             since: i.since
         }
 
