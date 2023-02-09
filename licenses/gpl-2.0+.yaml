@@ -10,7 +10,8 @@ body: >-
   GNU GENERAL PUBLIC LICENSEVersion 2, June 1991
 
 
-  ,
+  Copyright (C) 1989, 1991 Free Software Foundation, Inc.51 Franklin Street,
+  Fifth Floor, Boston, MA 02110-1301USA
 
 
   Everyone is permitted to copy and distribute verbatim copies of this license
@@ -394,8 +395,5 @@ body: >-
   passes at compilers) written by James Hacker.
 
 
-  <
-
-
-  >
+  signature of Ty Coon, 1 April 1989 Ty Coon, President of Vice
 type: ''

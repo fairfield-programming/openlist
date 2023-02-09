@@ -231,19 +231,13 @@ body: >-
   text of copyright notices.
 
 
-  %%
+  Copyright
 
 
-  %%
-
-
-  %
-
-
-  %
-
-
-  %
+  % This program can redistributed and/or modified under the termsof the LaTeX
+  Project Public License Distributed from CTANarchives in directory
+  macros/latex/base/lppl.txt; eitherversion 1 of the License, or (at your
+  option) any later version.
 
 
   * It is allowed only if the legal notice in the file does not expressly forbid
