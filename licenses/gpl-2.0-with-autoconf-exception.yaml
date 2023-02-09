@@ -39,4 +39,4 @@ body: >-
   copies text from the non-data portions to the data portions.) If your
   modification has such potential, you must delete any notice of this special
   exception to the GPL from your modified version.
-type: ''
+type: source-available

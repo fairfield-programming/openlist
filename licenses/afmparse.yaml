@@ -38,4 +38,4 @@ body: >-
 
   2) If the file has been modified in any way, a notice of such modification is
   conspicuously indicated.
-type: ''
+type: source-available

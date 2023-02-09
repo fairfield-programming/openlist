@@ -83,4 +83,4 @@ body: |-
   - RC4 support has been replaced with ARC4 support from OpenSSL
 
   - Blowfish is now external, in the OpenSSL library
-type: ''
+type: source-available

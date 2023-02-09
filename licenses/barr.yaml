@@ -24,4 +24,4 @@ body: >-
 
   Plain TeX. Although I know of no reason it will not work with AMSTeX, I have
   not tested it.
-type: ''
+type: source-available

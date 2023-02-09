@@ -34,4 +34,4 @@ body: >-
   LZMA SDK code is compatible with open source licenses, for example, you can
 
   include it to GNU GPL or GNU LGPL code.
-type: ''
+type: source-available
