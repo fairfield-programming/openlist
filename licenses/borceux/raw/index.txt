@@ -1,6 +1,0 @@
-Copyright 1993 Francis Borceux
-
-You may freely use, modify, and/or distribute each of the files in this package without limitation. The
-package consists of the following files:READMEcompatibility/OldDiagramcompatibility/OldMaxiDiagramcompatibility/OldMicroDiagramcompatibility/OldMiniDiagramcompatibility/OldMultipleArrowsdiagram/Diagramdiagram/MaxiDiagramdiagram/MicroDiagramdiagram/MiniDiagramdiagram/MultipleArrowsuser-guides/Diagram_Mode_d_Emploiuser-guides/Diagram_Read_Me
-
-Of course no support is guaranteed, but the author will attempt to assist with problems. Current email address:francis dot borceux at uclouvain dot be.
