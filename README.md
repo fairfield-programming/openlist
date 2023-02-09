@@ -20,7 +20,7 @@ This endpoint allows querying access for licenses inside of the FPA license list
 
 This endpoint allows you to get all of the information that we have stored about a license.
 
-### Get License Bodies - [`/licenses/:id/raw`](https://fairfield-programming.github.io/openlist/licenses/mit/raw)
+### Get License Bodies - [`/licenses/:id/raw.txt`](https://fairfield-programming.github.io/openlist/licenses/mit/raw.txt)
 
 This endpoint allows you to retrieve the body of a license. This is how the license would be stored in a file.
 
