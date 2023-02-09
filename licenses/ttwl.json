@@ -7,5 +7,6 @@
     "permissions": [],
     "conditions": [],
     "limitations": [],
-    "body": "Copyright (C) 1996-2002,2005,2006 David Muir Sharnoff.Copyright (C) 2005 Aristotle PagaltzisCopyright (C) 2012-2013 Google, Inc.\n\nThis module may be modified, used, copied, and redistributed at your\nown risk. Although allowed by the preceding license, please do not\npublicly redistribute modified versions of this code with the name\n\"Text::Tabs\" unless it passes the unmodified Text::Tabs test suite."
+    "body": "Copyright (C) 1996-2002,2005,2006 David Muir Sharnoff.Copyright (C) 2005 Aristotle PagaltzisCopyright (C) 2012-2013 Google, Inc.\n\nThis module may be modified, used, copied, and redistributed at your\nown risk. Although allowed by the preceding license, please do not\npublicly redistribute modified versions of this code with the name\n\"Text::Tabs\" unless it passes the unmodified Text::Tabs test suite.",
+    "type": ""
 }
