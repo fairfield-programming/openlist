@@ -10,7 +10,7 @@ body: >-
   BSD-4-Clause (University of California-Specific)
 
 
-  [various years]
+  CopyrightThe Regents of the University of California. All rights reserved.
 
 
   Redistribution and use in source and binary forms, with or without
@@ -72,3 +72,4 @@ body: >-
 
   promote products derived from this software without specific prior written
   permission.
+type: ''

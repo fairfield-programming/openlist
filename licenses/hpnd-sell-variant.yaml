@@ -6,13 +6,17 @@ description: ''
 permissions: []
 conditions: []
 limitations: []
-body: |-
+body: >-
   <copyright notice>
 
-  appears
 
-  <copyright holder>
+  Permission to use, copy, modify, distribute, and sell this software and its
+  documentation for any purpose
+           is hereby granted without fee, provided that the above copyright noticein all copiesthat bothcopyright notice
+           and this permission notice appear in supporting documentation.
 
-  .
-
-  <copyright holder>
+  DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING
+             ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESSIN NO EVENT SHALLBE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES
+             OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT,
+             NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+type: ''

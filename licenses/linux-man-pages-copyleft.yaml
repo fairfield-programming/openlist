@@ -21,20 +21,13 @@ body: >-
   to this one.
 
 
-  assume
-
-
-  resulting
-
-
-  may
-
-
-  this
-
-
-  working
+  Since the Linux kernel and libraries are constantly changing, this manual page
+  may be incorrect or out-of-date. The author(s)no responsibility for errors or
+  omissions, or for damagesfrom the use of the information contained herein. The
+  author(s)not have taken the same level of care in the production ofmanual,
+  which is licensed free of charge, as they might whenprofessionally.
 
 
   Formatted or processed versions of this manual, if unaccompanied by the
   source, must acknowledge the copyright and authors of this work.
+type: ''

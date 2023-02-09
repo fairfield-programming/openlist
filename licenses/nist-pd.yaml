@@ -7,7 +7,7 @@ permissions: []
 conditions: []
 limitations: []
 body: |-
-  Terms Of Use
+
 
   This software was developed by employees of the National Institute of
   Standards and Technology (NIST), and others.
@@ -25,3 +25,4 @@ body: |-
   regarding the use of the software or the results thereof, including but
   not limited to the correctness, accuracy, reliability or usefulness of
   this software.
+type: ''

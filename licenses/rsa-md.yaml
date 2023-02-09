@@ -11,11 +11,15 @@ body: >-
   reserved.
 
 
-  MD5
+  License to copy and use this software is granted provided that it is
+  identified as the "RSA Data
+           Security, Inc.Message-Digest Algorithm" in all material mentioning
+          or referencing this software or this function.
 
-
-  MD5
-
+  License is also granted to make and use derivative works provided that such
+  works are identified as
+           "derived from the RSA Data Security, Inc.Message-Digest Algorithm" in all material mentioning
+          or referencing the derived work.
 
   RSA Data Security, Inc. makes no representations concerning either the
   merchantability of this software
@@ -28,3 +32,4 @@ body: >-
 
   These notices must be retained in any copies of any part of this documentation
   and/or software.
+type: ''

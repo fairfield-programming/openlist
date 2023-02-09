@@ -70,10 +70,7 @@ body: >-
   software without specific prior written permission.
 
 
-  1.0.6
-
-
-  6 September 2010
+  Julian Seward, jseward@bzip.org bzip2/libbzip2 versionof
 
 
   PATENTS: To the best of my knowledge, bzip2 and libbzip2 do not use any
@@ -83,3 +80,4 @@ body: >-
   cannot give any
 
   guarantee of the above statement.
+type: ''

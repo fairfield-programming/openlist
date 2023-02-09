@@ -25,10 +25,14 @@ body: >-
   , THE UNITED STATES GOVERNMENT,
 
 
-  Lawrence Berkeley National
-
-  Laboratory
-
+  You are under no obligation whatsoever to provide any bug fixes, patches, or
+  upgrades to the features,
+           functionality or performance of the source code ("Enhancements") to anyone; however, if you choose to
+           make your Enhancements available either publicly, or directly to,
+           without imposing a separate written license agreement for such Enhancements, then you
+           hereby grant the following license: a non-exclusive, royalty-free perpetual license to install, use,
+           modify, prepare derivative works, incorporate into other computer software, distribute, and sublicense
+           such Enhancements or derivative works thereof, in binary and source code form.
 
   (1) Redistributions of source code must retain the above copyright notice,
   this list of conditions
@@ -48,3 +52,4 @@ body: >-
   (3) be used to endorse or promote products
 
   derived from this software without specific prior written permission.
+type: ''

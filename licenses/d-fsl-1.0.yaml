@@ -13,11 +13,9 @@ body: >-
   (c) Ministerium für Wissenschaft und Forschung Nordrhein-Westfalen 2004
 
 
-  (
-
-
-  )
-
+  Erstellt von Axel Metzger und Till Jaeger, Institut für Rechtsfragen der
+  Freien und Open Source Software
+                -http://www.ifross.de.
 
   Präambel
 
@@ -132,3 +130,4 @@ body: >-
 
 
   Die Lizenz kann unter http://www.d-fsl.de abgerufen werden."
+type: ''

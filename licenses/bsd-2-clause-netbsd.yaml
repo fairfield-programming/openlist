@@ -10,7 +10,7 @@ body: >-
   Copyright (c) 2008 The NetBSD Foundation, Inc. All rights reserved.
 
 
-  .*
+  This code is derived from software contributed to The NetBSD Foundation by
 
 
   Redistribution and use in source and binary forms, with or without
@@ -19,11 +19,14 @@ body: >-
   that the following conditions are met:
 
 
-  THE NETBSD FOUNDATION, INC. AND CONTRIBUTORS
-
-
-  THE FOUNDATION OR CONTRIBUTORS
-
+  THIS SOFTWARE IS PROVIDED BY``AS IS''
+          AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+          MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALLBE LIABLE FOR ANY
+          DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+          TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+          INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+          TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+          ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
   1. Redistributions of source code must retain the above copyright notice, this
   list of conditions
@@ -38,3 +41,4 @@ body: >-
   provided with the
 
   distribution.
+type: ''

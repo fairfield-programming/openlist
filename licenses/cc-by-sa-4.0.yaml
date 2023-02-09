@@ -52,8 +52,14 @@ body: >-
   licenses.
 
 
-  : wiki.creativecommons.org/Considerations_for_licensors
-
+  Considerations for licensors: Our public licenses are intended for use by
+  those authorized to give the
+           public permission to use material in ways otherwise restricted by copyright and certain other rights.
+           Our licenses are irrevocable. Licensors should read and understand the terms and conditions of the
+           license they choose before applying it. Licensors should also secure all rights necessary before
+           applying our licenses so that the public can reuse the material as expected. Licensors should clearly
+           mark any material not subject to the license. This includes other CC-licensed material, or material
+           used under an exception or limitation to copyright. More considerations for licensors
 
   Considerations for the public: By using one of our public licenses, a licensor
   grants the public
@@ -79,10 +85,8 @@ body: >-
   all changes be marked or described.
 
 
-  More considerations
-
-
-  : wiki.creativecommons.org/Considerations_for_licensees
+  Although not required by our licenses, you are encouraged to respect those
+  requests where reasonable.for the public
 
 
   Creative Commons Attribution-ShareAlike 4.0 International Public License
@@ -450,3 +454,4 @@ body: >-
   including from
 
   the legal processes of any jurisdiction or authority.
+type: ''

@@ -7,7 +7,6 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  BSD Zero Clause License
 
 
   Copyright (C) YEAR by AUTHOR EMAIL
@@ -33,3 +32,4 @@ body: >-
 
   ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS
   SOFTWARE.
+type: ''

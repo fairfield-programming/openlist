@@ -10,10 +10,10 @@ body: >-
   #
 
 
-  name
+  Contributor:
 
 
-  address
+  Source Code:
 
 
   ##
@@ -43,43 +43,37 @@ body: >-
   ##
 
 
-  [Contribute](#contribute)
-
-
-  [contribute](#contribute)
-
-
-  ##
-
-
-  [contribute](#contribute)
+  software you develop, operate, or analyze with this software, including
+  changes or additions to this software.  When in doubt,.
 
 
   ##
 
 
-  [contribute](#contribute)
-
-
-  [contribute](#contribute)
-
-
-  ##
-
-
-  [contribute](#contribute)
+  You don't have toany change, addition, or other software that meets all these
+  criteria:
 
 
   ##
 
 
-  [Copyleft](#copyleft)
+  You may use this software to operate and analyze software you can'tin order to
+  develop alternatives you can and do.
 
 
-  [contribute](#contribute)
+  ##
 
 
-  [Notices](#notices)
+  Tosoftware:
+
+
+  ##
+
+
+  You're excused for unknowingly breakingif youas required, or stop doing
+  anything requiring this license, within thirty days of learning you broke the
+  rule.  You're excused for unknowingly breakingif you take all practical steps
+  to comply within thirty days of learning you broke the rule.
 
 
   ##
@@ -142,3 +136,4 @@ body: >-
 
   4. Note that this license doesallow you to change the license terms for this
   software.  You must follow.
+type: ''
