@@ -8,5 +8,5 @@
     "conditions": [],
     "limitations": [],
     "body": "Copyright (c) <year>, <owner>.\n\nPermission is granted to make and distribute verbatim copies of this manual provided the copyright notice and this permission notice are preserved on all copies.\n\nPermission is granted to copy and distribute modified versions of this manual under the conditions for verbatim copying, provided that the entire resulting derived work is distributed under the terms of a permission notice identical to this one.\n\nSince the Linux kernel and libraries are constantly changing, this manual page may be incorrect or out-of-date. The author(s)no responsibility for errors or omissions, or for damagesfrom the use of the information contained herein. The author(s)not have taken the same level of care in the production ofmanual, which is licensed free of charge, as they might whenprofessionally.\n\nFormatted or processed versions of this manual, if unaccompanied by the source, must acknowledge the copyright and authors of this work.",
-    "type": ""
+    "type": "source-available"
 }

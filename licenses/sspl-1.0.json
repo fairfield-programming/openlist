@@ -8,5 +8,5 @@
     "conditions": [],
     "limitations": [],
     "body": "Server Side Public License\n\nVERSION 1, OCTOBER 16, 2018\n\nCopyright &#169; 2018 MongoDB, Inc.\n\nEveryone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.\n\nTERMS AND CONDITIONS\n\n0. Definitions.\n\n1. Source Code.\n\n2. Basic Permissions.\n\n3. Protecting Users' Legal Rights From Anti-Circumvention Law.\n\n4. Conveying Verbatim Copies.\n\n5. Conveying Modified Source Versions.\n\n6. Conveying Non-Source Forms.\n\n7. Additional Terms.\n\n8. Termination.\n\n9. Acceptance Not Required for Having Copies.\n\n10. Automatic Licensing of Downstream Recipients.\n\n11. Patents.\n\n12. No Surrender of Others' Freedom.\n\n13. Offering the Program as a Service.\n\n14. Revised Versions of this License.\n\n15. Disclaimer of Warranty.\n\n16. Limitation of Liability.\n\n17. Interpretation of Sections 15 and 16.\n\nEND OF TERMS AND CONDITIONS",
-    "type": ""
+    "type": "source-available"
 }
