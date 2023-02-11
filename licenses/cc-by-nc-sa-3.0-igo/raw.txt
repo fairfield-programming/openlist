@@ -1,5 +1,3 @@
-Attribution-NonCommercial-ShareAlike 3.0 IGO
-
 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS LICENSE DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE INFORMATION PROVIDED, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM ITS USE. THE LICENSOR IS NOT NECESSARILY AN INTERGOVERNMENTAL ORGANIZATION (IGO), AS DEFINED IN THE LICENSE BELOW.
 
 License
@@ -15,21 +13,3 @@ Creative Commons is not a party to this License, and makes no warranty whatsoeve
 Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, Creative Commons does not authorize the use by either party of the trademark "Creative Commons" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons. Any permitted use will be in compliance with Creative Commons' then-current trademark usage guidelines, as may be published on its website or otherwise made available upon request from time to time. For the avoidance of doubt, this trademark restriction does not form part of this License.
 
 Creative Commons may be contacted at https://creativecommons.org/.
-
-1. Definitions
-
-2. Scope of this License. Nothing in this License is intended to reduce, limit, or restrict any uses free from copyright protection.
-
-3. License Grant. Subject to the terms and conditions of this License, the Licensor hereby grants You a worldwide, royalty-free, non-exclusive license to exercise the rights in the Work as follows:This License lasts for the duration of the term of the copyright in the Work licensed by the Licensor. The above rights may be exercised in all media and formats whether now known or hereafter devised. The above rights include the right to make such modifications as are technically necessary to exercise the rights in other media and formats. All rights not expressly granted by the Licensor are hereby reserved, including but not limited to the rights set forth in Section 4(e).
-
-4. Restrictions. The license granted in Section 3 above is expressly made subject to and limited by the following restrictions:
-
-5. Representations, Warranties and Disclaimer
-THE LICENSOR OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ERRORS, WHETHER OR NOT DISCOVERABLE.
-
-6. Limitation on Liability
-IN NO EVENT WILL THE LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-
-7. Termination
-
-8. Miscellaneous

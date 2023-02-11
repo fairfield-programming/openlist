@@ -7,9 +7,6 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  CERN Open Hardware Licence Version 2 - Permissive
-
-
   Preamble
 
 
@@ -27,25 +24,4 @@ body: >-
 
   Use of this Licence does not imply any endorsement by CERN of any Licensor or
   their designs nor does it imply any involvement by CERN in their development.
-
-
-  1 Definitions
-
-
-  2 Applicability
-
-
-  3 Copying, modifying and Conveying Covered Source
-
-
-  4 Making and Conveying Products
-
-
-  5 DISCLAIMER AND LIABILITY
-
-
-  6 Patents
-
-
-  7 General
-type: open-source
+type: source-available

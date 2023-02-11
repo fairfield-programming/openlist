@@ -7,99 +7,23 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  European Union Public Licence V. 1.1
-
-
   EUPL (c) the European Community 2007
 
 
   This European Union Public Licence (the "EUPL") applies to the Work or
-  Software (as defined below) which
-
-  is provided under the terms of this Licence. Any use of the Work, other than
-  as authorised under this
-
-  Licence is prohibited (to the extent such use is covered by a right of the
-  copyright holder of the
-
+  Software (as defined below) which is provided under the terms of this Licence.
+  Any use of the Work, other than as authorised under this Licence is prohibited
+  (to the extent such use is covered by a right of the copyright holder of the
   Work).
 
 
   The Original Work is provided under the terms of this Licence when the
-  Licensor (as defined below) has
-
-  placed the following notice immediately following the copyright notice for the
-  Original Work:
+  Licensor (as defined below) has placed the following notice immediately
+  following the copyright notice for the Original Work:
 
 
   Appendix
 
 
   "Compatible Licences" according to article 5 EUPL are:
-
-
-  Licensed under the EUPL V.1.1
-
-
-  or has expressed by any other mean his willingness to license under the EUPL.
-
-
-  1. Definitions
-
-
-  2. Scope of the rights granted by the Licence
-
-
-  3. Communication of the Source Code
-
-
-  4. Limitations on copyright
-
-
-  5. Obligations of the Licensee
-
-
-  6. Chain of Authorship
-
-
-  7. Disclaimer of Warranty
-
-
-  8. Disclaimer of Liability
-
-
-  9. Additional agreements
-
-
-  10. Acceptance of the Licence
-
-
-  11. Information to the public
-
-
-  12. Termination of the Licence
-
-
-  13. Miscellaneous
-
-
-  14. Jurisdiction
-
-
-  15. Applicable Law
-
-
-  - GNU General Public License (GNU GPL) v. 2
-
-
-  - Open Software License (OSL) v. 2.1, v. 3.0
-
-
-  - Common Public License v. 1.0
-
-
-  - Eclipse Public License v. 1.0
-
-
-  - Cecill v. 2.0
-type: open-source
+type: source-available

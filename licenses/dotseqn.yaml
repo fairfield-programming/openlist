@@ -11,10 +11,8 @@ body: >-
 
 
   This file may be freely transmitted and reproduced, but it may not be changed
-  unless the name is changed
-
-  also (except that you may freely change the paper-size option for
-  \documentclass).
+  unless the name is changed also (except that you may freely change the
+  paper-size option for \documentclass).
 
 
   This notice must be left intact.

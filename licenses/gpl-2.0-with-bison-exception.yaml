@@ -7,9 +7,6 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  Bison Exception
-
-
   As a special exception, you may create a larger work that contains part or all
   of the Bison parser skeleton and distribute that work under terms of your
   choice, so long as that work isn't itself a parser generator using the

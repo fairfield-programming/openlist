@@ -1,19 +1,1 @@
-DL-DE->BY-2.0
-
-Datenlizenz Deutschland – Namensnennung – Version 2.0
-
-Data licence Germany – attribution – version 2.0
-
-(1) Jede Nutzung ist unter den Bedingungen dieser „Datenlizenz Deutschland – Namensnennung – Version 2.0" zulässig.
-
-(2) Bei der Nutzung ist sicherzustellen, dass folgende Angaben als Quellenvermerk enthalten sind:
-
-(3) Veränderungen, Bearbeitungen, neue Gestaltungen oder sonstige Abwandlungen sind im Quellenvermerk mit dem Hinweis zu versehen, dass die Daten geändert wurden.
-
-(1) Any use will be permitted provided it fulfils the requirements of this "Data licence Germany – attribution – Version 2.0".
-
-(2) The user must ensure that the source note contains the following information:
-
-(3) Changes, editing, new designs or other amendments must be marked as such in the source note.
-
 URL: http://www.govdata.de/dl-de/by-2-0

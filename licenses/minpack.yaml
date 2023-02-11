@@ -6,21 +6,10 @@ description: ''
 permissions: []
 conditions: []
 limitations: []
-body: |-
-  Minpack Copyright Notice (1999)
-  University of Chicago. All rights reserved
+body: >-
+  Minpack Copyright Notice (1999) University of Chicago. All rights reserved
 
-  Redistribution and use in source and binary
-  forms, with or without modification, are permitted
-  provided that the following conditions are met:
 
-  1. 
-
-  2. 
-
-  3. 
-
-  4. 
-
-  5. 
+  Redistribution and use in source and binary forms, with or without
+  modification, are permitted provided that the following conditions are met:
 type: source-available

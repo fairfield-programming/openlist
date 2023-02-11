@@ -31,13 +31,4 @@ body: >-
 
   The purpose of this Exception is to allow distribution of Autoconf's typical
   output under terms of the recipient's choice (including proprietary).
-
-
-  0. Definitions.
-
-
-  1. Grant of Additional Permission.
-
-
-  2. No Weakening of Autoconf Copyleft.
 type: source-available

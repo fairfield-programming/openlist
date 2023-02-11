@@ -7,12 +7,6 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  Common Documentation License
-
-
-  Version 1.0 - February 16, 2001
-
-
   Copyright © 2001 Apple Computer, Inc.
 
 
@@ -26,50 +20,12 @@ body: >-
   License, please do not download or use this material.
 
 
-  0. Preamble.
-
-
-  1. General; Definitions.
-
-
-  2. Basic License.
-
-
-  3. Derivative Works.
-
-
-  4. Compilation with Independent Works.
-
-
-  5. NO WARRANTY.
-
-
-  6. LIMITATION OF LIABILITY.
-
-
-  7. Trademarks.
-
-
-  8. Versions of the License.
-
-
-  9. Termination.
-
-
-  10. Waiver; Severability; Governing Law.
-
-
-  EXHIBIT A
-
-
-  The proper form for an incorporation of this License by reference is as
-  follows:
-
-
-  "Copyright (c) [year] by [Copyright Holder's name]. This material has been
-  released under and is subject to the terms of the Common Documentation
-  License, v.1.0, the terms of which are hereby incorporated by reference.
-  Please obtain a copy of the License at http://www.opensource.apple.com/cdl/
-  and read it before using this material. Your use of this material signifies
-  your agreement to the terms of the License."
+  EXHIBIT A The proper form for an incorporation of this License by reference is
+  as follows: "Copyright (c) [year] by [Copyright Holder's name]. This material
+  has been released under and is subject to the terms of the Common
+  Documentation License, v.1.0, the terms of which are hereby incorporated by
+  reference. Please obtain a copy of the License at
+  http://www.opensource.apple.com/cdl/ and read it before using this material.
+  Your use of this material signifies your agreement to the terms of the
+  License."
 type: source-available

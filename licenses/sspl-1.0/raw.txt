@@ -2,46 +2,10 @@ Server Side Public License
 
 VERSION 1, OCTOBER 16, 2018
 
-Copyright &#169; 2018 MongoDB, Inc.
+Copyright © 2018 MongoDB, Inc.
 
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
 TERMS AND CONDITIONS
-
-0. Definitions.
-
-1. Source Code.
-
-2. Basic Permissions.
-
-3. Protecting Users' Legal Rights From Anti-Circumvention Law.
-
-4. Conveying Verbatim Copies.
-
-5. Conveying Modified Source Versions.
-
-6. Conveying Non-Source Forms.
-
-7. Additional Terms.
-
-8. Termination.
-
-9. Acceptance Not Required for Having Copies.
-
-10. Automatic Licensing of Downstream Recipients.
-
-11. Patents.
-
-12. No Surrender of Others' Freedom.
-
-13. Offering the Program as a Service.
-
-14. Revised Versions of this License.
-
-15. Disclaimer of Warranty.
-
-16. Limitation of Liability.
-
-17. Interpretation of Sections 15 and 16.
 
 END OF TERMS AND CONDITIONS

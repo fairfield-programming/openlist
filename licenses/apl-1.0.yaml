@@ -7,83 +7,28 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  ADAPTIVE PUBLIC LICENSEVersion 1.0
-
-
   THE LICENSED WORK IS PROVIDED UNDER THE TERMS OF THIS ADAPTIVE PUBLIC LICENSE
-  ("LICENSE"). ANY USE,
-
-  REPRODUCTION OR DISTRIBUTION OF THE LICENSED WORK CONSTITUTES RECIPIENT'S
-  ACCEPTANCE OF THIS LICENSE
-
-  AND ITS TERMS, WHETHER OR NOT SUCH RECIPIENT READS THE TERMS OF THIS LICENSE.
-  "LICENSED WORK" AND
-
+  ("LICENSE"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE LICENSED WORK
+  CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS LICENSE AND ITS TERMS, WHETHER OR
+  NOT SUCH RECIPIENT READS THE TERMS OF THIS LICENSE. "LICENSED WORK" AND
   "RECIPIENT" ARE DEFINED BELOW.
 
 
   IMPORTANT NOTE: This License is "adaptive", and the generic version or another
-  version of an Adaptive
-
-  Public License should not be relied upon to determine your rights and
-  obligations under this License.
-
-  You must read the specific Adaptive Public License that you receive with the
-  Licensed Work, as certain
-
+  version of an Adaptive Public License should not be relied upon to determine
+  your rights and obligations under this License. You must read the specific
+  Adaptive Public License that you receive with the Licensed Work, as certain
   terms are defined at the outset by the Initial Contributor.
 
 
   See Section 2.2 below, Exhibit A attached, and any Suppfile.txt accompanying
-  this License to determine
-
-  the specific adaptive features applicable to this License. For example,
-  without limiting the
-
-  foregoing, (a) for selected choice of law and jurisdiction see Part 3 of
-  Exhibit A; (b) for the
-
-  selected definition of Third Party see Part 4 of Exhibit A; and (c) for
-  selected patent licensing
-
-  terms (if any) see Section 2.2 below and Part 6 of Exhibit A.
-
-
-  1. DEFINITIONS.
-
-
-  2. LICENSE.
-
-
-  3. DISTRIBUTION OBLIGATIONS.
-
-
-  4. COMMERCIAL USE AND INDEMNITY.
-
-
-  5. VERSIONS OF THE LICENSE.
-
-
-  6. DISCLAIMER OF WARRANTY.
-
-
-  7. TERMINATION.
-
-
-  8. LIMITATION OF LIABILITY.
-
-
-  9. GOVERNING LAW AND LEGAL ACTION.
-
-
-  10. MISCELLANEOUS.
+  this License to determine the specific adaptive features applicable to this
+  License. For example, without limiting the foregoing, (a) for selected choice
+  of law and jurisdiction see Part 3 of Exhibit A; (b) for the selected
+  definition of Third Party see Part 4 of Exhibit A; and (c) for selected patent
+  licensing terms (if any) see Section 2.2 below and Part 6 of Exhibit A.
 
 
   //***THE LICENSE TERMS END HERE (OTHER THAN AS SET OUT IN EXHIBIT A).***//
-
-
-  EXHIBIT A (to the Adaptive Public License)
-
-
-  //***EXHIBIT A ENDS HERE.***//
-type: open-source
+  EXHIBIT A (to the Adaptive Public License) //***EXHIBIT A ENDS HERE.***//
+type: source-available

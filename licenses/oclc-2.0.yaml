@@ -7,63 +7,41 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  OCLC Research Public License 2.0Terms & Conditions Of UseMay, 2002
-
-
   Copyright © 2002. OCLC Online Computer Library Center, Inc. All Rights
   Reserved
 
 
   PLEASE READ THIS DOCUMENT CAREFULLY. BY DOWNLOADING OR USING THE CODE BASE
-  AND/OR DOCUMENTATION ACCOMPANYING
-
-  THIS LICENSE (THE "License"), YOU AGREE TO THE FOLLOWING TERMS AND CONDITIONS
-  OF THIS LICENSE.
+  AND/OR DOCUMENTATION ACCOMPANYING THIS LICENSE (THE "License"), YOU AGREE TO
+  THE FOLLOWING TERMS AND CONDITIONS OF THIS LICENSE.
 
 
   Section 1. Your Rights
 
 
   Subject to these terms and conditions of this License, the OCLC Office of
-  Research (the "Original
-
-  Contributor") and each subsequent contributor (collectively with the Original
-  Contributor, the
-
-  "Contributors") hereby grant you a non-exclusive, worldwide, no-charge,
-  transferable license to execute,
-
+  Research (the "Original Contributor") and each subsequent contributor
+  (collectively with the Original Contributor, the "Contributors") hereby grant
+  you a non-exclusive, worldwide, no-charge, transferable license to execute,
   prepare derivative works of, and distribute (internally and externally), for
-  commercial and noncommercial
-
-  purposes, the original code contributed by Original Contributor and all
-  Modifications (collectively called
-
-  the "Program").
+  commercial and noncommercial purposes, the original code contributed by
+  Original Contributor and all Modifications (collectively called the
+  "Program").
 
 
   Section 2. Definitions
 
 
   A "Modification" to the Program is any addition to or deletion from the
-  contents of any file of the Program
-
-  and any new file that contains any part of the Program. If you make a
-  Modification and distribute the
-
-  Program externally you are a "Contributor." The distribution of the Program
-  must be under the terms of
-
-  this license including those in Section 3 below.
+  contents of any file of the Program and any new file that contains any part of
+  the Program. If you make a Modification and distribute the Program externally
+  you are a "Contributor." The distribution of the Program must be under the
+  terms of this license including those in Section 3 below.
 
 
   A "Combined Work" results from combining and integrating all or parts of the
-  Program with other code. A
-
-  Combined Work may be thought of as having multiple parents or being result of
-  multiple lines of code
-
-  development.
+  Program with other code. A Combined Work may be thought of as having multiple
+  parents or being result of multiple lines of code development.
 
 
   Section 3. Distribution Licensing Terms
@@ -73,156 +51,76 @@ body: >-
 
 
   This non-exclusive license (with respect to the grant from a particular
-  Contributor) automatically terminates
-
-  for any entity that initiates legal action for intellectual property
-  infringement (with respect to the
-
-  Program) against such Contributor as of the initiation of such action.
+  Contributor) automatically terminates for any entity that initiates legal
+  action for intellectual property infringement (with respect to the Program)
+  against such Contributor as of the initiation of such action.
 
 
   If you fail to comply with this License, your rights (but not your
-  obligations) under this License shall
-
-  terminate automatically unless you cure such breach within thirty (30) days of
-  becoming aware of the
-
-  noncompliance. All sublicenses granted by you which preexist such termination
-  and are properly granted
-
-  shall survive such termination.
+  obligations) under this License shall terminate automatically unless you cure
+  such breach within thirty (30) days of becoming aware of the noncompliance.
+  All sublicenses granted by you which preexist such termination and are
+  properly granted shall survive such termination.
 
 
   Section 6. Other Terms
 
 
   Except for the copyright notices required above, you may not use any trademark
-  of any of the Contributors
-
-  without the prior written consent of the relevant Contributor. You agree not
-  to remove, alter or obscure
-
-  any copyright or other proprietary rights notice contained in the Program.
+  of any of the Contributors without the prior written consent of the relevant
+  Contributor. You agree not to remove, alter or obscure any copyright or other
+  proprietary rights notice contained in the Program.
 
 
   All transfers of the Program or any part thereof shall be made in compliance
-  with U.S. import/export
-
-  regulations or other restrictions of the U.S. Department of Commerce, as well
-  as other similar trade or
-
-  commerce restrictions which might apply.
+  with U.S. import/export regulations or other restrictions of the U.S.
+  Department of Commerce, as well as other similar trade or commerce
+  restrictions which might apply.
 
 
   Any patent obtained by any party covering the Program or any part thereof must
-  include a provision providing
-
-  for the free, perpetual and unrestricted commercial and noncommercial use by
-  any third party.
+  include a provision providing for the free, perpetual and unrestricted
+  commercial and noncommercial use by any third party.
 
 
   If, as a consequence of a court judgment or settlement relating to
-  intellectual property infringement or any
-
-  other cause of action, conditions are imposed on you that contradict the
-  conditions of this License, such
-
+  intellectual property infringement or any other cause of action, conditions
+  are imposed on you that contradict the conditions of this License, such
   conditions do not excuse you from compliance with this License. If you cannot
-  distribute the Program so as
-
-  to simultaneously satisfy your obligations under this License and such other
-  conditions, you may not
-
-  distribute the Program at all. For example, if a patent license would not
-  permit royalty-free
-
+  distribute the Program so as to simultaneously satisfy your obligations under
+  this License and such other conditions, you may not distribute the Program at
+  all. For example, if a patent license would not permit royalty-free
   redistribution of the Program by all those who receive copies directly or
-  indirectly through you, you
-
-  could not satisfy both the patent license and this License, and you would be
-  required to refrain entirely
-
-  from distribution of the Program.
+  indirectly through you, you could not satisfy both the patent license and this
+  License, and you would be required to refrain entirely from distribution of
+  the Program.
 
 
   If you learn of a third party claim or other restriction relating to a Program
-  you have already distributed
-
-  you shall promptly redo your Program to address the issue and take all
-  reasonable steps to inform those
-
-  who may have received the Program at issue. An example of an appropriate
-  reasonable step to inform would
-
-  be posting an announcement on an appropriate web bulletin board.
+  you have already distributed you shall promptly redo your Program to address
+  the issue and take all reasonable steps to inform those who may have received
+  the Program at issue. An example of an appropriate reasonable step to inform
+  would be posting an announcement on an appropriate web bulletin board.
 
 
   The provisions of this License are deemed to be severable, and the invalidity
-  or unenforceability of any
-
-  provision shall not affect or impair the remaining provisions which shall
-  continue in full force and
-
-  effect. In substitution for any provision held unlawful, there shall be
-  substituted a provision of similar
-
+  or unenforceability of any provision shall not affect or impair the remaining
+  provisions which shall continue in full force and effect. In substitution for
+  any provision held unlawful, there shall be substituted a provision of similar
   import reflecting the original intent of the parties hereto to the extent
   permissible under law.
 
 
   The Original Contributor from time to time may change this License, and the
-  amended license will apply to all
-
-  copies of the Program downloaded after the new license is posted. This License
-  grants only the rights
-
-  expressly stated herein and provides you with no implied rights or licenses to
-  the intellectual property
-
-  of any Contributor.
+  amended license will apply to all copies of the Program downloaded after the
+  new license is posted. This License grants only the rights expressly stated
+  herein and provides you with no implied rights or licenses to the intellectual
+  property of any Contributor.
 
 
   This License is the complete and exclusive statement of the agreement between
-  the parties concerning the
-
-  subject matter hereof and may not be amended except by the written agreement
-  of the parties. This License
-
-  shall be governed by and construed in accordance with the laws of the State of
-  Ohio and the United States
-
-  of America, without regard to principles of conflicts of law.
-
-
-  A. General RequirementsExcept as necessary to recognize third-party rights or
-  third-party restriction (see below), a
-
-  distribution of the Program in any of the forms listed below must not put any
-  further
-
-  restrictions on the recipient’s exercise of the rights granted herein.
-
-
-  B. Requirements for a Distribution of Modifiable CodeIf you distribute the
-  Program in a form to which the recipient can make Modifications (e.g.
-
-  source code), the terms of this license apply to use by recipient. In
-  addition, each
-
-  source and data file of the Program and any Modification you distribute must
-  contain the
-
-  following notice:
-
-
-  C. Requirements for a Distribution of Non-modifiable CodeIf you distribute the
-  Program in a form to which the recipient cannot make Modifications (e.g.
-
-  object code), the terms of this license apply to use by recipient and you must
-  include the
-
-  following statement in appropriate and conspicuous locations:
-
-
-  D. Requirements for a Combined Work Distribution
-type: open-source
+  the parties concerning the subject matter hereof and may not be amended except
+  by the written agreement of the parties. This License shall be governed by and
+  construed in accordance with the laws of the State of Ohio and the United
+  States of America, without regard to principles of conflicts of law.
+type: source-available

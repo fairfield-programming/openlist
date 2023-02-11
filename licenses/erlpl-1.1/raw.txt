@@ -1,42 +1,7 @@
-ERLANG PUBLIC LICENSE Version 1.1
-
-1. Definitions.
-
-2. Source Code License.
-
-3. Distribution Obligations.
-
-4. Inability to Comply Due to Statute or Regulation. If it is impossible for You to comply with any
-of the terms of this License with respect to some or all of the Covered Code due to statute or
-regulation then You must: (a) comply with the terms of this License to the maximum extent
-possible; and (b) describe the limitations and the code they affect. Such description must be
-included in the LEGAL file described in Section 3.4 and must be included with all
-distributions of the Source Code. Except to the extent prohibited by statute or regulation,
-such description must be sufficiently detailed for a recipient of ordinary skill to be able to
-understand it.
-
-5. Application of this License.
-
-6. CONNECTION TO MOZILLA PUBLIC LICENSE
-
-7. DISCLAIMER OF WARRANTY.
-
-8. TERMINATION.
-
-9. DISCLAIMER OF LIABILITY
-
-10. MISCELLANEOUS
-
 EXHIBIT A.
 
-``The contents of this file are subject to the Erlang Public License, Version 1.1, (the
-"License"); you may not use this file except in compliance with the License. You should have
-received a copy of the Erlang Public License along with this software. If not, it can be retrieved via
-the world wide web at http://www.erlang.org/.
+``The contents of this file are subject to the Erlang Public License, Version 1.1, (the "License"); you may not use this file except in compliance with the License. You should have received a copy of the Erlang Public License along with this software. If not, it can be retrieved via the world wide web at http://www.erlang.org/.
 
-Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF
-ANY KIND, either express or implied. See the License for the specific language governing rights and
-limitations under the License.
+Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for the specific language governing rights and limitations under the License.
 
-The Initial Developer of the Original Code is Ericsson Utvecklings AB. Portions created by Ericsson are
-Copyright 1999, Ericsson Utvecklings AB. All Rights Reserved.''
+The Initial Developer of the Original Code is Ericsson Utvecklings AB. Portions created by Ericsson are Copyright 1999, Ericsson Utvecklings AB. All Rights Reserved.''

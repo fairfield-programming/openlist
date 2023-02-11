@@ -1,84 +1,11 @@
-The Code Project Open License (CPOL) 1.02
-
 Preamble
 
-This License governs Your use of the Work. This License is intended to allow developers to use the Source
-Code and Executable Files provided as part of the Work in any application in any form.The main points subject to the terms of the License are:
+This License governs Your use of the Work. This License is intended to allow developers to use the Source Code and Executable Files provided as part of the Work in any application in any form. The main points subject to the terms of the License are:
 
-This License is entered between You, the individual or other entity reading or otherwise making use of
-the Work licensed pursuant to this License and the individual or other entity which offers the Work
-under the terms of this License ("Author").
+This License is entered between You, the individual or other entity reading or otherwise making use of the Work licensed pursuant to this License and the individual or other entity which offers the Work under the terms of this License ("Author").
 
 License
 
-THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CODE PROJECT OPEN LICENSE
-("LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE
-WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
+THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CODE PROJECT OPEN LICENSE ("LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
 
-BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HEREIN, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF
-THIS LICENSE. THE AUTHOR GRANTS YOU THE RIGHTS CONTAINED HEREIN IN CONSIDERATION OF YOUR ACCEPTANCE OF
-SUCH TERMS AND CONDITIONS. IF YOU DO NOT AGREE TO ACCEPT AND BE BOUND BY THE TERMS OF THIS LICENSE,
-YOU CANNOT MAKE ANY USE OF THE WORK.
-
-- Source Code and Executable Files can be used in commercial applications;
-
-- Source Code and Executable Files can be redistributed; and
-
-- Source Code can be modified to create derivative works.
-
-- No claim of suitability, guarantee, or any warranty whatsoever is provided. The software is
-provided "as-is".
-
-- The Article accompanying the Work may not be distributed or republished without the Author's
-consent
-
-1. Definitions.
-
-2. Fair Use/Fair Use Rights. Nothing in this License is intended to reduce, limit, or restrict any
-rights arising from fair use, fair dealing, first sale or other limitations on the exclusive
-rights of the copyright owner under copyright law or other applicable laws.
-
-3. License Grant. Subject to the terms and conditions of this License, the Author hereby grants You
-a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable
-copyright) license to exercise the rights in the Work as stated below:
-
-4. Patent License. Subject to the terms and conditions of this License, each Author hereby grants to
-You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as
-stated in this section) patent license to make, have made, use, import, and otherwise transfer
-the Work.
-
-5. Restrictions. The license granted in Section 3 above is expressly made subject to and limited by
-the following restrictions:
-
-6. Representations, Warranties and Disclaimer. THIS WORK IS PROVIDED "AS IS", "WHERE
-IS" AND "AS AVAILABLE", WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES OR CONDITIONS
-OR GUARANTEES. YOU, THE USER, ASSUME ALL RISK IN ITS USE, INCLUDING COPYRIGHT INFRINGEMENT,
-PATENT INFRINGEMENT, SUITABILITY, ETC. AUTHOR EXPRESSLY DISCLAIMS ALL EXPRESS, IMPLIED OR
-STATUTORY WARRANTIES OR CONDITIONS, INCLUDING WITHOUT LIMITATION, WARRANTIES OR CONDITIONS OF
-MERCHANTABILITY, MERCHANTABLE QUALITY OR FITNESS FOR A PARTICULAR PURPOSE, OR ANY WARRANTY OF
-TITLE OR NON-INFRINGEMENT, OR THAT THE WORK (OR ANY PORTION THEREOF) IS CORRECT, USEFUL,
-BUG-FREE OR FREE OF VIRUSES. YOU MUST PASS THIS DISCLAIMER ON WHENEVER YOU DISTRIBUTE THE WORK
-OR DERIVATIVE WORKS.
-
-7. Indemnity. You agree to defend, indemnify and hold harmless the Author and the Publisher from and
-against any claims, suits, losses, damages, liabilities, costs, and expenses (including
-reasonable legal or attorneys' fees) resulting from or relating to any use of the Work by
-You.
-
-8. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL THE
-AUTHOR OR THE PUBLISHER BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL,
-CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE
-WORK OR OTHERWISE, EVEN IF THE AUTHOR OR THE PUBLISHER HAS BEEN ADVISED OF THE POSSIBILITY OF
-SUCH DAMAGES.
-
-9. Termination.
-
-10. Publisher. The parties hereby confirm that the Publisher shall not, under any circumstances, be
-responsible for and shall not have any liability in respect of the subject matter of this
-License. The Publisher makes no warranty whatsoever in connection with the Work and shall not
-be liable to You or any party on any legal theory for any damages whatsoever, including
-without limitation any general, special, incidental or consequential damages arising in
-connection to this license. The Publisher reserves the right to cease making the Work
-available to You at any time without notice
-
-11. Miscellaneous
+BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HEREIN, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. THE AUTHOR GRANTS YOU THE RIGHTS CONTAINED HEREIN IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS. IF YOU DO NOT AGREE TO ACCEPT AND BE BOUND BY THE TERMS OF THIS LICENSE, YOU CANNOT MAKE ANY USE OF THE WORK.
