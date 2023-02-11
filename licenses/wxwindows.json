@@ -7,6 +7,6 @@
     "permissions": [],
     "conditions": [],
     "limitations": [],
-    "body": "EXCEPTION NOTICE\n\n1. As a special exception, the copyright holders of this\nlibrary give permission for additional uses of the\ntext contained in this release of the library as\nlicenced under the wxWindows Library Licence, applying\neither version 3.1 of the Licence, or (at your option)\nany later version of the Licence as published by the\ncopyright holders of version 3.1 of the Licence\ndocument.\n\n2. The exception is that you may use, copy, link, modify and\ndistribute under your own terms, binary object code\nversions of works based on the Library.\n\n3. If you copy code from files distributed under the terms\nof the GNU General Public Licence or the GNU Library\nGeneral Public Licence into a copy of this library, as\nthis licence permits, the exception does not apply to\nthe code that you add in this way. To avoid misleading\nanyone as to the status of such modified files, you\nmust delete this exception notice from such code\nand/or adjust the licensing conditions notice\naccordingly.\n\n4. If you write modifications of your own for this library,\nit is your choice whether to permit this exception to\napply to your modifications. If you do not wish that,\nyou must delete the exception notice from such code\nand/or adjust the licensing conditions notice\naccordingly.",
-    "type": "open-source"
+    "body": "EXCEPTION NOTICE",
+    "type": "source-available"
 }

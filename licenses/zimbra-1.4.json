@@ -7,6 +7,6 @@
     "permissions": [],
     "conditions": [],
     "limitations": [],
-    "body": "Zimbra Public License, Version 1.4 (ZPL)\n\nThis Zimbra Public License (this “Agreement”) is a legal agreement that describes the terms under which\nZimbra, Inc., a Texas corporation (“Zimbra”) will provide software to you via download or otherwise\n(“Software”). By using the Software, you, an individual or an entity (“You”) agree to the terms of\nthis Agreement.\n\nIn consideration of the mutual promises and upon the terms and conditions set forth below, the parties\nagree as follows:\n\n1. Grant of Copyright License\n\n2. Support\n\n3. Intellectual Property Rights\n\n4. Disclaimer of Warranties\n\n5. Limitation of Liability\n\n6. Term and Termination\n\n7. Miscellaneous",
+    "body": "This Zimbra Public License (this “Agreement”) is a legal agreement that describes the terms under which Zimbra, Inc., a Texas corporation (“Zimbra”) will provide software to you via download or otherwise (“Software”). By using the Software, you, an individual or an entity (“You”) agree to the terms of this Agreement.\n\nIn consideration of the mutual promises and upon the terms and conditions set forth below, the parties agree as follows:",
     "type": "source-available"
 }

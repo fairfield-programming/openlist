@@ -1,5 +1,8 @@
 # [![Open List](https://raw.githubusercontent.com/fairfield-programming/openlist/master/.github/cover.svg)](https://github.com/fairfield-programming/openlist)
 
+![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade/fairfield-programming.github.io?publish)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.io)
+
 The definitive license list for the open-source world.
 
 ## Public API

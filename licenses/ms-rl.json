@@ -7,6 +7,6 @@
     "permissions": [],
     "conditions": [],
     "limitations": [],
-    "body": "Microsoft Reciprocal License (Ms-RL)\n\nThis license governs use of the accompanying software. If you use the software, you accept this license.\nIf you do not accept the license, do not use the software.\n\n1. DefinitionsThe terms \"reproduce,\" \"reproduction,\" \"derivative works,\"\nand \"distribution\" have the same meaning here as under U.S. copyright law.\n\n2. Grant of Rights\n\n3. Conditions and Limitations",
-    "type": "open-source"
+    "body": "This license governs use of the accompanying software. If you use the software, you accept this license. If you do not accept the license, do not use the software.",
+    "type": "source-available"
 }
