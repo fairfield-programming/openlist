@@ -76,7 +76,20 @@ function createLicensesEndpoint() {
 
 }
 
+function createDownloadEndpoint() {
+
+    const licensesPath = path.join(process.cwd(), 'public', 'licenses')
+    const downloadPath = path.join(process.cwd(), 'public', 'licenses', 'download');
+    
+    fs.mkdirSync(downloadPath);
+    fs.writeFileSync(path.join(downloadPath, 'index.json'), JSON.stringify(licensesData));
+    fs.writeFileSync(path.join(licensesPath, 'download.json'), JSON.stringify(licensesData));
+    fs.writeFileSync(path.join(licensesPath, 'download.yaml'), yaml.dump(licensesData));
+    
+}
+
 setupEndpoints();
 readLicensesData();
 createLicensesEndpoint();
 createLicenseEndpoints();
+createDownloadEndpoint();
