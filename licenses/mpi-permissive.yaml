@@ -14,7 +14,7 @@ body: >-
   to redistribute to others. DISCLAIMER Neither
 
 
-  <Etnus>
+  <-<Etnus>->
 
 
   , nor any of their employees, makes any warranty express or implied, or
@@ -24,5 +24,5 @@ body: >-
   was written by
 
 
-  <James Cownie: Etnus, LLC. <jcownie@etnus.com>>
+  <-<James Cownie: Etnus, LLC. <jcownie@etnus.com>>->
 type: source-available

@@ -7,7 +7,7 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  ?COPYRIGHT NOTICE?
+  ?-?COPYRIGHT NOTICE?-?
 
 
   These patterns and the generating sh script are Copyright (c) GMV 1991
@@ -37,5 +37,5 @@ body: >-
   problems to tex@gmv.es.
 
 
-  ?END OF COPYRIGHT NOTICE?
+  ?-?END OF COPYRIGHT NOTICE?-?
 type: source-available

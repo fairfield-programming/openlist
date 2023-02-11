@@ -93,6 +93,15 @@ body: >-
   following restrictions:
 
 
+  1. The origin of this source code must not be misrepresented.
+
+  2. Altered versions must be plainly marked as such and must not be
+  misrepresented as being the original source.
+
+  3. This Copyright notice may not be removed or altered from any source or
+  altered source distribution.
+
+
   The Contributing Authors and Group 42, Inc. specifically permit, without fee,
   and encourage the use of this source code as a component to supporting the PNG
   file format in commercial products. If you use this source code in a product,

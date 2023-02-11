@@ -19,6 +19,18 @@ body: >-
   following if it is supplied within the Rules:
 
 
+  1. identification of the authors(s) ("author" field) of the Rule and any
+  others designated to receive attribution, in any reasonable manner requested
+  by the Rule author (including by pseudonym if designated).
+
+  2. a URI or hyperlink to the Rule set or explicit Rule to the extent
+  reasonably practicable
+
+  3. indicate the Rules are licensed under this Detection Rule License, and
+  include the text of, or the URI or hyperlink to, this Detection Rule License
+  to the extent reasonably practicable
+
+
   THE RULES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE

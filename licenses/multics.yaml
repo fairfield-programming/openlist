@@ -7,7 +7,7 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  ?Historical Background This edition of the Multics software materials and
+  ?-?Historical Background This edition of the Multics software materials and
   documentation is provided and donated to Massachusetts Institute of Technology
   by Group BULL including BULL HN Information Systems Inc. as a contribution to
   computer science knowledge. This donation is made also to give evidence of the
@@ -23,13 +23,13 @@ body: >-
   incorporated Multics principles. Multics was distributed in 1975 to 2000 by
   Group Bull in Europe, and in the U.S. by Bull HN Information Systems Inc., as
   successor in interest by change in name only to Honeywell Bull Inc. and
-  Honeywell Information Systems Inc.?
+  Honeywell Information Systems Inc.?-?
 
 
-  ?.?
+  ?-?.?-?
 
 
-  <----------------------------------------------------------->
+  <-<----------------------------------------------------------->->
 
 
   Permission to use, copy, modify, and distribute these programs and their

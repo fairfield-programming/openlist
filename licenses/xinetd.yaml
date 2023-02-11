@@ -7,7 +7,7 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  ?ORIGINAL LICENSE: This software is?
+  ?-?ORIGINAL LICENSE: This software is?-?
 
 
   (c) Copyright 1992 by Panagiotis Tsirigotis
@@ -23,6 +23,18 @@ body: >-
   Modifications to this software may be distributed, either by distributing the
   modified software or by distributing patches to the original software, under
   the following additional terms:
+
+
+  1. The version number will be modified as follows: a. The first 3 components
+  of the version number (i.e <number>.<number>.<number>) will remain unchanged.
+
+  b. A new component will be appended to the version number to indicate the
+  modification level. The form of this component is up to the author of the
+  modifications.
+
+  2. The author of the modifications will include his/her name by appending it
+  along with the new version number to this file and will be responsible for any
+  wrong behavior of the modified software.
 
 
   The author makes no representations about the suitability of this software for

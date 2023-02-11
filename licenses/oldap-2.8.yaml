@@ -12,6 +12,17 @@ body: >-
   following conditions are met:
 
 
+  1. Redistributions in source form must retain copyright statements and
+  notices,
+
+  2. Redistributions in binary form must reproduce applicable copyright
+  statements and notices, this list of conditions, and the following disclaimer
+  in the documentation and/or other materials provided with the distribution,
+  and
+
+  3. Redistributions must contain a verbatim copy of this document.
+
+
   The OpenLDAP Foundation may revise this license from time to time. Each
   revision is distinguished by a version number. You may use this Software under
   terms of this license revision or under the terms of any subsequent revision
