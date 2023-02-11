@@ -7,6 +7,6 @@
     "permissions": [],
     "conditions": [],
     "limitations": [],
-    "body": "The following license terms and conditions apply, unless a redistribution agreement or other license is obtained from Sendmail, Inc., 6475 Christie Ave, Third Floor, Emeryville, CA 94608, USA, or by electronic mail at license@sendmail.com. License Terms:\n\nUse, Modification and Redistribution (including distribution of any modified or derived work) in source and binary forms is permitted only if each of the following conditions is met:\n\n$Revision: 8.16 $, Last updated $Date: 2010/10/25 23:11:19 $, Document 139848.1",
+    "body": "?The following license terms and conditions apply, unless a redistribution agreement or other license is obtained from Sendmail, Inc., 6475 Christie Ave, Third Floor, Emeryville, CA 94608, USA, or by electronic mail at license@sendmail.com. License Terms:?\n\nUse, Modification and Redistribution (including distribution of any modified or derived work) in source and binary forms is permitted only if each of the following conditions is met:\n\n?$Revision: 8.16 $, Last updated $Date: 2010/10/25 23:11:19 $, Document 139848.1?",
     "type": "source-available"
 }

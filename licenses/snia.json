@@ -7,6 +7,6 @@
     "permissions": [],
     "conditions": [],
     "limitations": [],
-    "body": "EXHIBIT A The SNIA Public License. The contents of this file are subject to the SNIA Public License Version 1.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at www.snia.org/smi/developers/cim/ Software distributed under the License is distributed on an \"AS IS\" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for the specific language governing rights and limitations under the License. The Original Code is . The Initial Developer of the Original Code is [COMPLETE THIS] . Contributor(s): ______________________________________. Read more about this license at http://www.snia.org/smi/developers/open_source/",
+    "body": "?EXHIBIT A The SNIA Public License. The contents of this file are subject to the SNIA Public License Version 1.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at www.snia.org/smi/developers/cim/ Software distributed under the License is distributed on an \"AS IS\" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for the specific language governing rights and limitations under the License. The Original Code is . The Initial Developer of the Original Code is [COMPLETE THIS] . Contributor(s): ______________________________________. Read more about this license at http://www.snia.org/smi/developers/open_source/?",
     "type": "source-available"
 }
