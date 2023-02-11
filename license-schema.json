@@ -1,0 +1,97 @@
+{
+    "$id": "https://github.com/fairfield-programming/openlist/blob/main/license-schema.json",
+    "$schema": "http://json-schema.org/schema",
+    "title": "FPA License Schema",
+    "description": "A featured and verbose schema for describing open-source, source-available, and commercial licenses.",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "string",
+            "title": "FPA License Identifier"
+        },
+        "name": {
+            "type": "string",
+            "title": "License Name or Title"
+        },
+        "creator": {
+            "type": [
+                "string",
+                "array"
+            ],
+            "title": "The Author, Creator, Editor, or Publisher of the License"
+        },
+        "since": {
+            "type": [
+                "null",
+                "string",
+                "integer"
+            ],
+            "title": "Release Date of the License"
+        },
+        "description": {
+            "type": "string",
+            "title": "Description of the Usage and History of the License"
+        },
+        "permissions": {
+            "type": "array",
+            "items": {
+                "type": "string",
+                "enum": [
+                    "commercial-use",
+                    "distribution",
+                    "modification",
+                    "private-use",
+                    "patent-use"
+                ]
+            },
+            "title": "License Permissions"
+        },
+        "conditions": {
+            "type": "array",
+            "items": {
+                "type": "string",
+                "enum": [
+                    "license-notice",
+                    "copyright-notice",
+                    "state-changes",
+                    "disclose-source",
+                    "same-license-library",
+                    "same-license-file",
+                    "same-license",
+                    "network-use-is-distribution"
+                ]
+            },
+            "title": "License Conditions"
+        },
+        "limitations": {
+            "type": "array",
+            "items": {
+                "type": "string",
+                "enum": [
+                    "liability",
+                    "warranty",
+                    "trademark-usage"
+                ]
+            },
+            "title": "License Limitations"
+        },
+        "body": {
+            "type": [
+                "string",
+                "array"
+            ],
+            "minLength": 4,
+            "maxLength": 1000000,
+            "title": "License Body"
+        },
+        "type": {
+            "type": "string",
+            "enum": [
+                "open-source",
+                "source-available",
+                "commercial"
+            ],
+            "title": "License Type"
+        }
+    }
+}
