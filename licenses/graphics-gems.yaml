@@ -7,8 +7,9 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  LICENSE This code repository predates the concept of Open Source, and predates
-  most licenses along such lines. As such, the official license truly is:
+  ?LICENSE This code repository predates the concept of Open Source, and
+  predates most licenses along such lines. As such, the official license truly
+  is:?
 
 
   EULA: The Graphics Gems code is copyright-protected. In other words, you

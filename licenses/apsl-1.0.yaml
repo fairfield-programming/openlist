@@ -7,13 +7,13 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  Please read this License carefully before downloading this software. By
+  ?Please read this License carefully before downloading this software. By
   downloading and using this software, you are agreeing to be bound by the terms
   of this License. If you do not or cannot agree to the terms of this License,
-  please do not download or use the software.
+  please do not download or use the software.?
 
 
-  EXHIBIT A. "Portions Copyright (c) 1999 Apple Computer, Inc. All Rights
+  ?EXHIBIT A. "Portions Copyright (c) 1999 Apple Computer, Inc. All Rights
   Reserved. This file contains Original Code and/or Modifications of Original
   Code as defined in and that are subject to the Apple Public Source License
   Version 1.0 (the 'License'). You may not use this file except in compliance
@@ -24,5 +24,5 @@ body: >-
   AND APPLE HEREBY DISCLAIMS ALL SUCH WARRANTIES, INCLUDING WITHOUT LIMITATION,
   ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR
   NON-INFRINGEMENT. Please see the License for the specific language governing
-  rights and limitations under the License."
+  rights and limitations under the License."?
 type: source-available

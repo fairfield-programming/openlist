@@ -10,7 +10,7 @@ body: >-
   Copyright (C) 2001-2002 Technical Pursuit Inc., All Rights Reserved.
 
 
-  PREAMBLE This Preamble is intended to describe, in plain English, the nature,
+  ?PREAMBLE This Preamble is intended to describe, in plain English, the nature,
   intent, and scope of this License. However, this Preamble is not a part of
   this License. The legal effect of this License is dependent only upon the
   terms of the License and not this Preamble. This License is based on the
@@ -23,13 +23,13 @@ body: >-
   terms of this License. In this fashion the available Source Code related to
   the original Licensed Software is enlarged for the benefit of everyone. Under
   the terms of this License You may: Under the terms of this License You may
-  not: Under the terms of this License You must:
+  not: Under the terms of this License You must:?
 
 
   LICENSE TERMS
 
 
-  EXHIBIT A The Notice below must appear in each file of the Source Code of any
+  ?EXHIBIT A The Notice below must appear in each file of the Source Code of any
   copy You distribute of the Licensed Software or any Extensions thereto, except
   as may be modified as allowed under the terms of Section 7.1 Copyright (C)
   1999-2002 Technical Pursuit Inc., All Rights Reserved. Patent Pending,
@@ -46,5 +46,5 @@ body: >-
   WARRANTIES, INCLUDING WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY,
   FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT, OR NON-INFRINGEMENT. See
   the Licenses for specific language governing rights and limitations under the
-  Licenses.
+  Licenses.?
 type: source-available

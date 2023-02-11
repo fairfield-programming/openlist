@@ -28,11 +28,11 @@ body: >-
   POSSIBILITY OF SUCH DAMAGE.
 
 
-  Julian Seward, jseward@bzip.org bzip2/libbzip2 version 1.0.6 of 6 September
-  2010
+  ?Julian Seward, jseward@bzip.org bzip2/libbzip2 version <1.0.6> of <6
+  September 2010>?
 
 
-  PATENTS: To the best of my knowledge, bzip2 and libbzip2 do not use any
+  ?PATENTS: To the best of my knowledge, bzip2 and libbzip2 do not use any
   patented algorithms. However, I do not have the resources to carry out a
-  patent search. Therefore I cannot give any guarantee of the above statement.
+  patent search. Therefore I cannot give any guarantee of the above statement.?
 type: source-available

@@ -7,7 +7,7 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  Preamble -------- The Berkeley Software Distribution ("BSD") license has
+  ?Preamble -------- The Berkeley Software Distribution ("BSD") license has
   proven very effective over the years at allowing for a wide spread of work
   throughout both commercial and non-commercial products. For programmers whose
   primary intention is to improve the general quality of available software, it
@@ -36,14 +36,14 @@ body: >-
   freedom granted by the BSD license to use licensed works in a wide variety of
   settings, both non-commercial and commercial, while protecting the work from
   having future contributors restrict that freedom. The precise terms and
-  conditions for copying, distribution, and modification follow.
+  conditions for copying, distribution, and modification follow.?
 
 
   BSD PROTECTION LICENSE TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION, AND
   MODIFICATION
 
 
-  ----------------------------------------------------------------
+  ?----------------------------------------------------------------?
 
 
   THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,

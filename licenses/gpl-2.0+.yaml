@@ -8,7 +8,7 @@ conditions: []
 limitations: []
 body: >-
   Copyright (C) 1989, 1991 Free Software Foundation, Inc. 51 Franklin Street,
-  Fifth Floor, Boston, MA 02110-1301 , USA
+  Fifth Floor, Boston, MA 02110-1301 ?,? USA
 
 
   Everyone is permitted to copy and distribute verbatim copies of this license
@@ -74,7 +74,7 @@ body: >-
   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
 
-  END OF TERMS AND CONDITIONS How to Apply These Terms to Your New Programs If
+  ?END OF TERMS AND CONDITIONS How to Apply These Terms to Your New Programs If
   you develop a new program, and you want it to be of the greatest possible use
   to the public, the best way to achieve this is to make it free software which
   everyone can redistribute and change under these terms. To do so, attach the
@@ -95,5 +95,6 @@ body: >-
   sign a "copyright disclaimer" for the program, if necessary. Here is a sample;
   alter the names: Yoyodyne, Inc., hereby disclaims all copyright interest in
   the program `Gnomovision' (which makes passes at compilers) written by James
-  Hacker. < signature of Ty Coon > , 1 April 1989 Ty Coon, President of Vice
+  Hacker. ?<? signature of Ty Coon ?>? , 1 April 1989 Ty Coon, President of
+  Vice?
 type: source-available

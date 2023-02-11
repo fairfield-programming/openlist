@@ -7,7 +7,7 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  Preamble The intent of this document is to state the conditions under which a
+  ?Preamble The intent of this document is to state the conditions under which a
   Package may be copied, such that the Copyright Holder maintains some semblance
   of artistic control over the development of the package, while giving the
   users of the package the right to use and distribute the Package in a
@@ -28,7 +28,7 @@ body: >-
   preserved. If you find a bug in one of the standards mode test cases, please
   let us know so we can feed this back into the original, and also raise any
   specification issues with the appropriate bodies (for example the POSIX
-  committees).
+  committees).?
 
 
   Definitions:
@@ -61,5 +61,5 @@ body: >-
   of the item may redistribute it under the same conditions they received it.
 
 
-  The End
+  ?The End?
 type: source-available

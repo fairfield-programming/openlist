@@ -4,4 +4,4 @@ This software referred to as the Condor® Version 6.x software ("Software") was 
 
 Installation, use, reproduction, display, modification and redistribution of this Software, with or without modification, in source and binary forms, are permitted. Any exercise of rights under this license including sublicenses by you is subject to the following conditions:
 
-For more information: Condor Team Attention: Professor Miron Livny 7367 Computer Sciences 1210 W. Dayton St. Madison, WI 53706-1685 miron@cs.wisc.edu http://pages.cs.wisc.edu/~miron/miron.html
+?For more information: Condor Team Attention: Professor Miron Livny 7367 Computer Sciences 1210 W. Dayton St. Madison, WI 53706-1685 miron@cs.wisc.edu http://pages.cs.wisc.edu/~miron/miron.html?

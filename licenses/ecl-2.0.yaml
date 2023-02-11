@@ -7,11 +7,11 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  http://www.osedu.org/licenses/ The Educational Community License version 2.0
+  ?http://www.osedu.org/licenses/ The Educational Community License version 2.0
   ("ECL") consists of the Apache 2.0 license, modified to change the scope of
   the patent grant in section 3 to be specific to the needs of the education
   communities using this license. The original Apache 2.0 license can be found
-  at: http://www.apache.org/licenses/LICENSE-2.0
+  at: http://www.apache.org/licenses/LICENSE-2.0?
 
 
   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
@@ -27,12 +27,12 @@ body: >-
   reason of your accepting any such warranty or additional liability.
 
 
-  END OF TERMS AND CONDITIONS APPENDIX: How to apply the Educational Community
+  ?END OF TERMS AND CONDITIONS APPENDIX: How to apply the Educational Community
   License to your work To apply the Educational Community License to your work,
   attach the following boilerplate notice, with the fields enclosed by brackets
   "[]" replaced with your own identifying information. (Don't include the
   brackets!) The text should be enclosed in the appropriate comment syntax for
   the file format. We also recommend that a file or class name and description
   of purpose be included on the same "printed page" as the copyright notice for
-  easier identification within third-party archives.
+  easier identification within third-party archives.?
 type: source-available

@@ -1,4 +1,4 @@
-Avertissement Ce contrat est une licence de logiciel libre issue d’une concertation entre ses auteurs afin que le respect de deux grands principes préside à sa rédaction: Les auteurs de la licence CeCILL1 sont: Commissariat à l’Energie Atomique – CEA, établissement public de caractère scientifique technique et industriel, dont le siège est situé 31-33 rue de la Fédération, 75752 PARIS cedex 15. Centre National de la Recherche Scientifique – CNRS, établissement public à caractère scientifique et technologique, dont le siège est situé 3 rue Michel-Ange 75794 Paris cedex 16. Institut National de Recherche en Informatique et en Automatique – INRIA, établissement public à caractère scientifique et technologique, dont le siège est situé Domaine de Voluceau, Rocquencourt, BP 105, 78153 Le Chesnay cedex.
+?Avertissement Ce contrat est une licence de logiciel libre issue d’une concertation entre ses auteurs afin que le respect de deux grands principes préside à sa rédaction: Les auteurs de la licence CeCILL1 sont: Commissariat à l’Energie Atomique – CEA, établissement public de caractère scientifique technique et industriel, dont le siège est situé 31-33 rue de la Fédération, 75752 PARIS cedex 15. Centre National de la Recherche Scientifique – CNRS, établissement public à caractère scientifique et technologique, dont le siège est situé 3 rue Michel-Ange 75794 Paris cedex 16. Institut National de Recherche en Informatique et en Automatique – INRIA, établissement public à caractère scientifique et technologique, dont le siège est situé Domaine de Voluceau, Rocquencourt, BP 105, 78153 Le Chesnay cedex.?
 
 PREAMBULE
 
@@ -82,4 +82,4 @@ Article 13 - LOI APPLICABLE ET COMPETENCE TERRITORIALE
 
 1 Ce: CEA, C: CNRS, I: INRIA, LL: Logiciel Libre
 
-Version 1 du 21/06/2004
+?Version 1 du 21/06/2004?

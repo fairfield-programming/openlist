@@ -7,10 +7,10 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  The following license terms and conditions apply, unless a redistribution
+  ?The following license terms and conditions apply, unless a redistribution
   agreement or other license is obtained from Proofpoint, Inc., 892 Ross Street,
   Sunnyvale, CA, 94089, USA, or by electronic mail at
-  sendmail-license@proofpoint.com. License Terms:
+  sendmail-license@proofpoint.com. License Terms:?
 
 
   Use, Modification and Redistribution (including distribution of any modified
@@ -18,6 +18,6 @@ body: >-
   following conditions is met:
 
 
-  $Revision: 8.23 $, Last updated $Date: 2014-01-26 20:10:01 $, Document
-  139848.1
+  ?$Revision: 8.23 $, Last updated $Date: 2014-01-26 20:10:01 $, Document
+  139848.1?
 type: source-available

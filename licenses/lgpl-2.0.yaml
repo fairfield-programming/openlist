@@ -122,7 +122,7 @@ body: >-
   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
 
-  END OF TERMS AND CONDITIONS How to Apply These Terms to Your New Libraries If
+  ?END OF TERMS AND CONDITIONS How to Apply These Terms to Your New Libraries If
   you develop a new library, and you want it to be of the greatest possible use
   to the public, we recommend making it free software that everyone can
   redistribute and change. You can do so by permitting redistribution under
@@ -147,5 +147,5 @@ body: >-
   library, if necessary. Here is a sample; alter the names: Yoyodyne, Inc.,
   hereby disclaims all copyright interest in the library `Frob' (a library for
   tweaking knobs) written by James Random Hacker. signature of Ty Coon, 1 April
-  1990 Ty Coon, President of Vice That's all there is to it!
+  1990 Ty Coon, President of Vice That's all there is to it!?
 type: source-available

@@ -7,15 +7,15 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  EXHIBIT A. Object Code Notice: Helix DNA Client technology included. Copyright
-  (c) RealNetworks, Inc., 1995-2002. All rights reserved. EXHIBIT B Compatible
-  Source Licenses for the RealNetworks Public Source License. The following list
-  applies to the most recent version of the license as of October 25, 2002,
-  unless otherwise indicated. Academic Free License Apache Software License
-  Apple Public Source License Artistic license Attribution Assurance Licenses
-  BSD license Common Public License1 Eiffel Forum License GNU General Public
-  License (GPL)1 GNU Library or "Lesser" General Public License (LGPL)1 IBM
-  Public License Intel Open Source License Jabber Open Source License MIT
+  ?EXHIBIT A. Object Code Notice: Helix DNA Client technology included.
+  Copyright (c) RealNetworks, Inc., 1995-2002. All rights reserved. EXHIBIT B
+  Compatible Source Licenses for the RealNetworks Public Source License. The
+  following list applies to the most recent version of the license as of October
+  25, 2002, unless otherwise indicated. Academic Free License Apache Software
+  License Apple Public Source License Artistic license Attribution Assurance
+  Licenses BSD license Common Public License1 Eiffel Forum License GNU General
+  Public License (GPL)1 GNU Library or "Lesser" General Public License (LGPL)1
+  IBM Public License Intel Open Source License Jabber Open Source License MIT
   license MITRE Collaborative Virtual Workspace License (CVW License) Motosoto
   License Mozilla Public License 1.0 (MPL) Mozilla Public License 1.1 (MPL)
   Nokia Open Source License Open Group Test Suite License Python Software
@@ -40,5 +40,5 @@ body: >-
   "Licensor Trademark Policy" forbids any use of Licensor Trademarks except as
   permitted by and in strict compliance at all times with RealNetworks' third
   party trademark usage guidelines which are posted at
-  www.realnetworks.com/info/helixlogo.html.
+  www.realnetworks.com/info/helixlogo.html.?
 type: source-available

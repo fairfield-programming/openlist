@@ -10,14 +10,14 @@ body: >-
   Copyright 1998-1999, The OpenLDAP Foundation. All Rights Reserved.
 
 
-  Note: This license is derived from the "Artistic License" as distributed with
+  ?Note: This license is derived from the "Artistic License" as distributed with
   the Perl Programming Language. As significant differences exist, the complete
   license should be read. PREAMBLE The intent of this document is to state the
   conditions under which a Package may be copied, such that the Copyright Holder
   maintains some semblance of artistic control over the development of the
   package, while giving the users of the package the right to use and distribute
   the Package in a more-or-less customary fashion, plus the right to make
-  reasonable modifications.
+  reasonable modifications.?
 
 
   Definitions:
@@ -50,5 +50,5 @@ body: >-
   of the item may redistribute it under the same conditions they received it.
 
 
-  The End
+  ?The End?
 type: source-available

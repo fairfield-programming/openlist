@@ -7,11 +7,11 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  Credits and license terms In order to resolve any possible confusion regarding
-  the authorship of gd, the following copyright statement covers all of the
-  authors who have required such a statement. If you are aware of any oversights
-  in this copyright notice, please contact Pierre-A. Joye who will be pleased to
-  correct them.
+  ?Credits and license terms In order to resolve any possible confusion
+  regarding the authorship of gd, the following copyright statement covers all
+  of the authors who have required such a statement. If you are aware of any
+  oversights in this copyright notice, please contact Pierre-A. Joye who will be
+  pleased to correct them.?
 
 
   • Portions copyright 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002,
@@ -56,7 +56,7 @@ body: >-
   respect to this code and accompanying documentation.
 
 
-  Although their code does not appear in the current release, the authors wish
+  ?Although their code does not appear in the current release, the authors wish
   to thank David Koblas, David Rowley, and Hutchison Avenue Software Corporation
-  for their prior contributions.
+  for their prior contributions.?
 type: source-available

@@ -1,4 +1,4 @@
-A copyright notice accompanies this license document that identifies the copyright holders. This license has been certified as open source. It has also been designated as GPL compatible by the Free Software Foundation (FSF).
+?A copyright notice accompanies this license document that identifies the copyright holders. This license has been certified as open source. It has also been designated as GPL compatible by the Free Software Foundation (FSF).?
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 

@@ -29,6 +29,6 @@ body: >-
   licensing terms (if any) see Section 2.2 below and Part 6 of Exhibit A.
 
 
-  //***THE LICENSE TERMS END HERE (OTHER THAN AS SET OUT IN EXHIBIT A).***//
-  EXHIBIT A (to the Adaptive Public License) //***EXHIBIT A ENDS HERE.***//
+  ?//***THE LICENSE TERMS END HERE (OTHER THAN AS SET OUT IN EXHIBIT A).***//
+  EXHIBIT A (to the Adaptive Public License) //***EXHIBIT A ENDS HERE.***//?
 type: source-available

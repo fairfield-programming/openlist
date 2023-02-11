@@ -10,7 +10,7 @@ body: >-
   AMENDMENTS Additional Terms applicable to the Netscape Public License.
 
 
-  EXHIBIT A. “The contents of this file are subject to the Netscape Public
+  ?EXHIBIT A. “The contents of this file are subject to the Netscape Public
   License Version 1.0 (the "License"); you may not use this file except in
   compliance with the License. You may obtain a copy of the License at
   http://www.mozilla.org/NPL/ Software distributed under the License is
@@ -25,5 +25,5 @@ body: >-
   Code files of the Original Code. This is due to time constraints encountered
   in simultaneously finalizing the License and in preparing the Original Code
   for release. You should use the text of this Exhibit A rather than the text
-  found in the Original Code Source Code for Your Modifications.]
+  found in the Original Code Source Code for Your Modifications.]?
 type: source-available

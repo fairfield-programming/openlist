@@ -1,4 +1,4 @@
-COPYRIGHT NOTICE
+?COPYRIGHT NOTICE?
 
 All of the documentation and software included in this software distribution from the US Naval Research Laboratory (NRL) are copyrighted by their respective developers.
 

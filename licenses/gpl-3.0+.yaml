@@ -95,7 +95,7 @@ body: >-
   assumption of liability accompanies a copy of the Program in return for a fee.
 
 
-  END OF TERMS AND CONDITIONS How to Apply These Terms to Your New Programs If
+  ?END OF TERMS AND CONDITIONS How to Apply These Terms to Your New Programs If
   you develop a new program, and you want it to be of the greatest possible use
   to the public, the best way to achieve this is to make it free software which
   everyone can redistribute and change under these terms. To do so, attach the
@@ -119,5 +119,5 @@ body: >-
   is a subroutine library, you may consider it more useful to permit linking
   proprietary applications with the library. If this is what you want to do, use
   the GNU Lesser General Public License instead of this License. But first,
-  please read <https://www.gnu.org/ licenses /why-not-lgpl.html>.
+  please read <https://www.gnu.org/ <licenses> /why-not-lgpl.html>.?
 type: source-available

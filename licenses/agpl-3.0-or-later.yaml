@@ -74,7 +74,7 @@ body: >-
   TERMS AND CONDITIONS
 
 
-  END OF TERMS AND CONDITIONS How to Apply These Terms to Your New Programs If
+  ?END OF TERMS AND CONDITIONS How to Apply These Terms to Your New Programs If
   you develop a new program, and you want it to be of the greatest possible use
   to the public, the best way to achieve this is to make it free software which
   everyone can redistribute and change under these terms. To do so, attach the
@@ -91,5 +91,5 @@ body: >-
   requirements. You should also get your employer (if you work as a programmer)
   or school, if any, to sign a "copyright disclaimer" for the program, if
   necessary. For more information on this, and how to apply and follow the GNU
-  AGPL, see <https://www.gnu.org/licenses/>.
+  AGPL, see <https://www.gnu.org/licenses/>.?
 type: source-available

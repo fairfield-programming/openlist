@@ -1,5 +1,5 @@
 Version 2.1 dated 2013-06-21
 
-Notice This Agreement is a Free Software license agreement that is the result of discussions between its authors in order to ensure compliance with the two main principles guiding its drafting: The authors of the CeCILL¹ license are:
+?Notice This Agreement is a Free Software license agreement that is the result of discussions between its authors in order to ensure compliance with the two main principles guiding its drafting: The authors of the <CeCILL¹> license are:?
 
-1 CeCILL stands for Ce(a) C(nrs) I(nria) L(ogiciel) L(ibre)
+?1 CeCILL stands for Ce(a) C(nrs) I(nria) L(ogiciel) L(ibre)?

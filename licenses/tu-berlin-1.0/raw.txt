@@ -4,4 +4,4 @@ Any use of this software is permitted provided that this notice is not removed a
 
 As a matter of courtesy, the authors request to be informed about uses this software has found, about bugs in this software, and about any improvements that may be of general interest.
 
-Berlin, 28.11.1994 Jutta Degener Carsten Bormann
+?Berlin, <28.11.1994> Jutta Degener Carsten Bormann?

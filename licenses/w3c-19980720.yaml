@@ -42,7 +42,7 @@ body: >-
   documentation will at all times remain with copyright holders.
 
 
-  ____________________________________ This formulation of W3C's notice and
+  ?____________________________________ This formulation of W3C's notice and
   license became active on August 14 1998 so as to improve compatibility with
   GPL. This version ensures that W3C software licensing terms are no more
   restrictive than GPL and consequently W3C software may be distributed in GPL
@@ -50,5 +50,5 @@ body: >-
   see our Copyright FAQ for common questions about using materials from our
   site, including specific terms and conditions for packages like libwww, Amaya,
   and Jigsaw. Other questions about this notice can be directed to
-  site-policy@w3.org.
+  site-policy@w3.org.?
 type: source-available

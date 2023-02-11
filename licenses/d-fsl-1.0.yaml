@@ -10,9 +10,9 @@ body: >-
   (c) Ministerium für Wissenschaft und Forschung Nordrhein-Westfalen 2004
 
 
-  Erstellt von Axel Metzger und Till Jaeger, Institut für Rechtsfragen der
-  Freien und Open Source Software - ( http://www.ifross.de ) . Präambel Software
-  ist mehr als ein Wirtschaftsgut. Sie ist die technische Grundlage der
+  ?Erstellt von Axel Metzger und Till Jaeger, Institut für Rechtsfragen der
+  Freien und Open Source Software - <(> http://www.ifross.de <)> . Präambel
+  Software ist mehr als ein Wirtschaftsgut. Sie ist die technische Grundlage der
   Informationsgesellschaft. Die Frage der Teilhabe der Allgemeinheit ist
   deswegen von besonderer Bedeutung. Herkömmlich lizenzierte Programme werden
   nur im Object Code vertrieben, der Nutzer darf das Programm weder verändern
@@ -34,5 +34,5 @@ body: >-
   frei gegeben werden. Die Deutsche Freie Software Lizenz nimmt auf die
   besonderen Anforderungen des deutschen und europäischen Rechts Rücksicht. Sie
   ist zweisprachig gestaltet und damit auch auf den internationalen Vertrieb
-  ausgerichtet.
+  ausgerichtet.?
 type: source-available

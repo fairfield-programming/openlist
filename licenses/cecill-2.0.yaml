@@ -7,13 +7,14 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  Notice This Agreement is a Free Software license agreement that is the result
+  ?Notice This Agreement is a Free Software license agreement that is the result
   of discussions between its authors in order to ensure compliance with the two
-  main principles guiding its drafting: The authors of the CeCILL¹ license are:
+  main principles guiding its drafting: The authors of the <CeCILL¹> license
+  are:?
 
 
   Version 2.0 dated 2006-09-05.
 
 
-  1 CeCILL stands for Ce(a) C(nrs) I(nria) L(ogiciel) L(ibre)
+  ?1 CeCILL stands for Ce(a) C(nrs) I(nria) L(ogiciel) L(ibre)?
 type: source-available

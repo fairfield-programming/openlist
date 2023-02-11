@@ -4,4 +4,4 @@ IMPORTANT NOTE: This License is "adaptive", and the generic version or another v
 
 See Section 2.2 below, Exhibit A attached, and any Suppfile.txt accompanying this License to determine the specific adaptive features applicable to this License. For example, without limiting the foregoing, (a) for selected choice of law and jurisdiction see Part 3 of Exhibit A; (b) for the selected definition of Third Party see Part 4 of Exhibit A; and (c) for selected patent licensing terms (if any) see Section 2.2 below and Part 6 of Exhibit A.
 
-//***THE LICENSE TERMS END HERE (OTHER THAN AS SET OUT IN EXHIBIT A).***// EXHIBIT A (to the Adaptive Public License) //***EXHIBIT A ENDS HERE.***//
+?//***THE LICENSE TERMS END HERE (OTHER THAN AS SET OUT IN EXHIBIT A).***// EXHIBIT A (to the Adaptive Public License) //***EXHIBIT A ENDS HERE.***//?

@@ -7,10 +7,10 @@ permissions: []
 conditions: []
 limitations: []
 body: >-
-  Contributor: contributor name
+  Contributor: <contributor name>
 
 
-  Source Code: source
+  Source Code: <source>
 
 
   This license lets you use and share this software for free, as long as you

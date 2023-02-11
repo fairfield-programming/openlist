@@ -4,6 +4,6 @@ As this license is not currently OSI or FSF approved, the Licensor permits any W
 
 This License is licensed under the terms of this License and in particular clause 7 below (Disclaimer of Warranties) applies in relation to its use.
 
-TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+?TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION?
 
-END OF TERMS AND CONDITIONS APPENDIX: How to apply this license to your work To apply this license to your work, attach the following boilerplate notice, with the fields enclosed by brackets "[]" replaced with your own identifying information. (Don't include the brackets!) The text should be enclosed in the appropriate comment syntax for the file format. We also recommend that a file or class name and description of purpose be included on the same "printed page" as the copyright notice for easier identification within third-party archives.
+?END OF TERMS AND CONDITIONS APPENDIX: How to apply this license to your work To apply this license to your work, attach the following boilerplate notice, with the fields enclosed by brackets "[]" replaced with your own identifying information. (Don't include the brackets!) The text should be enclosed in the appropriate comment syntax for the file format. We also recommend that a file or class name and description of purpose be included on the same "printed page" as the copyright notice for easier identification within third-party archives.?

@@ -11,10 +11,10 @@ body: >-
   California, U.S.A. All rights reserved.
 
 
-  NOTE: This License is not the same as any of the GNU Licenses published by the
-  Free Software Foundation. Its terms are substantially different from those of
-  the GNU Licenses. If you are familiar with the GNU Licenses, please read this
-  license with extra care. Aladdin Enterprises hereby grants to anyone the
+  ?NOTE: This License is not the same as any of the GNU Licenses published by
+  the Free Software Foundation. Its terms are substantially different from those
+  of the GNU Licenses. If you are familiar with the GNU Licenses, please read
+  this license with extra care. Aladdin Enterprises hereby grants to anyone the
   permission to apply this License to their own work, as long as the entire
   License (including the above notices and this paragraph) is copied with no
   changes, additions, or deletions except for changing the first paragraph of
@@ -22,5 +22,5 @@ body: >-
   is being applied and of the person or entity that holds the copyright in the
   work, and, if the License is being applied to a work created in a country
   other than the United States, replacing the first paragraph of Section 6 with
-  an appropriate reference to the laws of the appropriate country.
+  an appropriate reference to the laws of the appropriate country.?
 type: source-available

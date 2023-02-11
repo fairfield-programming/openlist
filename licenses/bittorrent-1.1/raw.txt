@@ -18,4 +18,4 @@ This License relies on precise definitions for certain terms. Those terms are de
 
 License Terms
 
-EXHIBIT A The Notice below must appear in each file of the Source Code of any copy you distribute of the Licensed Product or any hereto. Contributors to any Modifications may add their own copyright notices to identify their own contributions. License: BitTorrent, Inc.
+?EXHIBIT A The Notice below must appear in each file of the Source Code of any copy you distribute of the Licensed Product or any hereto. Contributors to any Modifications may add their own copyright notices to identify their own contributions. License: BitTorrent, Inc.?

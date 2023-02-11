@@ -10,7 +10,7 @@ body: >-
   Copyright (c) Zope Corporation. All rights reserved.
 
 
-  This license has been certified as open source.
+  ?This license has been certified as open source.?
 
 
   Redistribution and use in source and binary forms, with or without
@@ -32,7 +32,7 @@ body: >-
   EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-  This software consists of contributions made by Zope Corporation and many
+  ?This software consists of contributions made by Zope Corporation and many
   individuals on behalf of Zope Corporation. Specific attributions are listed in
-  the accompanying credits file.
+  the accompanying credits file.?
 type: source-available
