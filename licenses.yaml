@@ -5,87 +5,87 @@
 - id: aal
   name: Attribution Assurance License
   url: https://fairfield-programming.github.io/openlist/licenses/aal
-  since: ''
+  since: '2002'
 - id: abstyles
   name: Abstyles License
   url: https://fairfield-programming.github.io/openlist/licenses/abstyles
-  since: ''
+  since: '1991'
 - id: adobe-2006
   name: Adobe Systems Incorporated Source Code License Agreement
   url: https://fairfield-programming.github.io/openlist/licenses/adobe-2006
-  since: ''
+  since: '2006'
 - id: adobe-glyph
   name: Adobe Glyph List License
   url: https://fairfield-programming.github.io/openlist/licenses/adobe-glyph
-  since: ''
+  since: '1997'
 - id: adsl
   name: Amazon Digital Services License
   url: https://fairfield-programming.github.io/openlist/licenses/adsl
-  since: ''
+  since: '2006'
 - id: afl-1.1
   name: Academic Free License v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/afl-1.1
-  since: ''
+  since: '2002'
 - id: afl-1.2
   name: Academic Free License v1.2
   url: https://fairfield-programming.github.io/openlist/licenses/afl-1.2
-  since: ''
+  since: '2002'
 - id: afl-2.0
   name: Academic Free License v2.0
   url: https://fairfield-programming.github.io/openlist/licenses/afl-2.0
-  since: ''
+  since: '2003'
 - id: afl-2.1
   name: Academic Free License v2.1
   url: https://fairfield-programming.github.io/openlist/licenses/afl-2.1
-  since: ''
+  since: '2003'
 - id: afl-3.0
   name: Academic Free License v3.0
   url: https://fairfield-programming.github.io/openlist/licenses/afl-3.0
-  since: ''
+  since: '2005'
 - id: afmparse
   name: Afmparse License
   url: https://fairfield-programming.github.io/openlist/licenses/afmparse
-  since: ''
+  since: '1988'
 - id: agpl-1.0-only
   name: Affero General Public License v1.0 only
   url: https://fairfield-programming.github.io/openlist/licenses/agpl-1.0-only
-  since: ''
+  since: '2002'
 - id: agpl-1.0-or-later
   name: Affero General Public License v1.0 or later
   url: https://fairfield-programming.github.io/openlist/licenses/agpl-1.0-or-later
-  since: ''
+  since: '2002'
 - id: agpl-1.0
   name: Affero General Public License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/agpl-1.0
-  since: ''
+  since: '2002'
 - id: agpl-3.0-only
   name: GNU Affero General Public License v3.0 only
   url: https://fairfield-programming.github.io/openlist/licenses/agpl-3.0-only
-  since: ''
+  since: '2007'
 - id: agpl-3.0-or-later
   name: GNU Affero General Public License v3.0 or later
   url: https://fairfield-programming.github.io/openlist/licenses/agpl-3.0-or-later
-  since: ''
+  since: '2007'
 - id: agpl-3.0
   name: GNU Affero General Public License v3.0
   url: https://fairfield-programming.github.io/openlist/licenses/agpl-3.0
-  since: ''
+  since: '2007'
 - id: aladdin
   name: Aladdin Free Public License
   url: https://fairfield-programming.github.io/openlist/licenses/aladdin
-  since: ''
+  since: '1994'
 - id: amdplpa
   name: AMD's plpa_map.c License
   url: https://fairfield-programming.github.io/openlist/licenses/amdplpa
-  since: ''
+  since: '2006'
 - id: aml
   name: Apple MIT License
   url: https://fairfield-programming.github.io/openlist/licenses/aml
-  since: ''
+  since: '2006'
 - id: ampas
   name: Academy of Motion Picture Arts and Sciences BSD
   url: https://fairfield-programming.github.io/openlist/licenses/ampas
-  since: ''
+  since: '2006'
 - id: antlr-pd-fallback
   name: ANTLR Software Rights Notice with license fallback
   url: https://fairfield-programming.github.io/openlist/licenses/antlr-pd-fallback
@@ -97,11 +97,11 @@
 - id: apache-1.0
   name: Apache License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/apache-1.0
-  since: ''
+  since: '1995'
 - id: apache-1.1
   name: Apache License 1.1
   url: https://fairfield-programming.github.io/openlist/licenses/apache-1.1
-  since: ''
+  since: '2000'
 - id: apache-2.0
   name: Apache License 2.0
   url: https://fairfield-programming.github.io/openlist/licenses/apache-2.0
@@ -109,7 +109,7 @@
 - id: apafml
   name: Adobe Postscript AFM License
   url: https://fairfield-programming.github.io/openlist/licenses/apafml
-  since: ''
+  since: '1985'
 - id: apl-1.0
   name: Adaptive Public License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/apl-1.0
@@ -121,23 +121,23 @@
 - id: apsl-1.0
   name: Apple Public Source License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/apsl-1.0
-  since: ''
+  since: '7015'
 - id: apsl-1.1
   name: Apple Public Source License 1.1
   url: https://fairfield-programming.github.io/openlist/licenses/apsl-1.1
-  since: ''
+  since: '7015'
 - id: apsl-1.2
   name: Apple Public Source License 1.2
   url: https://fairfield-programming.github.io/openlist/licenses/apsl-1.2
-  since: ''
+  since: '7015'
 - id: apsl-2.0
   name: Apple Public Source License 2.0
   url: https://fairfield-programming.github.io/openlist/licenses/apsl-2.0
-  since: ''
+  since: '2007'
 - id: arphic-1999
   name: Arphic Public License
   url: https://fairfield-programming.github.io/openlist/licenses/arphic-1999
-  since: ''
+  since: '1999'
 - id: artistic-1.0-cl8
   name: Artistic License 1.0 w/clause 8
   url: https://fairfield-programming.github.io/openlist/licenses/artistic-1.0-cl8
@@ -153,15 +153,15 @@
 - id: artistic-2.0
   name: Artistic License 2.0
   url: https://fairfield-programming.github.io/openlist/licenses/artistic-2.0
-  since: ''
+  since: '2000'
 - id: baekmuk
   name: Baekmuk License
   url: https://fairfield-programming.github.io/openlist/licenses/baekmuk
-  since: ''
+  since: '1986'
 - id: bahyph
   name: Bahyph License
   url: https://fairfield-programming.github.io/openlist/licenses/bahyph
-  since: ''
+  since: '1991'
 - id: barr
   name: Barr License
   url: https://fairfield-programming.github.io/openlist/licenses/barr
@@ -173,19 +173,19 @@
 - id: bitstream-charter
   name: Bitstream Charter Font License
   url: https://fairfield-programming.github.io/openlist/licenses/bitstream-charter
-  since: ''
+  since: '1989'
 - id: bitstream-vera
   name: Bitstream Vera Font License
   url: https://fairfield-programming.github.io/openlist/licenses/bitstream-vera
-  since: ''
+  since: '2003'
 - id: bittorrent-1.0
   name: BitTorrent Open Source License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/bittorrent-1.0
-  since: ''
+  since: '1995'
 - id: bittorrent-1.1
   name: BitTorrent Open Source License v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/bittorrent-1.1
-  since: ''
+  since: '1995'
 - id: blessing
   name: SQLite Blessing
   url: https://fairfield-programming.github.io/openlist/licenses/blessing
@@ -197,7 +197,7 @@
 - id: borceux
   name: Borceux license
   url: https://fairfield-programming.github.io/openlist/licenses/borceux
-  since: ''
+  since: '1993'
 - id: bsd-1-clause
   name: BSD 1-Clause License
   url: https://fairfield-programming.github.io/openlist/licenses/bsd-1-clause
@@ -206,12 +206,12 @@
   name: BSD 2-Clause FreeBSD License
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/bsd-2-clause-freebsd
-  since: ''
+  since: '1992'
 - id: bsd-2-clause-netbsd
   name: BSD 2-Clause NetBSD License
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/bsd-2-clause-netbsd
-  since: ''
+  since: '2008'
 - id: bsd-2-clause-patent
   name: BSD-2-Clause Plus Patent License
   url: >-
@@ -237,7 +237,7 @@
 - id: bsd-3-clause-lbnl
   name: Lawrence Berkeley National Labs BSD variant license
   url: https://fairfield-programming.github.io/openlist/licenses/bsd-3-clause-lbnl
-  since: ''
+  since: '2003'
 - id: bsd-3-clause-modification
   name: BSD 3-Clause Modification
   url: >-
@@ -252,17 +252,17 @@
   name: BSD 3-Clause No Nuclear License 2014
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/bsd-3-clause-no-nuclear-license-2014
-  since: ''
+  since: '2008'
 - id: bsd-3-clause-no-nuclear-license
   name: BSD 3-Clause No Nuclear License
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/bsd-3-clause-no-nuclear-license
-  since: ''
+  since: '1994'
 - id: bsd-3-clause-no-nuclear-warranty
   name: BSD 3-Clause No Nuclear Warranty
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/bsd-3-clause-no-nuclear-warranty
-  since: ''
+  since: '2003'
 - id: bsd-3-clause-open-mpi
   name: BSD 3-Clause Open MPI variant
   url: >-
@@ -292,7 +292,7 @@
 - id: bsd-source-code
   name: BSD Source Code Attribution
   url: https://fairfield-programming.github.io/openlist/licenses/bsd-source-code
-  since: ''
+  since: '2011'
 - id: bsl-1.0
   name: Boost Software License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/bsl-1.0
@@ -300,15 +300,15 @@
 - id: busl-1.1
   name: Business Source License 1.1
   url: https://fairfield-programming.github.io/openlist/licenses/busl-1.1
-  since: ''
+  since: '2017'
 - id: bzip2-1.0.5
   name: bzip2 and libbzip2 License v1.0.5
   url: https://fairfield-programming.github.io/openlist/licenses/bzip2-1.0.5
-  since: ''
+  since: '1996'
 - id: bzip2-1.0.6
   name: bzip2 and libbzip2 License v1.0.6
   url: https://fairfield-programming.github.io/openlist/licenses/bzip2-1.0.6
-  since: ''
+  since: '1996'
 - id: c-uda-1.0
   name: Computational Use of Data Agreement v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/c-uda-1.0
@@ -325,11 +325,11 @@
 - id: caldera
   name: Caldera License
   url: https://fairfield-programming.github.io/openlist/licenses/caldera
-  since: ''
+  since: '2001'
 - id: catosl-1.1
   name: Computer Associates Trusted Open Source License 1.1
   url: https://fairfield-programming.github.io/openlist/licenses/catosl-1.1
-  since: ''
+  since: '1174'
 - id: cc-by-1.0
   name: Creative Commons Attribution 1.0 Generic
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-1.0
@@ -357,7 +357,7 @@
 - id: cc-by-3.0-igo
   name: Creative Commons Attribution 3.0 IGO
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-3.0-igo
-  since: ''
+  since: '1979'
 - id: cc-by-3.0-nl
   name: Creative Commons Attribution 3.0 Netherlands
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-3.0-nl
@@ -369,11 +369,11 @@
 - id: cc-by-3.0
   name: Creative Commons Attribution 3.0 Unported
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-3.0
-  since: ''
+  since: '1979'
 - id: cc-by-4.0
   name: Creative Commons Attribution 4.0 International
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-4.0
-  since: ''
+  since: '1996'
 - id: cc-by-nc-1.0
   name: Creative Commons Attribution Non Commercial 1.0 Generic
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-nc-1.0
@@ -393,11 +393,11 @@
 - id: cc-by-nc-3.0
   name: Creative Commons Attribution Non Commercial 3.0 Unported
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-nc-3.0
-  since: ''
+  since: '1979'
 - id: cc-by-nc-4.0
   name: Creative Commons Attribution Non Commercial 4.0 International
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-nc-4.0
-  since: ''
+  since: '1996'
 - id: cc-by-nc-nd-1.0
   name: Creative Commons Attribution Non Commercial No Derivatives 1.0 Generic
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-nc-nd-1.0
@@ -418,15 +418,15 @@
   name: Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/cc-by-nc-nd-3.0-igo
-  since: ''
+  since: '1979'
 - id: cc-by-nc-nd-3.0
   name: Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-nc-nd-3.0
-  since: ''
+  since: '1979'
 - id: cc-by-nc-nd-4.0
   name: Creative Commons Attribution Non Commercial No Derivatives 4.0 International
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-nc-nd-4.0
-  since: ''
+  since: '1996'
 - id: cc-by-nc-sa-1.0
   name: Creative Commons Attribution Non Commercial Share Alike 1.0 Generic
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-nc-sa-1.0
@@ -444,7 +444,7 @@
     Creative Commons Attribution Non Commercial Share Alike 2.0 England and
     Wales
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-nc-sa-2.0-uk
-  since: ''
+  since: '1988'
 - id: cc-by-nc-sa-2.0
   name: Creative Commons Attribution Non Commercial Share Alike 2.0 Generic
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-nc-sa-2.0
@@ -461,15 +461,15 @@
   name: Creative Commons Attribution Non Commercial Share Alike 3.0 IGO
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/cc-by-nc-sa-3.0-igo
-  since: ''
+  since: '1979'
 - id: cc-by-nc-sa-3.0
   name: Creative Commons Attribution Non Commercial Share Alike 3.0 Unported
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-nc-sa-3.0
-  since: ''
+  since: '1979'
 - id: cc-by-nc-sa-4.0
   name: Creative Commons Attribution Non Commercial Share Alike 4.0 International
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-nc-sa-4.0
-  since: ''
+  since: '1996'
 - id: cc-by-nd-1.0
   name: Creative Commons Attribution No Derivatives 1.0 Generic
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-nd-1.0
@@ -489,11 +489,11 @@
 - id: cc-by-nd-3.0
   name: Creative Commons Attribution No Derivatives 3.0 Unported
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-nd-3.0
-  since: ''
+  since: '1979'
 - id: cc-by-nd-4.0
   name: Creative Commons Attribution No Derivatives 4.0 International
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-nd-4.0
-  since: ''
+  since: '1996'
 - id: cc-by-sa-1.0
   name: Creative Commons Attribution Share Alike 1.0 Generic
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-sa-1.0
@@ -501,7 +501,7 @@
 - id: cc-by-sa-2.0-uk
   name: Creative Commons Attribution Share Alike 2.0 England and Wales
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-sa-2.0-uk
-  since: ''
+  since: '1988'
 - id: cc-by-sa-2.0
   name: Creative Commons Attribution Share Alike 2.0 Generic
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-sa-2.0
@@ -525,11 +525,11 @@
 - id: cc-by-sa-3.0
   name: Creative Commons Attribution Share Alike 3.0 Unported
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-sa-3.0
-  since: ''
+  since: '1979'
 - id: cc-by-sa-4.0
   name: Creative Commons Attribution Share Alike 4.0 International
   url: https://fairfield-programming.github.io/openlist/licenses/cc-by-sa-4.0
-  since: ''
+  since: '1996'
 - id: cc-pddc
   name: Creative Commons Public Domain Dedication and Certification
   url: https://fairfield-programming.github.io/openlist/licenses/cc-pddc
@@ -537,24 +537,24 @@
 - id: cc0-1.0
   name: Creative Commons Zero v1.0 Universal
   url: https://fairfield-programming.github.io/openlist/licenses/cc0-1.0
-  since: ''
+  since: '1996'
 - id: cddl-1.0
   name: Common Development and Distribution License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/cddl-1.0
-  since: ''
+  since: '1995'
 - id: cddl-1.1
   name: Common Development and Distribution License 1.1
   url: https://fairfield-programming.github.io/openlist/licenses/cddl-1.1
-  since: ''
+  since: '1995'
 - id: cdl-1.0
   name: Common Documentation License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/cdl-1.0
-  since: ''
+  since: '2001'
 - id: cdla-permissive-1.0
   name: Community Data License Agreement Permissive 1.0
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/cdla-permissive-1.0
-  since: ''
+  since: '1996'
 - id: cdla-permissive-2.0
   name: Community Data License Agreement Permissive 2.0
   url: >-
@@ -563,31 +563,31 @@
 - id: cdla-sharing-1.0
   name: Community Data License Agreement Sharing 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/cdla-sharing-1.0
-  since: ''
+  since: '1996'
 - id: cecill-1.0
   name: CeCILL Free Software License Agreement v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/cecill-1.0
-  since: ''
+  since: '7575'
 - id: cecill-1.1
   name: CeCILL Free Software License Agreement v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/cecill-1.1
-  since: ''
+  since: '7575'
 - id: cecill-2.0
   name: CeCILL Free Software License Agreement v2.0
   url: https://fairfield-programming.github.io/openlist/licenses/cecill-2.0
-  since: ''
+  since: '7501'
 - id: cecill-2.1
   name: CeCILL Free Software License Agreement v2.1
   url: https://fairfield-programming.github.io/openlist/licenses/cecill-2.1
-  since: ''
+  since: '2013'
 - id: cecill-b
   name: CeCILL-B Free Software License Agreement
   url: https://fairfield-programming.github.io/openlist/licenses/cecill-b
-  since: ''
+  since: '7501'
 - id: cecill-c
   name: CeCILL-C Free Software License Agreement
   url: https://fairfield-programming.github.io/openlist/licenses/cecill-c
-  since: ''
+  since: '7501'
 - id: cern-ohl-1.1
   name: CERN Open Hardware Licence v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/cern-ohl-1.1
@@ -599,19 +599,19 @@
 - id: cern-ohl-p-2.0
   name: CERN Open Hardware Licence Version 2 - Permissive
   url: https://fairfield-programming.github.io/openlist/licenses/cern-ohl-p-2.0
-  since: ''
+  since: '2020'
 - id: cern-ohl-s-2.0
   name: CERN Open Hardware Licence Version 2 - Strongly Reciprocal
   url: https://fairfield-programming.github.io/openlist/licenses/cern-ohl-s-2.0
-  since: ''
+  since: '2020'
 - id: cern-ohl-w-2.0
   name: CERN Open Hardware Licence Version 2 - Weakly Reciprocal
   url: https://fairfield-programming.github.io/openlist/licenses/cern-ohl-w-2.0
-  since: ''
+  since: '2020'
 - id: checkmk
   name: Checkmk License
   url: https://fairfield-programming.github.io/openlist/licenses/checkmk
-  since: ''
+  since: '2006'
 - id: clartistic
   name: Clarified Artistic License
   url: https://fairfield-programming.github.io/openlist/licenses/clartistic
@@ -619,16 +619,16 @@
 - id: cnri-jython
   name: CNRI Jython License
   url: https://fairfield-programming.github.io/openlist/licenses/cnri-jython
-  since: ''
+  since: '1895'
 - id: cnri-python-gpl-compatible
   name: CNRI Python Open Source GPL Compatible License Agreement
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/cnri-python-gpl-compatible
-  since: ''
+  since: '1895'
 - id: cnri-python
   name: CNRI Python License
   url: https://fairfield-programming.github.io/openlist/licenses/cnri-python
-  since: ''
+  since: '1895'
 - id: coil-1.0
   name: Copyfree Open Innovation License
   url: https://fairfield-programming.github.io/openlist/licenses/coil-1.0
@@ -636,11 +636,11 @@
 - id: community-spec-1.0
   name: Community Specification License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/community-spec-1.0
-  since: ''
+  since: '2020'
 - id: condor-1.1
   name: Condor Public License v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/condor-1.1
-  since: ''
+  since: '1990'
 - id: copyleft-next-0.3.0
   name: copyleft-next 0.3.0
   url: >-
@@ -654,7 +654,7 @@
 - id: cpal-1.0
   name: Common Public Attribution License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/cpal-1.0
-  since: ''
+  since: '1995'
 - id: cpl-1.0
   name: Common Public License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/cpl-1.0
@@ -674,19 +674,19 @@
 - id: cua-opl-1.0
   name: CUA Office Public License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/cua-opl-1.0
-  since: ''
+  since: '1995'
 - id: cube
   name: Cube License
   url: https://fairfield-programming.github.io/openlist/licenses/cube
-  since: ''
+  since: '2001'
 - id: curl
   name: curl License
   url: https://fairfield-programming.github.io/openlist/licenses/curl
-  since: ''
+  since: '1996'
 - id: d-fsl-1.0
   name: Deutsche Freie Software Lizenz
   url: https://fairfield-programming.github.io/openlist/licenses/d-fsl-1.0
-  since: ''
+  since: '2004'
 - id: diffmark
   name: diffmark license
   url: https://fairfield-programming.github.io/openlist/licenses/diffmark
@@ -698,11 +698,11 @@
 - id: doc
   name: DOC License
   url: https://fairfield-programming.github.io/openlist/licenses/doc
-  since: ''
+  since: '1993'
 - id: dotseqn
   name: Dotseqn License
   url: https://fairfield-programming.github.io/openlist/licenses/dotseqn
-  since: ''
+  since: '1995'
 - id: drl-1.0
   name: Detection Rule License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/drl-1.0
@@ -710,7 +710,7 @@
 - id: dsdp
   name: DSDP License
   url: https://fairfield-programming.github.io/openlist/licenses/dsdp
-  since: ''
+  since: '2004'
 - id: dvipdfm
   name: dvipdfm License
   url: https://fairfield-programming.github.io/openlist/licenses/dvipdfm
@@ -726,7 +726,7 @@
 - id: ecos-2.0
   name: eCos license version 2.0
   url: https://fairfield-programming.github.io/openlist/licenses/ecos-2.0
-  since: ''
+  since: '1998'
 - id: efl-1.0
   name: Eiffel Forum License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/efl-1.0
@@ -738,7 +738,7 @@
 - id: egenix
   name: eGenix.com Public License 1.1.0
   url: https://fairfield-programming.github.io/openlist/licenses/egenix
-  since: ''
+  since: '4076'
 - id: elastic-2.0
   name: Elastic License 2.0
   url: https://fairfield-programming.github.io/openlist/licenses/elastic-2.0
@@ -746,7 +746,7 @@
 - id: entessa
   name: Entessa Public License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/entessa
-  since: ''
+  since: '2003'
 - id: epics
   name: EPICS Open License
   url: https://fairfield-programming.github.io/openlist/licenses/epics
@@ -762,31 +762,31 @@
 - id: erlpl-1.1
   name: Erlang Public License v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/erlpl-1.1
-  since: ''
+  since: '1999'
 - id: etalab-2.0
   name: Etalab Open License 2.0
   url: https://fairfield-programming.github.io/openlist/licenses/etalab-2.0
-  since: ''
+  since: '2017'
 - id: eudatagrid
   name: EU DataGrid Software License
   url: https://fairfield-programming.github.io/openlist/licenses/eudatagrid
-  since: ''
+  since: '2001'
 - id: eupl-1.0
   name: European Union Public License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/eupl-1.0
-  since: ''
+  since: '2007'
 - id: eupl-1.1
   name: European Union Public License 1.1
   url: https://fairfield-programming.github.io/openlist/licenses/eupl-1.1
-  since: ''
+  since: '2007'
 - id: eupl-1.2
   name: European Union Public License 1.2
   url: https://fairfield-programming.github.io/openlist/licenses/eupl-1.2
-  since: ''
+  since: '2007'
 - id: eurosym
   name: Eurosym License
   url: https://fairfield-programming.github.io/openlist/licenses/eurosym
-  since: ''
+  since: '1999'
 - id: fair
   name: Fair License
   url: https://fairfield-programming.github.io/openlist/licenses/fair
@@ -794,19 +794,19 @@
 - id: fdk-aac
   name: Fraunhofer FDK AAC Codec Library
   url: https://fairfield-programming.github.io/openlist/licenses/fdk-aac
-  since: ''
+  since: '1995'
 - id: frameworx-1.0
   name: Frameworx Open License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/frameworx-1.0
-  since: ''
+  since: '2003'
 - id: freebsd-doc
   name: FreeBSD Documentation License
   url: https://fairfield-programming.github.io/openlist/licenses/freebsd-doc
-  since: ''
+  since: '1994'
 - id: freeimage
   name: FreeImage Public License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/freeimage
-  since: ''
+  since: '1995'
 - id: fsfap
   name: FSF All Permissive License
   url: https://fairfield-programming.github.io/openlist/licenses/fsfap
@@ -814,137 +814,137 @@
 - id: fsful
   name: FSF Unlimited License
   url: https://fairfield-programming.github.io/openlist/licenses/fsful
-  since: ''
+  since: '1992'
 - id: fsfullr
   name: FSF Unlimited License (with License Retention)
   url: https://fairfield-programming.github.io/openlist/licenses/fsfullr
-  since: ''
+  since: '1996'
 - id: fsfullrwd
   name: |-
     FSF Unlimited License (With License Retention
        and Warranty Disclaimer)
   url: https://fairfield-programming.github.io/openlist/licenses/fsfullrwd
-  since: ''
+  since: '1994'
 - id: ftl
   name: Freetype Project License
   url: https://fairfield-programming.github.io/openlist/licenses/ftl
-  since: ''
+  since: '1996'
 - id: gd
   name: GD License
   url: https://fairfield-programming.github.io/openlist/licenses/gd
-  since: ''
+  since: '1994'
 - id: gfdl-1.1-invariants-only
   name: GNU Free Documentation License v1.1 only - invariants
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/gfdl-1.1-invariants-only
-  since: ''
+  since: '2000'
 - id: gfdl-1.1-invariants-or-later
   name: GNU Free Documentation License v1.1 or later - invariants
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/gfdl-1.1-invariants-or-later
-  since: ''
+  since: '2000'
 - id: gfdl-1.1-no-invariants-only
   name: GNU Free Documentation License v1.1 only - no invariants
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/gfdl-1.1-no-invariants-only
-  since: ''
+  since: '2000'
 - id: gfdl-1.1-no-invariants-or-later
   name: GNU Free Documentation License v1.1 or later - no invariants
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/gfdl-1.1-no-invariants-or-later
-  since: ''
+  since: '2000'
 - id: gfdl-1.1-only
   name: GNU Free Documentation License v1.1 only
   url: https://fairfield-programming.github.io/openlist/licenses/gfdl-1.1-only
-  since: ''
+  since: '2000'
 - id: gfdl-1.1-or-later
   name: GNU Free Documentation License v1.1 or later
   url: https://fairfield-programming.github.io/openlist/licenses/gfdl-1.1-or-later
-  since: ''
+  since: '2000'
 - id: gfdl-1.1
   name: GNU Free Documentation License v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/gfdl-1.1
-  since: ''
+  since: '2000'
 - id: gfdl-1.2-invariants-only
   name: GNU Free Documentation License v1.2 only - invariants
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/gfdl-1.2-invariants-only
-  since: ''
+  since: '2000'
 - id: gfdl-1.2-invariants-or-later
   name: GNU Free Documentation License v1.2 or later - invariants
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/gfdl-1.2-invariants-or-later
-  since: ''
+  since: '2000'
 - id: gfdl-1.2-no-invariants-only
   name: GNU Free Documentation License v1.2 only - no invariants
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/gfdl-1.2-no-invariants-only
-  since: ''
+  since: '2000'
 - id: gfdl-1.2-no-invariants-or-later
   name: GNU Free Documentation License v1.2 or later - no invariants
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/gfdl-1.2-no-invariants-or-later
-  since: ''
+  since: '2000'
 - id: gfdl-1.2-only
   name: GNU Free Documentation License v1.2 only
   url: https://fairfield-programming.github.io/openlist/licenses/gfdl-1.2-only
-  since: ''
+  since: '2000'
 - id: gfdl-1.2-or-later
   name: GNU Free Documentation License v1.2 or later
   url: https://fairfield-programming.github.io/openlist/licenses/gfdl-1.2-or-later
-  since: ''
+  since: '2000'
 - id: gfdl-1.2
   name: GNU Free Documentation License v1.2
   url: https://fairfield-programming.github.io/openlist/licenses/gfdl-1.2
-  since: ''
+  since: '2000'
 - id: gfdl-1.3-invariants-only
   name: GNU Free Documentation License v1.3 only - invariants
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/gfdl-1.3-invariants-only
-  since: ''
+  since: '2000'
 - id: gfdl-1.3-invariants-or-later
   name: GNU Free Documentation License v1.3 or later - invariants
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/gfdl-1.3-invariants-or-later
-  since: ''
+  since: '2000'
 - id: gfdl-1.3-no-invariants-only
   name: GNU Free Documentation License v1.3 only - no invariants
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/gfdl-1.3-no-invariants-only
-  since: ''
+  since: '2000'
 - id: gfdl-1.3-no-invariants-or-later
   name: GNU Free Documentation License v1.3 or later - no invariants
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/gfdl-1.3-no-invariants-or-later
-  since: ''
+  since: '2000'
 - id: gfdl-1.3-only
   name: GNU Free Documentation License v1.3 only
   url: https://fairfield-programming.github.io/openlist/licenses/gfdl-1.3-only
-  since: ''
+  since: '2000'
 - id: gfdl-1.3-or-later
   name: GNU Free Documentation License v1.3 or later
   url: https://fairfield-programming.github.io/openlist/licenses/gfdl-1.3-or-later
-  since: ''
+  since: '2000'
 - id: gfdl-1.3
   name: GNU Free Documentation License v1.3
   url: https://fairfield-programming.github.io/openlist/licenses/gfdl-1.3
-  since: ''
+  since: '2000'
 - id: giftware
   name: Giftware License
   url: https://fairfield-programming.github.io/openlist/licenses/giftware
-  since: ''
+  since: '1998'
 - id: gl2ps
   name: GL2PS License
   url: https://fairfield-programming.github.io/openlist/licenses/gl2ps
-  since: ''
+  since: '2003'
 - id: glide
   name: 3dfx Glide License
   url: https://fairfield-programming.github.io/openlist/licenses/glide
-  since: ''
+  since: '1999'
 - id: glulxe
   name: Glulxe License
   url: https://fairfield-programming.github.io/openlist/licenses/glulxe
-  since: ''
+  since: '1999'
 - id: glwtpl
   name: Good Luck With That Public License
   url: https://fairfield-programming.github.io/openlist/licenses/glwtpl
@@ -952,35 +952,35 @@
 - id: gnuplot
   name: gnuplot License
   url: https://fairfield-programming.github.io/openlist/licenses/gnuplot
-  since: ''
+  since: '1986'
 - id: gpl-1.0+
   name: GNU General Public License v1.0 or later
   url: https://fairfield-programming.github.io/openlist/licenses/gpl-1.0+
-  since: ''
+  since: '1989'
 - id: gpl-1.0-only
   name: GNU General Public License v1.0 only
   url: https://fairfield-programming.github.io/openlist/licenses/gpl-1.0-only
-  since: ''
+  since: '1989'
 - id: gpl-1.0-or-later
   name: GNU General Public License v1.0 or later
   url: https://fairfield-programming.github.io/openlist/licenses/gpl-1.0-or-later
-  since: ''
+  since: '1989'
 - id: gpl-1.0
   name: GNU General Public License v1.0 only
   url: https://fairfield-programming.github.io/openlist/licenses/gpl-1.0
-  since: ''
+  since: '1989'
 - id: gpl-2.0+
   name: GNU General Public License v2.0 or later
   url: https://fairfield-programming.github.io/openlist/licenses/gpl-2.0+
-  since: ''
+  since: '1989'
 - id: gpl-2.0-only
   name: GNU General Public License v2.0 only
   url: https://fairfield-programming.github.io/openlist/licenses/gpl-2.0-only
-  since: ''
+  since: '1989'
 - id: gpl-2.0-or-later
   name: GNU General Public License v2.0 or later
   url: https://fairfield-programming.github.io/openlist/licenses/gpl-2.0-or-later
-  since: ''
+  since: '1989'
 - id: gpl-2.0-with-autoconf-exception
   name: GNU General Public License v2.0 w/Autoconf exception
   url: >-
@@ -1009,33 +1009,33 @@
 - id: gpl-2.0
   name: GNU General Public License v2.0 only
   url: https://fairfield-programming.github.io/openlist/licenses/gpl-2.0
-  since: ''
+  since: '1989'
 - id: gpl-3.0+
   name: GNU General Public License v3.0 or later
   url: https://fairfield-programming.github.io/openlist/licenses/gpl-3.0+
-  since: ''
+  since: '2007'
 - id: gpl-3.0-only
   name: GNU General Public License v3.0 only
   url: https://fairfield-programming.github.io/openlist/licenses/gpl-3.0-only
-  since: ''
+  since: '2007'
 - id: gpl-3.0-or-later
   name: GNU General Public License v3.0 or later
   url: https://fairfield-programming.github.io/openlist/licenses/gpl-3.0-or-later
-  since: ''
+  since: '2007'
 - id: gpl-3.0-with-autoconf-exception
   name: GNU General Public License v3.0 w/Autoconf exception
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/gpl-3.0-with-autoconf-exception
-  since: ''
+  since: '2009'
 - id: gpl-3.0-with-gcc-exception
   name: GNU General Public License v3.0 w/GCC Runtime Library exception
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/gpl-3.0-with-gcc-exception
-  since: ''
+  since: '2009'
 - id: gpl-3.0
   name: GNU General Public License v3.0 only
   url: https://fairfield-programming.github.io/openlist/licenses/gpl-3.0
-  since: ''
+  since: '2007'
 - id: graphics-gems
   name: Graphics Gems License
   url: https://fairfield-programming.github.io/openlist/licenses/graphics-gems
@@ -1043,11 +1043,11 @@
 - id: gsoap-1.3b
   name: gSOAP Public License v1.3b
   url: https://fairfield-programming.github.io/openlist/licenses/gsoap-1.3b
-  since: ''
+  since: '2001'
 - id: haskellreport
   name: Haskell Language Report License
   url: https://fairfield-programming.github.io/openlist/licenses/haskellreport
-  since: ''
+  since: '2010'
 - id: hippocratic-2.1
   name: Hippocratic License 2.1
   url: https://fairfield-programming.github.io/openlist/licenses/hippocratic-2.1
@@ -1055,7 +1055,7 @@
 - id: hpnd-export-us
   name: HPND with US Government export control warning
   url: https://fairfield-programming.github.io/openlist/licenses/hpnd-export-us
-  since: ''
+  since: '1990'
 - id: hpnd-sell-variant
   name: Historical Permission Notice and Disclaimer - sell variant
   url: https://fairfield-programming.github.io/openlist/licenses/hpnd-sell-variant
@@ -1071,27 +1071,27 @@
 - id: ibm-pibs
   name: IBM PowerPC Initialization and Boot Software
   url: https://fairfield-programming.github.io/openlist/licenses/ibm-pibs
-  since: ''
+  since: '2002'
 - id: icu
   name: ICU License
   url: https://fairfield-programming.github.io/openlist/licenses/icu
-  since: ''
+  since: '1995'
 - id: ijg-short
   name: Independent JPEG Group License - short
   url: https://fairfield-programming.github.io/openlist/licenses/ijg-short
-  since: ''
+  since: '1991'
 - id: ijg
   name: Independent JPEG Group License
   url: https://fairfield-programming.github.io/openlist/licenses/ijg
-  since: ''
+  since: '1991'
 - id: imagemagick
   name: ImageMagick License
   url: https://fairfield-programming.github.io/openlist/licenses/imagemagick
-  since: ''
+  since: '1999'
 - id: imatix
   name: iMatix Standard Function Library Agreement
   url: https://fairfield-programming.github.io/openlist/licenses/imatix
-  since: ''
+  since: '1991'
 - id: imlib2
   name: Imlib2 License
   url: https://fairfield-programming.github.io/openlist/licenses/imlib2
@@ -1099,19 +1099,19 @@
 - id: info-zip
   name: Info-ZIP License
   url: https://fairfield-programming.github.io/openlist/licenses/info-zip
-  since: ''
+  since: '1990'
 - id: intel-acpi
   name: Intel ACPI Software License Agreement
   url: https://fairfield-programming.github.io/openlist/licenses/intel-acpi
-  since: ''
+  since: '1999'
 - id: intel
   name: Intel Open Source License
   url: https://fairfield-programming.github.io/openlist/licenses/intel
-  since: ''
+  since: '1996'
 - id: interbase-1.0
   name: Interbase Public License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/interbase-1.0
-  since: ''
+  since: '1995'
 - id: ipa
   name: IPA Font License
   url: https://fairfield-programming.github.io/openlist/licenses/ipa
@@ -1119,7 +1119,7 @@
 - id: ipl-1.0
   name: IBM Public License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/ipl-1.0
-  since: ''
+  since: '1996'
 - id: isc
   name: ISC License
   url: https://fairfield-programming.github.io/openlist/licenses/isc
@@ -1127,19 +1127,19 @@
 - id: jam
   name: Jam License
   url: https://fairfield-programming.github.io/openlist/licenses/jam
-  since: ''
+  since: '1993'
 - id: jasper-2.0
   name: JasPer License
   url: https://fairfield-programming.github.io/openlist/licenses/jasper-2.0
-  since: ''
+  since: '2001'
 - id: jpnic
   name: Japan Network Information Center License
   url: https://fairfield-programming.github.io/openlist/licenses/jpnic
-  since: ''
+  since: '2000'
 - id: json
   name: JSON License
   url: https://fairfield-programming.github.io/openlist/licenses/json
-  since: ''
+  since: '2002'
 - id: knuth-ctan
   name: Knuth CTAN License
   url: https://fairfield-programming.github.io/openlist/licenses/knuth-ctan
@@ -1155,59 +1155,59 @@
 - id: latex2e
   name: Latex2e License
   url: https://fairfield-programming.github.io/openlist/licenses/latex2e
-  since: ''
+  since: '2007'
 - id: leptonica
   name: Leptonica License
   url: https://fairfield-programming.github.io/openlist/licenses/leptonica
-  since: ''
+  since: '2001'
 - id: lgpl-2.0+
   name: GNU Library General Public License v2 or later
   url: https://fairfield-programming.github.io/openlist/licenses/lgpl-2.0+
-  since: ''
+  since: '1991'
 - id: lgpl-2.0-only
   name: GNU Library General Public License v2 only
   url: https://fairfield-programming.github.io/openlist/licenses/lgpl-2.0-only
-  since: ''
+  since: '1991'
 - id: lgpl-2.0-or-later
   name: GNU Library General Public License v2 or later
   url: https://fairfield-programming.github.io/openlist/licenses/lgpl-2.0-or-later
-  since: ''
+  since: '1991'
 - id: lgpl-2.0
   name: GNU Library General Public License v2 only
   url: https://fairfield-programming.github.io/openlist/licenses/lgpl-2.0
-  since: ''
+  since: '1991'
 - id: lgpl-2.1+
   name: GNU Lesser General Public License v2.1 or later
   url: https://fairfield-programming.github.io/openlist/licenses/lgpl-2.1+
-  since: ''
+  since: '1991'
 - id: lgpl-2.1-only
   name: GNU Lesser General Public License v2.1 only
   url: https://fairfield-programming.github.io/openlist/licenses/lgpl-2.1-only
-  since: ''
+  since: '1991'
 - id: lgpl-2.1-or-later
   name: GNU Lesser General Public License v2.1 or later
   url: https://fairfield-programming.github.io/openlist/licenses/lgpl-2.1-or-later
-  since: ''
+  since: '1991'
 - id: lgpl-2.1
   name: GNU Lesser General Public License v2.1 only
   url: https://fairfield-programming.github.io/openlist/licenses/lgpl-2.1
-  since: ''
+  since: '1991'
 - id: lgpl-3.0+
   name: GNU Lesser General Public License v3.0 or later
   url: https://fairfield-programming.github.io/openlist/licenses/lgpl-3.0+
-  since: ''
+  since: '2007'
 - id: lgpl-3.0-only
   name: GNU Lesser General Public License v3.0 only
   url: https://fairfield-programming.github.io/openlist/licenses/lgpl-3.0-only
-  since: ''
+  since: '2007'
 - id: lgpl-3.0-or-later
   name: GNU Lesser General Public License v3.0 or later
   url: https://fairfield-programming.github.io/openlist/licenses/lgpl-3.0-or-later
-  since: ''
+  since: '2007'
 - id: lgpl-3.0
   name: GNU Lesser General Public License v3.0 only
   url: https://fairfield-programming.github.io/openlist/licenses/lgpl-3.0
-  since: ''
+  since: '2007'
 - id: lgpllr
   name: Lesser General Public License For Linguistic Resources
   url: https://fairfield-programming.github.io/openlist/licenses/lgpllr
@@ -1215,11 +1215,11 @@
 - id: libpng-2.0
   name: PNG Reference Library version 2
   url: https://fairfield-programming.github.io/openlist/licenses/libpng-2.0
-  since: ''
+  since: '1995'
 - id: libpng
   name: libpng License
   url: https://fairfield-programming.github.io/openlist/licenses/libpng
-  since: ''
+  since: '2004'
 - id: libselinux-1.0
   name: libselinux public domain notice
   url: https://fairfield-programming.github.io/openlist/licenses/libselinux-1.0
@@ -1227,12 +1227,12 @@
 - id: libtiff
   name: libtiff License
   url: https://fairfield-programming.github.io/openlist/licenses/libtiff
-  since: ''
+  since: '1988'
 - id: libutil-david-nugent
   name: libutil David Nugent License
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/libutil-david-nugent
-  since: ''
+  since: '1995'
 - id: liliq-p-1.1
   name: Licence Libre du Québec – Permissive version 1.1
   url: https://fairfield-programming.github.io/openlist/licenses/liliq-p-1.1
@@ -1257,7 +1257,7 @@
 - id: loop
   name: Common Lisp LOOP License
   url: https://fairfield-programming.github.io/openlist/licenses/loop
-  since: ''
+  since: '1986'
 - id: lpl-1.0
   name: Lucent Public License Version 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/lpl-1.0
@@ -1265,44 +1265,44 @@
 - id: lpl-1.02
   name: Lucent Public License v1.02
   url: https://fairfield-programming.github.io/openlist/licenses/lpl-1.02
-  since: ''
+  since: '2003'
 - id: lppl-1.0
   name: LaTeX Project Public License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/lppl-1.0
-  since: ''
+  since: '1999'
 - id: lppl-1.1
   name: LaTeX Project Public License v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/lppl-1.1
-  since: ''
+  since: '1999'
 - id: lppl-1.2
   name: LaTeX Project Public License v1.2
   url: https://fairfield-programming.github.io/openlist/licenses/lppl-1.2
-  since: ''
+  since: '1999'
 - id: lppl-1.3a
   name: LaTeX Project Public License v1.3a
   url: https://fairfield-programming.github.io/openlist/licenses/lppl-1.3a
-  since: ''
+  since: '1999'
 - id: lppl-1.3c
   name: LaTeX Project Public License v1.3c
   url: https://fairfield-programming.github.io/openlist/licenses/lppl-1.3c
-  since: ''
+  since: '1999'
 - id: lzma-sdk-9.11-to-9.20
   name: LZMA SDK License (versions 9.11 to 9.20)
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/lzma-sdk-9.11-to-9.20
-  since: ''
+  since: '2001'
 - id: lzma-sdk-9.22
   name: LZMA SDK License (versions 9.22 and beyond)
   url: https://fairfield-programming.github.io/openlist/licenses/lzma-sdk-9.22
-  since: ''
+  since: '2001'
 - id: makeindex
   name: MakeIndex License
   url: https://fairfield-programming.github.io/openlist/licenses/makeindex
-  since: ''
+  since: '1989'
 - id: minpack
   name: Minpack License
   url: https://fairfield-programming.github.io/openlist/licenses/minpack
-  since: ''
+  since: '1999'
 - id: miros
   name: The MirOS Licence
   url: https://fairfield-programming.github.io/openlist/licenses/miros
@@ -1314,7 +1314,7 @@
 - id: mit-advertising
   name: Enlightenment License (e16)
   url: https://fairfield-programming.github.io/openlist/licenses/mit-advertising
-  since: ''
+  since: '2000'
 - id: mit-cmu
   name: CMU License
   url: https://fairfield-programming.github.io/openlist/licenses/mit-cmu
@@ -1322,7 +1322,7 @@
 - id: mit-enna
   name: enna License
   url: https://fairfield-programming.github.io/openlist/licenses/mit-enna
-  since: ''
+  since: '2000'
 - id: mit-feh
   name: feh License
   url: https://fairfield-programming.github.io/openlist/licenses/mit-feh
@@ -1330,7 +1330,7 @@
 - id: mit-modern-variant
   name: MIT License Modern Variant
   url: https://fairfield-programming.github.io/openlist/licenses/mit-modern-variant
-  since: ''
+  since: '1990'
 - id: mit-open-group
   name: MIT Open Group variant
   url: https://fairfield-programming.github.io/openlist/licenses/mit-open-group
@@ -1338,7 +1338,7 @@
 - id: mit-wu
   name: MIT Tom Wu Variant
   url: https://fairfield-programming.github.io/openlist/licenses/mit-wu
-  since: ''
+  since: '2003'
 - id: mit
   name: MIT License
   url: https://fairfield-programming.github.io/openlist/licenses/mit
@@ -1354,19 +1354,19 @@
 - id: mpi-permissive
   name: mpi Permissive License
   url: https://fairfield-programming.github.io/openlist/licenses/mpi-permissive
-  since: ''
+  since: '2000'
 - id: mpich2
   name: mpich2 License
   url: https://fairfield-programming.github.io/openlist/licenses/mpich2
-  since: ''
+  since: '1998'
 - id: mpl-1.0
   name: Mozilla Public License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/mpl-1.0
-  since: ''
+  since: '1995'
 - id: mpl-1.1
   name: Mozilla Public License 1.1
   url: https://fairfield-programming.github.io/openlist/licenses/mpl-1.1
-  since: ''
+  since: '1995'
 - id: mpl-2.0-no-copyleft-exception
   name: Mozilla Public License 2.0 (no copyleft exception)
   url: >-
@@ -1395,11 +1395,11 @@
 - id: mtll
   name: Matrix Template Library License
   url: https://fairfield-programming.github.io/openlist/licenses/mtll
-  since: ''
+  since: '2007'
 - id: mulanpsl-1.0
   name: Mulan Permissive Software License, Version 1
   url: https://fairfield-programming.github.io/openlist/licenses/mulanpsl-1.0
-  since: ''
+  since: '2019'
 - id: mulanpsl-2.0
   name: Mulan Permissive Software License, Version 2
   url: https://fairfield-programming.github.io/openlist/licenses/mulanpsl-2.0
@@ -1407,15 +1407,15 @@
 - id: multics
   name: Multics License
   url: https://fairfield-programming.github.io/openlist/licenses/multics
-  since: ''
+  since: '1963'
 - id: mup
   name: Mup License
   url: https://fairfield-programming.github.io/openlist/licenses/mup
-  since: ''
+  since: '1995'
 - id: naist-2003
   name: Nara Institute of Science and Technology License (2003)
   url: https://fairfield-programming.github.io/openlist/licenses/naist-2003
-  since: ''
+  since: '2000'
 - id: nasa-1.3
   name: NASA Open Source Agreement 1.3
   url: https://fairfield-programming.github.io/openlist/licenses/nasa-1.3
@@ -1427,7 +1427,7 @@
 - id: nbpl-1.0
   name: Net Boolean Public License v1
   url: https://fairfield-programming.github.io/openlist/licenses/nbpl-1.0
-  since: ''
+  since: '1998'
 - id: ncgl-uk-2.0
   name: Non-Commercial Government Licence
   url: https://fairfield-programming.github.io/openlist/licenses/ncgl-uk-2.0
@@ -1439,23 +1439,23 @@
 - id: net-snmp
   name: Net-SNMP License
   url: https://fairfield-programming.github.io/openlist/licenses/net-snmp
-  since: ''
+  since: '1989'
 - id: netcdf
   name: NetCDF license
   url: https://fairfield-programming.github.io/openlist/licenses/netcdf
-  since: ''
+  since: '1993'
 - id: newsletr
   name: Newsletr License
   url: https://fairfield-programming.github.io/openlist/licenses/newsletr
-  since: ''
+  since: '1989'
 - id: ngpl
   name: Nethack General Public License
   url: https://fairfield-programming.github.io/openlist/licenses/ngpl
-  since: ''
+  since: '1989'
 - id: nicta-1.0
   name: NICTA Public Software License, Version 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/nicta-1.0
-  since: ''
+  since: '2004'
 - id: nist-pd-fallback
   name: NIST Public Domain Notice with license fallback
   url: https://fairfield-programming.github.io/openlist/licenses/nist-pd-fallback
@@ -1475,7 +1475,7 @@
 - id: nlpl
   name: No Limit Public License
   url: https://fairfield-programming.github.io/openlist/licenses/nlpl
-  since: ''
+  since: '3558'
 - id: nokia
   name: Nokia Open Source License
   url: https://fairfield-programming.github.io/openlist/licenses/nokia
@@ -1483,23 +1483,23 @@
 - id: nosl
   name: Netizen Open Source License
   url: https://fairfield-programming.github.io/openlist/licenses/nosl
-  since: ''
+  since: '1995'
 - id: noweb
   name: Noweb License
   url: https://fairfield-programming.github.io/openlist/licenses/noweb
-  since: ''
+  since: '1989'
 - id: npl-1.0
   name: Netscape Public License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/npl-1.0
-  since: ''
+  since: '1995'
 - id: npl-1.1
   name: Netscape Public License v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/npl-1.1
-  since: ''
+  since: '1998'
 - id: nposl-3.0
   name: Non-Profit Open Software License 3.0
   url: https://fairfield-programming.github.io/openlist/licenses/nposl-3.0
-  since: ''
+  since: '2005'
 - id: nrl
   name: NRL License
   url: https://fairfield-programming.github.io/openlist/licenses/nrl
@@ -1515,7 +1515,7 @@
 - id: nunit
   name: Nunit License
   url: https://fairfield-programming.github.io/openlist/licenses/nunit
-  since: ''
+  since: '2002'
 - id: o-uda-1.0
   name: Open Use of Data Agreement v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/o-uda-1.0
@@ -1523,19 +1523,19 @@
 - id: occt-pl
   name: Open CASCADE Technology Public License
   url: https://fairfield-programming.github.io/openlist/licenses/occt-pl
-  since: ''
+  since: '7828'
 - id: oclc-2.0
   name: OCLC Research Public License 2.0
   url: https://fairfield-programming.github.io/openlist/licenses/oclc-2.0
-  since: ''
+  since: '2002'
 - id: odbl-1.0
   name: Open Data Commons Open Database License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/odbl-1.0
-  since: ''
+  since: '1996'
 - id: odc-by-1.0
   name: Open Data Commons Attribution License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/odc-by-1.0
-  since: ''
+  since: '1996'
 - id: ofl-1.0-no-rfn
   name: SIL Open Font License 1.0 with no Reserved Font Name
   url: https://fairfield-programming.github.io/openlist/licenses/ofl-1.0-no-rfn
@@ -1571,11 +1571,11 @@
 - id: ogl-canada-2.0
   name: Open Government Licence - Canada
   url: https://fairfield-programming.github.io/openlist/licenses/ogl-canada-2.0
-  since: ''
+  since: '1985'
 - id: ogl-uk-1.0
   name: Open Government Licence v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/ogl-uk-1.0
-  since: ''
+  since: '1998'
 - id: ogl-uk-2.0
   name: Open Government Licence v2.0
   url: https://fairfield-programming.github.io/openlist/licenses/ogl-uk-2.0
@@ -1591,67 +1591,67 @@
 - id: oldap-1.1
   name: Open LDAP Public License v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/oldap-1.1
-  since: ''
+  since: '1998'
 - id: oldap-1.2
   name: Open LDAP Public License v1.2
   url: https://fairfield-programming.github.io/openlist/licenses/oldap-1.2
-  since: ''
+  since: '1998'
 - id: oldap-1.3
   name: Open LDAP Public License v1.3
   url: https://fairfield-programming.github.io/openlist/licenses/oldap-1.3
-  since: ''
+  since: '1998'
 - id: oldap-1.4
   name: Open LDAP Public License v1.4
   url: https://fairfield-programming.github.io/openlist/licenses/oldap-1.4
-  since: ''
+  since: '1998'
 - id: oldap-2.0.1
   name: Open LDAP Public License v2.0.1
   url: https://fairfield-programming.github.io/openlist/licenses/oldap-2.0.1
-  since: ''
+  since: '1999'
 - id: oldap-2.0
   name: Open LDAP Public License v2.0 (or possibly 2.0A and 2.0B)
   url: https://fairfield-programming.github.io/openlist/licenses/oldap-2.0
-  since: ''
+  since: '1999'
 - id: oldap-2.1
   name: Open LDAP Public License v2.1
   url: https://fairfield-programming.github.io/openlist/licenses/oldap-2.1
-  since: ''
+  since: '1999'
 - id: oldap-2.2.1
   name: Open LDAP Public License v2.2.1
   url: https://fairfield-programming.github.io/openlist/licenses/oldap-2.2.1
-  since: ''
+  since: '1999'
 - id: oldap-2.2.2
   name: Open LDAP Public License 2.2.2
   url: https://fairfield-programming.github.io/openlist/licenses/oldap-2.2.2
-  since: ''
+  since: '1999'
 - id: oldap-2.2
   name: Open LDAP Public License v2.2
   url: https://fairfield-programming.github.io/openlist/licenses/oldap-2.2
-  since: ''
+  since: '1999'
 - id: oldap-2.3
   name: Open LDAP Public License v2.3
   url: https://fairfield-programming.github.io/openlist/licenses/oldap-2.3
-  since: ''
+  since: '1999'
 - id: oldap-2.4
   name: Open LDAP Public License v2.4
   url: https://fairfield-programming.github.io/openlist/licenses/oldap-2.4
-  since: ''
+  since: '1999'
 - id: oldap-2.5
   name: Open LDAP Public License v2.5
   url: https://fairfield-programming.github.io/openlist/licenses/oldap-2.5
-  since: ''
+  since: '1999'
 - id: oldap-2.6
   name: Open LDAP Public License v2.6
   url: https://fairfield-programming.github.io/openlist/licenses/oldap-2.6
-  since: ''
+  since: '1999'
 - id: oldap-2.7
   name: Open LDAP Public License v2.7
   url: https://fairfield-programming.github.io/openlist/licenses/oldap-2.7
-  since: ''
+  since: '1999'
 - id: oldap-2.8
   name: Open LDAP Public License v2.8
   url: https://fairfield-programming.github.io/openlist/licenses/oldap-2.8
-  since: ''
+  since: '1999'
 - id: oml
   name: Open Market License
   url: https://fairfield-programming.github.io/openlist/licenses/oml
@@ -1659,11 +1659,11 @@
 - id: openssl
   name: OpenSSL License
   url: https://fairfield-programming.github.io/openlist/licenses/openssl
-  since: ''
+  since: '1998'
 - id: opl-1.0
   name: Open Public License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/opl-1.0
-  since: ''
+  since: '1995'
 - id: opubl-1.0
   name: Open Publication License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/opubl-1.0
@@ -1671,27 +1671,27 @@
 - id: oset-pl-2.1
   name: OSET Public License version 2.1
   url: https://fairfield-programming.github.io/openlist/licenses/oset-pl-2.1
-  since: ''
+  since: '2015'
 - id: osl-1.0
   name: Open Software License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/osl-1.0
-  since: ''
+  since: '2002'
 - id: osl-1.1
   name: Open Software License 1.1
   url: https://fairfield-programming.github.io/openlist/licenses/osl-1.1
-  since: ''
+  since: '2002'
 - id: osl-2.0
   name: Open Software License 2.0
   url: https://fairfield-programming.github.io/openlist/licenses/osl-2.0
-  since: ''
+  since: '2003'
 - id: osl-2.1
   name: Open Software License 2.1
   url: https://fairfield-programming.github.io/openlist/licenses/osl-2.1
-  since: ''
+  since: '2003'
 - id: osl-3.0
   name: Open Software License 3.0
   url: https://fairfield-programming.github.io/openlist/licenses/osl-3.0
-  since: ''
+  since: '2005'
 - id: parity-6.0.0
   name: The Parity Public License 6.0.0
   url: https://fairfield-programming.github.io/openlist/licenses/parity-6.0.0
@@ -1703,19 +1703,19 @@
 - id: pddl-1.0
   name: Open Data Commons Public Domain Dedication & License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/pddl-1.0
-  since: ''
+  since: '1996'
 - id: php-3.0
   name: PHP License v3.0
   url: https://fairfield-programming.github.io/openlist/licenses/php-3.0
-  since: ''
+  since: '1999'
 - id: php-3.01
   name: PHP License v3.01
   url: https://fairfield-programming.github.io/openlist/licenses/php-3.01
-  since: ''
+  since: '1999'
 - id: plexus
   name: Plexus Classworlds License
   url: https://fairfield-programming.github.io/openlist/licenses/plexus
-  since: ''
+  since: '2002'
 - id: polyform-noncommercial-1.0.0
   name: PolyForm Noncommercial License 1.0.0
   url: >-
@@ -1725,67 +1725,67 @@
   name: PolyForm Small Business License 1.0.0
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/polyform-small-business-1.0.0
-  since: ''
+  since: '2019'
 - id: postgresql
   name: PostgreSQL License
   url: https://fairfield-programming.github.io/openlist/licenses/postgresql
-  since: ''
+  since: '1996'
 - id: psf-2.0
   name: Python Software Foundation License 2.0
   url: https://fairfield-programming.github.io/openlist/licenses/psf-2.0
-  since: ''
+  since: '2001'
 - id: psfrag
   name: psfrag License
   url: https://fairfield-programming.github.io/openlist/licenses/psfrag
-  since: ''
+  since: '1996'
 - id: psutils
   name: psutils License
   url: https://fairfield-programming.github.io/openlist/licenses/psutils
-  since: ''
+  since: '1991'
 - id: python-2.0.1
   name: Python License 2.0.1
   url: https://fairfield-programming.github.io/openlist/licenses/python-2.0.1
-  since: ''
+  since: '2001'
 - id: python-2.0
   name: Python License 2.0
   url: https://fairfield-programming.github.io/openlist/licenses/python-2.0
-  since: ''
+  since: '2001'
 - id: qhull
   name: Qhull License
   url: https://fairfield-programming.github.io/openlist/licenses/qhull
-  since: ''
+  since: '1993'
 - id: qpl-1.0
   name: Q Public License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/qpl-1.0
-  since: ''
+  since: '1999'
 - id: rdisc
   name: Rdisc License
   url: https://fairfield-programming.github.io/openlist/licenses/rdisc
-  since: ''
+  since: '2550'
 - id: rhecos-1.1
   name: Red Hat eCos Public License v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/rhecos-1.1
-  since: ''
+  since: '1995'
 - id: rpl-1.1
   name: Reciprocal Public License 1.1
   url: https://fairfield-programming.github.io/openlist/licenses/rpl-1.1
-  since: ''
+  since: '2001'
 - id: rpl-1.5
   name: Reciprocal Public License 1.5
   url: https://fairfield-programming.github.io/openlist/licenses/rpl-1.5
-  since: ''
+  since: '2001'
 - id: rpsl-1.0
   name: RealNetworks Public Source License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/rpsl-1.0
-  since: ''
+  since: '7015'
 - id: rsa-md
   name: RSA Message-Digest License
   url: https://fairfield-programming.github.io/openlist/licenses/rsa-md
-  since: ''
+  since: '1991'
 - id: rscpl
   name: Ricoh Source Code Public License
   url: https://fairfield-programming.github.io/openlist/licenses/rscpl
-  since: ''
+  since: '2882'
 - id: ruby
   name: Ruby License
   url: https://fairfield-programming.github.io/openlist/licenses/ruby
@@ -1793,11 +1793,11 @@
 - id: sax-pd
   name: Sax Public Domain Notice
   url: https://fairfield-programming.github.io/openlist/licenses/sax-pd
-  since: ''
+  since: '1998'
 - id: saxpath
   name: Saxpath License
   url: https://fairfield-programming.github.io/openlist/licenses/saxpath
-  since: ''
+  since: '2000'
 - id: scea
   name: SCEA Shared Source License
   url: https://fairfield-programming.github.io/openlist/licenses/scea
@@ -1809,11 +1809,11 @@
 - id: sendmail-8.23
   name: Sendmail License 8.23
   url: https://fairfield-programming.github.io/openlist/licenses/sendmail-8.23
-  since: ''
+  since: '9408'
 - id: sendmail
   name: Sendmail License
   url: https://fairfield-programming.github.io/openlist/licenses/sendmail
-  since: ''
+  since: '6475'
 - id: sgi-b-1.0
   name: SGI Free Software License B v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/sgi-b-1.0
@@ -1845,27 +1845,27 @@
 - id: sissl
   name: Sun Industry Standards Source License v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/sissl
-  since: ''
+  since: '7201'
 - id: sleepycat
   name: Sleepycat License
   url: https://fairfield-programming.github.io/openlist/licenses/sleepycat
-  since: ''
+  since: '1990'
 - id: smlnj
   name: Standard ML of New Jersey License
   url: https://fairfield-programming.github.io/openlist/licenses/smlnj
-  since: ''
+  since: '2001'
 - id: smppl
   name: Secure Messaging Protocol Public License
   url: https://fairfield-programming.github.io/openlist/licenses/smppl
-  since: ''
+  since: '2002'
 - id: snia
   name: SNIA Public License 1.1
   url: https://fairfield-programming.github.io/openlist/licenses/snia
-  since: ''
+  since: '1995'
 - id: spencer-86
   name: Spencer License 86
   url: https://fairfield-programming.github.io/openlist/licenses/spencer-86
-  since: ''
+  since: '1986'
 - id: spencer-94
   name: Spencer License 94
   url: https://fairfield-programming.github.io/openlist/licenses/spencer-94
@@ -1873,15 +1873,15 @@
 - id: spencer-99
   name: Spencer License 99
   url: https://fairfield-programming.github.io/openlist/licenses/spencer-99
-  since: ''
+  since: '1998'
 - id: spl-1.0
   name: Sun Public License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/spl-1.0
-  since: ''
+  since: '1995'
 - id: ssh-openssh
   name: SSH OpenSSH license
   url: https://fairfield-programming.github.io/openlist/licenses/ssh-openssh
-  since: ''
+  since: '1995'
 - id: ssh-short
   name: SSH short notice
   url: https://fairfield-programming.github.io/openlist/licenses/ssh-short
@@ -1889,19 +1889,19 @@
 - id: sspl-1.0
   name: Server Side Public License, v 1
   url: https://fairfield-programming.github.io/openlist/licenses/sspl-1.0
-  since: ''
+  since: '2018'
 - id: standardml-nj
   name: Standard ML of New Jersey License
   url: https://fairfield-programming.github.io/openlist/licenses/standardml-nj
-  since: ''
+  since: '2001'
 - id: sugarcrm-1.1.3
   name: SugarCRM Public License v1.1.3
   url: https://fairfield-programming.github.io/openlist/licenses/sugarcrm-1.1.3
-  since: ''
+  since: '1995'
 - id: swl
   name: Scheme Widget Library (SWL) Software License Agreement
   url: https://fairfield-programming.github.io/openlist/licenses/swl
-  since: ''
+  since: '7013'
 - id: symlinks
   name: Symlinks License
   url: https://fairfield-programming.github.io/openlist/licenses/symlinks
@@ -1909,59 +1909,59 @@
 - id: tapr-ohl-1.0
   name: TAPR Open Hardware License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/tapr-ohl-1.0
-  since: ''
+  since: '2007'
 - id: tcl
   name: TCL/TK License
   url: https://fairfield-programming.github.io/openlist/licenses/tcl
-  since: ''
+  since: '7013'
 - id: tcp-wrappers
   name: TCP Wrappers License
   url: https://fairfield-programming.github.io/openlist/licenses/tcp-wrappers
-  since: ''
+  since: '1995'
 - id: tmate
   name: TMate Open Source License
   url: https://fairfield-programming.github.io/openlist/licenses/tmate
-  since: ''
+  since: '2004'
 - id: torque-1.1
   name: TORQUE v2.5+ Software License v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/torque-1.1
-  since: ''
+  since: '2010'
 - id: tosl
   name: Trusster Open Source License
   url: https://fairfield-programming.github.io/openlist/licenses/tosl
-  since: ''
+  since: '2006'
 - id: tpdl
   name: Time::ParseDate License
   url: https://fairfield-programming.github.io/openlist/licenses/tpdl
-  since: ''
+  since: '1996'
 - id: ttwl
   name: Text-Tabs+Wrap License
   url: https://fairfield-programming.github.io/openlist/licenses/ttwl
-  since: ''
+  since: '1996'
 - id: tu-berlin-1.0
   name: Technische Universitaet Berlin License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/tu-berlin-1.0
-  since: ''
+  since: '1992'
 - id: tu-berlin-2.0
   name: Technische Universitaet Berlin License 2.0
   url: https://fairfield-programming.github.io/openlist/licenses/tu-berlin-2.0
-  since: ''
+  since: '1992'
 - id: ucl-1.0
   name: Upstream Compatibility License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/ucl-1.0
-  since: ''
+  since: '2005'
 - id: unicode-dfs-2015
   name: Unicode License Agreement - Data Files and Software (2015)
   url: https://fairfield-programming.github.io/openlist/licenses/unicode-dfs-2015
-  since: ''
+  since: '1991'
 - id: unicode-dfs-2016
   name: Unicode License Agreement - Data Files and Software (2016)
   url: https://fairfield-programming.github.io/openlist/licenses/unicode-dfs-2016
-  since: ''
+  since: '1991'
 - id: unicode-tou
   name: Unicode Terms of Use
   url: https://fairfield-programming.github.io/openlist/licenses/unicode-tou
-  since: ''
+  since: '1991'
 - id: unlicense
   name: The Unlicense
   url: https://fairfield-programming.github.io/openlist/licenses/unlicense
@@ -1977,15 +1977,15 @@
 - id: vostrom
   name: VOSTROM Public License for Open Source
   url: https://fairfield-programming.github.io/openlist/licenses/vostrom
-  since: ''
+  since: '2007'
 - id: vsl-1.0
   name: Vovida Software License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/vsl-1.0
-  since: ''
+  since: '2000'
 - id: w3c-19980720
   name: W3C Software Notice and License (1998-07-20)
   url: https://fairfield-programming.github.io/openlist/licenses/w3c-19980720
-  since: ''
+  since: '1994'
 - id: w3c-20150513
   name: W3C Software Notice and Document License (2015-05-13)
   url: https://fairfield-programming.github.io/openlist/licenses/w3c-20150513
@@ -1993,19 +1993,19 @@
 - id: w3c
   name: W3C Software Notice and License (2002-12-31)
   url: https://fairfield-programming.github.io/openlist/licenses/w3c
-  since: ''
+  since: '2002'
 - id: watcom-1.0
   name: Sybase Open Watcom Public License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/watcom-1.0
-  since: ''
+  since: '7015'
 - id: wsuipa
   name: Wsuipa License
   url: https://fairfield-programming.github.io/openlist/licenses/wsuipa
-  since: ''
+  since: '2008'
 - id: wtfpl
   name: Do What The F*ck You Want To Public License
   url: https://fairfield-programming.github.io/openlist/licenses/wtfpl
-  since: ''
+  since: '2004'
 - id: wxwindows
   name: wxWindows Library License
   url: https://fairfield-programming.github.io/openlist/licenses/wxwindows
@@ -2018,27 +2018,27 @@
 - id: x11
   name: X11 License
   url: https://fairfield-programming.github.io/openlist/licenses/x11
-  since: ''
+  since: '1996'
 - id: xerox
   name: Xerox License
   url: https://fairfield-programming.github.io/openlist/licenses/xerox
-  since: ''
+  since: '1995'
 - id: xfree86-1.1
   name: XFree86 License 1.1
   url: https://fairfield-programming.github.io/openlist/licenses/xfree86-1.1
-  since: ''
+  since: '1994'
 - id: xinetd
   name: xinetd License
   url: https://fairfield-programming.github.io/openlist/licenses/xinetd
-  since: ''
+  since: '1992'
 - id: xnet
   name: X.Net License
   url: https://fairfield-programming.github.io/openlist/licenses/xnet
-  since: ''
+  since: '2000'
 - id: xpp
   name: XPP License
   url: https://fairfield-programming.github.io/openlist/licenses/xpp
-  since: ''
+  since: '2002'
 - id: xskat
   name: XSkat License
   url: https://fairfield-programming.github.io/openlist/licenses/xskat
@@ -2046,23 +2046,23 @@
 - id: ypl-1.0
   name: Yahoo! Public License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/ypl-1.0
-  since: ''
+  since: '9408'
 - id: ypl-1.1
   name: Yahoo! Public License v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/ypl-1.1
-  since: ''
+  since: '9408'
 - id: zed
   name: Zed License
   url: https://fairfield-programming.github.io/openlist/licenses/zed
-  since: ''
+  since: '1995'
 - id: zend-2.0
   name: Zend License v2.0
   url: https://fairfield-programming.github.io/openlist/licenses/zend-2.0
-  since: ''
+  since: '1999'
 - id: zimbra-1.3
   name: Zimbra Public License v1.3
   url: https://fairfield-programming.github.io/openlist/licenses/zimbra-1.3
-  since: ''
+  since: '3401'
 - id: zimbra-1.4
   name: Zimbra Public License v1.4
   url: https://fairfield-programming.github.io/openlist/licenses/zimbra-1.4
@@ -2071,7 +2071,7 @@
   name: zlib/libpng License with Acknowledgement
   url: >-
     https://fairfield-programming.github.io/openlist/licenses/zlib-acknowledgement
-  since: ''
+  since: '2002'
 - id: zlib
   name: zlib License
   url: https://fairfield-programming.github.io/openlist/licenses/zlib
