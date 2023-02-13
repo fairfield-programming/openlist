@@ -5,7 +5,8 @@ since: '2002'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Copyright (c) 2002 by AUTHOR PROFESSIONAL IDENTIFICATION * URL "PROMOTIONAL
   SLOGAN FOR AUTHOR'S PROFESSIONAL PRACTICE" All Rights Reserved

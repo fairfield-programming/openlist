@@ -5,7 +5,8 @@ since: '1995'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Copyright (c) 1995-1999 The Apache Group. All rights reserved.
 

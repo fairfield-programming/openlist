@@ -7,6 +7,7 @@ permissions: []
 conditions: []
 limitations:
   - warranty
+  - liability
 body: >-
   1.0 DEFINITIONS 1.1 "Commercial Use" means distribution or otherwise making
   the Original Code available to a third party.

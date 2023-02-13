@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   This OGC work (including software, documents, or other related items) is being
   provided by the copyright holders under the following license. By obtaining,

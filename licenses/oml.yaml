@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   This FastCGI application library source and object code (the "Software") and
   its documentation (the "Documentation") are copyrighted by Open Market, Inc

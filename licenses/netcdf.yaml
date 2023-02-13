@@ -5,7 +5,8 @@ since: '1993'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Copyright 1993-2014 University Corporation for Atmospheric Research/Unidata
 

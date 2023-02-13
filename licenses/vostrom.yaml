@@ -5,7 +5,8 @@ since: '2007'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Copyright (c) 2007 VOSTROM Holdings, Inc.
 

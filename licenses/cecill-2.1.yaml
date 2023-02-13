@@ -5,7 +5,8 @@ since: '2013'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Version 2.1 dated 2013-06-21
 

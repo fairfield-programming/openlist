@@ -5,7 +5,8 @@ since: '2019'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   <https://polyformproject.org/licenses/small-business/1.0.0>
 

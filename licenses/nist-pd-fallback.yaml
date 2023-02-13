@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   This software was developed by employees of the National Institute of
   Standards and Technology (NIST), an agency of the Federal Government and is

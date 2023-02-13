@@ -5,7 +5,8 @@ since: '2020'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   The Purpose of this License. This License sets forth the terms under which 1)
   Contributor will participate in and contribute to the development of

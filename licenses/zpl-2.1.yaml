@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   ?-?A copyright notice accompanies this license document that identifies the
   copyright holders. This license has been certified as open source. It has also

@@ -5,7 +5,8 @@ since: '1993'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   ACE(TM), TAO(TM), CIAO(TM), DAnCE>(TM), and CoSMIC(TM) (henceforth referred to
   as "DOC software") are copyrighted by Douglas C. Schmidt and his research

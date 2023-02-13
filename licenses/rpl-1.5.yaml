@@ -7,6 +7,7 @@ permissions: []
 conditions: []
 limitations:
   - warranty
+  - liability
 body: >-
   Copyright (C) 2001-2007 Technical Pursuit Inc., All Rights Reserved.
 

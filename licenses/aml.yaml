@@ -5,7 +5,8 @@ since: '2006'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Copyright: Copyright (c) 2006 by Apple Computer, Inc., All Rights Reserved.
 

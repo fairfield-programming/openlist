@@ -5,7 +5,8 @@ since: '1994'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Copyright 1994-2009 Sun Microsystems, Inc. All Rights Reserved.
 

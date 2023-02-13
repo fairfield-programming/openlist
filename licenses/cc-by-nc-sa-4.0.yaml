@@ -5,7 +5,8 @@ since: '1996'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   ?-?Creative Commons Corporation (“Creative Commons”) is not a law firm and
   does not provide legal services or legal advice. Distribution of Creative

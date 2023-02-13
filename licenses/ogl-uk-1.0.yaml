@@ -5,7 +5,8 @@ since: '1998'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   You are encouraged to use and re-use the Information that is available under
   this licence, the Open Government Licence, freely and flexibly, with only a

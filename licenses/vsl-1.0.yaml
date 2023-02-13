@@ -5,7 +5,8 @@ since: '2000'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   ?-?This license applies to all software incorporated in the "Vovida Open
   Communication Application Library" except for those portions incorporating

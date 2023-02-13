@@ -5,7 +5,8 @@ since: '1999'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Copyright 1999-2000, The OpenLDAP Foundation, Redwood City, California, USA.
   All Rights Reserved.

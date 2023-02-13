@@ -5,7 +5,8 @@ since: '1997'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Copyright (c) 1997,1998,2002,2007 Adobe Systems Incorporated
 

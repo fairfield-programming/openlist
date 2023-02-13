@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   ?-?The following license terms and conditions apply, unless a redistribution
   agreement or other license is obtained from Proofpoint, Inc., 892 Ross Street,

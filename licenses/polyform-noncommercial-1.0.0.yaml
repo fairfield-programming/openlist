@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   <https://polyformproject.org/licenses/noncommercial/1.0.0>
 

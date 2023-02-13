@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Rdisc (this program) was developed by Sun Microsystems, Inc. and is provided
   for unrestricted use provided that this legend is included on all tape media

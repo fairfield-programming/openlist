@@ -5,7 +5,8 @@ since: '2006'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Copyright (c) 2006 Academy of Motion Picture Arts and Sciences ("A.M.P.A.S.").
   Portions contributed by others as indicated. All rights reserved.

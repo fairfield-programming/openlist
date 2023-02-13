@@ -5,7 +5,8 @@ since: '1999'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Copyright (c) 1999-2002 Zend Technologies Ltd. All rights reserved.
 

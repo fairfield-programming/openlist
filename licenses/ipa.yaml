@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   The Licensor provides the Licensed Program (as defined in Article 1 below)
   under the terms of this license agreement ("Agreement"). Any use, reproduction

@@ -5,7 +5,8 @@ since: '1895'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   IMPORTANT: PLEASE READ THE FOLLOWING AGREEMENT CAREFULLY.
 

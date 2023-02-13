@@ -5,7 +5,8 @@ since: '2007'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   EUPL © the European Union 2007, 2016
 

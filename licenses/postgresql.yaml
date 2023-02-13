@@ -5,7 +5,8 @@ since: '1996'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Portions Copyright (c) 1996-2010, The PostgreSQL Global Development Group
   Portions Copyright (c) 1994, The Regents of the University of California

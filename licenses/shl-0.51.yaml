@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   This license is based closely on the Apache License Version 2.0, but is not
   approved or endorsed by the Apache Foundation. A copy of the non-modified

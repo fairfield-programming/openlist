@@ -7,6 +7,7 @@ permissions: []
 conditions: []
 limitations:
   - warranty
+  - liability
 body: >-
   ?-?The gSOAP public license is derived from the Mozilla Public License
   (MPL1.1). The sections that were deleted from the original MPL1.1 text are

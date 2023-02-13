@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   ?-?http://www.osedu.org/licenses/ The Educational Community License version
   2.0 ("ECL") consists of the Apache 2.0 license, modified to change the scope

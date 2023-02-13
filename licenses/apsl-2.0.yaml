@@ -7,6 +7,7 @@ permissions: []
 conditions: []
 limitations:
   - warranty
+  - liability
 body: >-
   ?-?Please read this License carefully before downloading this software. By
   downloading or using this software, you are agreeing to be bound by the terms

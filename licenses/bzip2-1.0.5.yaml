@@ -5,7 +5,8 @@ since: '1996'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Copyright © 1996-2007 Julian Seward
 

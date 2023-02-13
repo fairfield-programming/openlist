@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   ?-?This license agreement is based on the Python CNRI License Agreement, a
   widely accepted open- source license.?-?

@@ -7,6 +7,7 @@ permissions: []
 conditions: []
 limitations:
   - warranty
+  - liability
 body: >-
   This Zimbra Public License (this “Agreement”) is a legal agreement that
   describes the terms under which Zimbra, Inc., a Texas corporation (“Zimbra”)

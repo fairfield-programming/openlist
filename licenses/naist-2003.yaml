@@ -5,7 +5,8 @@ since: '2000'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Copyright 2000, 2001, 2002, 2003 Nara Institute of Science and Technology. All
   Rights Reserved.

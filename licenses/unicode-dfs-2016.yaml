@@ -7,6 +7,7 @@ permissions: []
 conditions: []
 limitations:
   - warranty
+  - liability
 body: >-
   ?-?See Terms of Use for definitions of Unicode Inc.'s Data Files and
   Software.?-?

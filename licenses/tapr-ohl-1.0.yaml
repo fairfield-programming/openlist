@@ -7,6 +7,7 @@ permissions: []
 conditions: []
 limitations:
   - warranty
+  - liability
 body: >-
   Copyright 2007 TAPR - http://www.tapr.org/OHL
 

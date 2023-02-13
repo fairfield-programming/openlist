@@ -5,7 +5,8 @@ since: '1985'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Open Government Licence - Canada
 

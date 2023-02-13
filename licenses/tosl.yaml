@@ -5,7 +5,8 @@ since: '2006'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Trusster Open Source License version 1.0a (TRUST) copyright (c) 2006 Mike
   Mintz and Robert Ekendahl. All rights reserved.

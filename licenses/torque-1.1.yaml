@@ -7,6 +7,7 @@ permissions: []
 conditions: []
 limitations:
   - warranty
+  - liability
 body: >-
   Copyright (c) 2010-2011 Adaptive Computing Enterprises, Inc. All rights
   reserved.

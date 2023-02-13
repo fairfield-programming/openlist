@@ -5,7 +5,8 @@ since: '1992'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Copyright 1992-2012 The FreeBSD Project. All rights reserved.
 

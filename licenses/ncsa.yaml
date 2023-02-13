@@ -7,6 +7,7 @@ permissions: []
 conditions: []
 limitations:
   - warranty
+  - liability
 body: >-
   Copyright (c) <Year> <Owner Organization Name>. All rights reserved.
 

@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   ?-?TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION?-?
 

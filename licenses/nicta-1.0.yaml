@@ -5,7 +5,8 @@ since: '2004'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Copyright © 2004 National ICT Australia Ltd All rights reserved.
 

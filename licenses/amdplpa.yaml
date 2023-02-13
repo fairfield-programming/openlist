@@ -5,7 +5,8 @@ since: '2006'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Copyright (c) 2006, 2007 Advanced Micro Devices, Inc. All rights reserved.
 

@@ -5,7 +5,8 @@ since: '2000'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Copyright (c) 2000-2002 Japan Network Information Center. All rights reserved.
 

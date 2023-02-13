@@ -5,7 +5,8 @@ since: '2002'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Copyright 2002 (C) The Codehaus. All Rights Reserved.
 

@@ -5,7 +5,8 @@ since: '2011'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   Copyright (c) 2011, Deusty, LLC All rights reserved.
 

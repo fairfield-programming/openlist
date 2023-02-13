@@ -5,7 +5,8 @@ since: '2003'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - liability
 body: >-
   This License Agreement, The Frameworx Open License 1.0, has been entered into
   between The Frameworx Company and you, the licensee hereunder, effective as of
