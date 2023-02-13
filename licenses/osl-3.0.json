@@ -4,7 +4,9 @@
     "creator": [],
     "since": "2005",
     "description": "",
-    "permissions": [],
+    "permissions": [
+        "distribution"
+    ],
     "conditions": [],
     "limitations": [
         "warranty",
