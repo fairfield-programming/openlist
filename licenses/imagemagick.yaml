@@ -2,7 +2,9 @@ id: imagemagick
 name: ImageMagick License
 creator: []
 since: '1999'
-description: ''
+description: >-
+  Since 1999, the ImageMagick License has been keeping software development
+  transparent.
 permissions:
   - distribution
 conditions: []

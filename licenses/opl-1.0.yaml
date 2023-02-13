@@ -2,7 +2,9 @@ id: opl-1.0
 name: Open Public License v1.0
 creator: []
 since: '1995'
-description: ''
+description: >-
+  Written as a source-available license, the Open Public License v1.0 was
+  created in 1995.
 permissions:
   - distribution
 conditions: []

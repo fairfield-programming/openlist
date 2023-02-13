@@ -2,7 +2,9 @@ id: mulanpsl-1.0
 name: Mulan Permissive Software License, Version 1
 creator: []
 since: '2019'
-description: ''
+description: >-
+  Created in 2019, the Mulan Permissive Software License, Version 1 is a
+  source-available license.
 permissions:
   - distribution
 conditions: []

@@ -2,7 +2,9 @@ id: tapr-ohl-1.0
 name: TAPR Open Hardware License v1.0
 creator: []
 since: '2007'
-description: ''
+description: >-
+  Designed as a source-available license, the TAPR Open Hardware License v1.0
+  was published in 2007.
 permissions:
   - distribution
 conditions: []

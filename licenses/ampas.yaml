@@ -2,7 +2,9 @@ id: ampas
 name: Academy of Motion Picture Arts and Sciences BSD
 creator: []
 since: '2006'
-description: ''
+description: >-
+  Created in 2006, the Academy of Motion Picture Arts and Sciences BSD is a
+  source-available license.
 permissions: []
 conditions: []
 limitations:

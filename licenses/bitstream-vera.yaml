@@ -2,7 +2,9 @@ id: bitstream-vera
 name: Bitstream Vera Font License
 creator: []
 since: '2003'
-description: ''
+description: >-
+  Written as a source-available license, the Bitstream Vera Font License was
+  created in 2003.
 permissions:
   - distribution
   - commercial-use

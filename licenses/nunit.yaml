@@ -2,7 +2,7 @@ id: nunit
 name: Nunit License
 creator: []
 since: '2002'
-description: ''
+description: Written in 2002, the Nunit License is a source-available license.
 permissions:
   - distribution
   - private-use

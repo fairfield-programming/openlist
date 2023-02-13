@@ -2,7 +2,9 @@ id: odbl-1.0
 name: Open Data Commons Open Database License v1.0
 creator: []
 since: '1996'
-description: ''
+description: >-
+  Written as a source-available license, the Open Data Commons Open Database
+  License v1.0 was created in 1996.
 permissions: []
 conditions: []
 limitations: []

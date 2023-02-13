@@ -2,7 +2,7 @@ id: mit-modern-variant
 name: MIT License Modern Variant
 creator: []
 since: '1990'
-description: ''
+description: Written in 1990, the MIT License Modern Variant is an open-source license.
 permissions:
   - distribution
   - private-use

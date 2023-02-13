@@ -2,7 +2,9 @@ id: unicode-dfs-2016
 name: Unicode License Agreement - Data Files and Software (2016)
 creator: []
 since: '1991'
-description: ''
+description: >-
+  The Unicode License Agreement - Data Files and Software (2016) is an
+  open-source license created in 1991.
 permissions:
   - distribution
   - commercial-use

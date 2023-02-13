@@ -2,7 +2,9 @@ id: lgpl-3.0
 name: GNU Lesser General Public License v3.0 only
 creator: []
 since: '2007'
-description: ''
+description: >-
+  Written as an open-source license, the GNU Lesser General Public License v3.0
+  only was created in 2007.
 permissions: []
 conditions: []
 limitations:

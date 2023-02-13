@@ -2,7 +2,9 @@ id: adsl
 name: Amazon Digital Services License
 creator: []
 since: '2006'
-description: ''
+description: >-
+  The Amazon Digital Services License is a source-available license created in
+  2006.
 permissions: []
 conditions: []
 limitations: []

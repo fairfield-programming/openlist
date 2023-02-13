@@ -2,7 +2,9 @@ id: gpl-3.0-with-autoconf-exception
 name: GNU General Public License v3.0 w/Autoconf exception
 creator: []
 since: '2009'
-description: ''
+description: >-
+  Designed as a source-available license, the GNU General Public License v3.0
+  w/Autoconf exception was published in 2009.
 permissions: []
 conditions: []
 limitations: []

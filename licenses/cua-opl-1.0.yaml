@@ -2,7 +2,9 @@ id: cua-opl-1.0
 name: CUA Office Public License v1.0
 creator: []
 since: '1995'
-description: ''
+description: >-
+  Published in 1995, the CUA Office Public License v1.0 is an open-source
+  license.
 permissions:
   - distribution
 conditions: []

@@ -2,7 +2,9 @@ id: intel-acpi
 name: Intel ACPI Software License Agreement
 creator: []
 since: '1999'
-description: ''
+description: >-
+  Published in 1999, the Intel ACPI Software License Agreement is a
+  source-available license.
 permissions: []
 conditions: []
 limitations: []

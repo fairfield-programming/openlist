@@ -2,7 +2,9 @@ id: bsd-3-clause-no-nuclear-license
 name: BSD 3-Clause No Nuclear License
 creator: []
 since: '1994'
-description: ''
+description: >-
+  Since 1994, the BSD 3-Clause No Nuclear License has been keeping software
+  development transparent.
 permissions: []
 conditions: []
 limitations:

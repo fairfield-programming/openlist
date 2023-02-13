@@ -2,7 +2,9 @@ id: lppl-1.1
 name: LaTeX Project Public License v1.1
 creator: []
 since: '1999'
-description: ''
+description: >-
+  Created in 1999, the LaTeX Project Public License v1.1 is a source-available
+  license.
 permissions: []
 conditions: []
 limitations:

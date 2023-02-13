@@ -2,7 +2,9 @@ id: rsa-md
 name: RSA Message-Digest License
 creator: []
 since: '1991'
-description: ''
+description: >-
+  Designed as a source-available license, the RSA Message-Digest License was
+  published in 1991.
 permissions: []
 conditions: []
 limitations: []

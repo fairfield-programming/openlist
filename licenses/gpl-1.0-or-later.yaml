@@ -2,7 +2,9 @@ id: gpl-1.0-or-later
 name: GNU General Public License v1.0 or later
 creator: []
 since: '1989'
-description: ''
+description: >-
+  Created in 1989, the GNU General Public License v1.0 or later is a
+  source-available license.
 permissions: []
 conditions: []
 limitations:

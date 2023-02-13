@@ -2,7 +2,9 @@ id: tosl
 name: Trusster Open Source License
 creator: []
 since: '2006'
-description: ''
+description: >-
+  Written as a source-available license, the Trusster Open Source License was
+  created in 2006.
 permissions: []
 conditions: []
 limitations:

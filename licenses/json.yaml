@@ -2,7 +2,7 @@ id: json
 name: JSON License
 creator: []
 since: '2002'
-description: ''
+description: Created in 2002, the JSON License is a source-available license.
 permissions:
   - distribution
   - commercial-use

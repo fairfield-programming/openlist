@@ -2,7 +2,9 @@ id: cube
 name: Cube License
 creator: []
 since: '2001'
-description: ''
+description: >-
+  Since 2001, the Cube License has been keeping software development
+  transparent.
 permissions:
   - distribution
   - private-use

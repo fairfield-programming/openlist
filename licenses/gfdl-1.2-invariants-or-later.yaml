@@ -2,7 +2,9 @@ id: gfdl-1.2-invariants-or-later
 name: GNU Free Documentation License v1.2 or later - invariants
 creator: []
 since: '2000'
-description: ''
+description: >-
+  Designed as a source-available license, the GNU Free Documentation License
+  v1.2 or later - invariants was published in 2000.
 permissions:
   - distribution
   - private-use

@@ -2,7 +2,7 @@ id: mpi-permissive
 name: mpi Permissive License
 creator: []
 since: '2000'
-description: ''
+description: Created in 2000, the mpi Permissive License is a source-available license.
 permissions:
   - distribution
   - private-use

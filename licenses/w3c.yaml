@@ -2,7 +2,9 @@ id: w3c
 name: W3C Software Notice and License (2002-12-31)
 creator: []
 since: '2002'
-description: ''
+description: >-
+  Written in 2002, the W3C Software Notice and License (2002-12-31) is an
+  open-source license.
 permissions: []
 conditions: []
 limitations:

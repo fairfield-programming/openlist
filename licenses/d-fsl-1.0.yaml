@@ -2,7 +2,9 @@ id: d-fsl-1.0
 name: Deutsche Freie Software Lizenz
 creator: []
 since: '2004'
-description: ''
+description: >-
+  The Deutsche Freie Software Lizenz is a source-available license created in
+  2004.
 permissions: []
 conditions: []
 limitations: []

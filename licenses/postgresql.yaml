@@ -2,7 +2,7 @@ id: postgresql
 name: PostgreSQL License
 creator: []
 since: '1996'
-description: ''
+description: Originating in 1996, the PostgreSQL License is an open-source license.
 permissions: []
 conditions: []
 limitations:

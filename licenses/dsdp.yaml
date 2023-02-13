@@ -2,7 +2,7 @@ id: dsdp
 name: DSDP License
 creator: []
 since: '2004'
-description: ''
+description: Originating in 2004, the DSDP License is a source-available license.
 permissions:
   - distribution
   - private-use

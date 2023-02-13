@@ -2,7 +2,9 @@ id: gfdl-1.2-only
 name: GNU Free Documentation License v1.2 only
 creator: []
 since: '2000'
-description: ''
+description: >-
+  Produced in 2000, the GNU Free Documentation License v1.2 only is a
+  source-available license.
 permissions:
   - distribution
   - private-use

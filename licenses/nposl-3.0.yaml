@@ -2,7 +2,9 @@ id: nposl-3.0
 name: Non-Profit Open Software License 3.0
 creator: []
 since: '2005'
-description: ''
+description: >-
+  Produced in 2005, the Non-Profit Open Software License 3.0 is an open-source
+  license.
 permissions:
   - distribution
   - private-use

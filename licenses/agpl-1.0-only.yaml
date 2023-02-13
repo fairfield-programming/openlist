@@ -2,7 +2,9 @@ id: agpl-1.0-only
 name: Affero General Public License v1.0 only
 creator: []
 since: '2002'
-description: ''
+description: >-
+  Produced in 2002, the Affero General Public License v1.0 only is a
+  source-available license.
 permissions: []
 conditions: []
 limitations:

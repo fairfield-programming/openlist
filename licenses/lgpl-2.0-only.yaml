@@ -2,7 +2,9 @@ id: lgpl-2.0-only
 name: GNU Library General Public License v2 only
 creator: []
 since: '1991'
-description: ''
+description: >-
+  Since 1991, the GNU Library General Public License v2 only has been keeping
+  software development open.
 permissions: []
 conditions: []
 limitations:

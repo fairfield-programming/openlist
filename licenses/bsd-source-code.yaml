@@ -2,7 +2,9 @@ id: bsd-source-code
 name: BSD Source Code Attribution
 creator: []
 since: '2011'
-description: ''
+description: >-
+  Designed as a source-available license, the BSD Source Code Attribution was
+  published in 2011.
 permissions: []
 conditions: []
 limitations:

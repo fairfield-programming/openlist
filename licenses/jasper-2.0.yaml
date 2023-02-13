@@ -2,7 +2,7 @@ id: jasper-2.0
 name: JasPer License
 creator: []
 since: '2001'
-description: ''
+description: The JasPer License is a source-available license created in 2001.
 permissions:
   - distribution
   - commercial-use

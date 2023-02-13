@@ -4,7 +4,9 @@ name: |-
      and Warranty Disclaimer)
 creator: []
 since: '1994'
-description: ''
+description: |-
+  Published in 1994, the FSF Unlimited License (With License Retention
+     and Warranty Disclaimer) is a source-available license.
 permissions: []
 conditions: []
 limitations: []

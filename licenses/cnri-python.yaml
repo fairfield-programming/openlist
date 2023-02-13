@@ -2,7 +2,9 @@ id: cnri-python
 name: CNRI Python License
 creator: []
 since: '1895'
-description: ''
+description: >-
+  Designed as an open-source license, the CNRI Python License was published in
+  1895.
 permissions: []
 conditions: []
 limitations:

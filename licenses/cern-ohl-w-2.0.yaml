@@ -2,7 +2,9 @@ id: cern-ohl-w-2.0
 name: CERN Open Hardware Licence Version 2 - Weakly Reciprocal
 creator: []
 since: '2020'
-description: ''
+description: >-
+  Produced in 2020, the CERN Open Hardware Licence Version 2 - Weakly Reciprocal
+  is an open-source license.
 permissions: []
 conditions: []
 limitations: []

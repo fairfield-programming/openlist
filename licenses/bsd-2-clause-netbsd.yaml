@@ -2,7 +2,9 @@ id: bsd-2-clause-netbsd
 name: BSD 2-Clause NetBSD License
 creator: []
 since: '2008'
-description: ''
+description: >-
+  Written as a source-available license, the BSD 2-Clause NetBSD License was
+  created in 2008.
 permissions: []
 conditions: []
 limitations:

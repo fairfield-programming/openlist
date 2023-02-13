@@ -2,7 +2,9 @@ id: busl-1.1
 name: Business Source License 1.1
 creator: []
 since: '2017'
-description: ''
+description: >-
+  Written in 2017, the Business Source License 1.1 is a source-available
+  license.
 permissions: []
 conditions: []
 limitations: []

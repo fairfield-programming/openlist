@@ -2,7 +2,9 @@ id: ijg-short
 name: Independent JPEG Group License - short
 creator: []
 since: '1991'
-description: ''
+description: >-
+  Published in 1991, the Independent JPEG Group License - short is a
+  source-available license.
 permissions:
   - distribution
   - private-use

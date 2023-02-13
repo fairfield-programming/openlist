@@ -2,7 +2,9 @@ id: oldap-1.3
 name: Open LDAP Public License v1.3
 creator: []
 since: '1998'
-description: ''
+description: >-
+  Written as a source-available license, the Open LDAP Public License v1.3 was
+  created in 1998.
 permissions: []
 conditions: []
 limitations: []

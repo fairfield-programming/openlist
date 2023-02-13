@@ -2,7 +2,9 @@ id: oldap-2.1
 name: Open LDAP Public License v2.1
 creator: []
 since: '1999'
-description: ''
+description: >-
+  Since 1999, the Open LDAP Public License v2.1 has been keeping software
+  development transparent.
 permissions: []
 conditions: []
 limitations:

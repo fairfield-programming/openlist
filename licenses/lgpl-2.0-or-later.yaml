@@ -2,7 +2,9 @@ id: lgpl-2.0-or-later
 name: GNU Library General Public License v2 or later
 creator: []
 since: '1991'
-description: ''
+description: >-
+  Designed as an open-source license, the GNU Library General Public License v2
+  or later was published in 1991.
 permissions: []
 conditions: []
 limitations:

@@ -2,7 +2,9 @@ id: osl-2.0
 name: Open Software License 2.0
 creator: []
 since: '2003'
-description: ''
+description: >-
+  Designed as an open-source license, the Open Software License 2.0 was
+  published in 2003.
 permissions:
   - distribution
 conditions: []

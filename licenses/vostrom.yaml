@@ -2,7 +2,9 @@ id: vostrom
 name: VOSTROM Public License for Open Source
 creator: []
 since: '2007'
-description: ''
+description: >-
+  The VOSTROM Public License for Open Source is a source-available license
+  created in 2007.
 permissions:
   - distribution
 conditions: []

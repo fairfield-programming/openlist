@@ -2,7 +2,9 @@ id: psf-2.0
 name: Python Software Foundation License 2.0
 creator: []
 since: '2001'
-description: ''
+description: >-
+  Created in 2001, the Python Software Foundation License 2.0 is a
+  source-available license.
 permissions: []
 conditions: []
 limitations:

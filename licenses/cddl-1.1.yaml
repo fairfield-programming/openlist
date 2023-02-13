@@ -2,7 +2,9 @@ id: cddl-1.1
 name: Common Development and Distribution License 1.1
 creator: []
 since: '1995'
-description: ''
+description: >-
+  Originating in 1995, the Common Development and Distribution License 1.1 is a
+  source-available license.
 permissions:
   - distribution
 conditions: []

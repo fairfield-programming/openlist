@@ -2,7 +2,9 @@ id: lgpl-2.1-or-later
 name: GNU Lesser General Public License v2.1 or later
 creator: []
 since: '1991'
-description: ''
+description: >-
+  Written in 1991, the GNU Lesser General Public License v2.1 or later is an
+  open-source license.
 permissions: []
 conditions: []
 limitations:

@@ -2,7 +2,7 @@ id: xfree86-1.1
 name: XFree86 License 1.1
 creator: []
 since: '1994'
-description: ''
+description: Produced in 1994, the XFree86 License 1.1 is a source-available license.
 permissions:
   - distribution
   - commercial-use

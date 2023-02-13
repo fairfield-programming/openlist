@@ -2,7 +2,7 @@ id: mpich2
 name: mpich2 License
 creator: []
 since: '1998'
-description: ''
+description: Produced in 1998, the mpich2 License is a source-available license.
 permissions:
   - distribution
   - private-use

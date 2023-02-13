@@ -2,7 +2,9 @@ id: bittorrent-1.1
 name: BitTorrent Open Source License v1.1
 creator: []
 since: '1995'
-description: ''
+description: >-
+  Created in 1995, the BitTorrent Open Source License v1.1 is a source-available
+  license.
 permissions:
   - distribution
 conditions: []

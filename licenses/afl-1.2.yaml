@@ -2,7 +2,9 @@ id: afl-1.2
 name: Academic Free License v1.2
 creator: []
 since: '2002'
-description: ''
+description: >-
+  Since 2002, the Academic Free License v1.2 has been keeping software
+  development open.
 permissions:
   - distribution
 conditions: []

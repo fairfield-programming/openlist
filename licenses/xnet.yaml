@@ -2,7 +2,7 @@ id: xnet
 name: X.Net License
 creator: []
 since: '2000'
-description: ''
+description: Produced in 2000, the X.Net License is an open-source license.
 permissions:
   - distribution
   - commercial-use

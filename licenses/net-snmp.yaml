@@ -2,7 +2,9 @@ id: net-snmp
 name: Net-SNMP License
 creator: []
 since: '1989'
-description: ''
+description: >-
+  Written as a source-available license, the Net-SNMP License was created in
+  1989.
 permissions: []
 conditions: []
 limitations:

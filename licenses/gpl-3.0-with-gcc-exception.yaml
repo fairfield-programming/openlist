@@ -2,7 +2,9 @@ id: gpl-3.0-with-gcc-exception
 name: GNU General Public License v3.0 w/GCC Runtime Library exception
 creator: []
 since: '2009'
-description: ''
+description: >-
+  Produced in 2009, the GNU General Public License v3.0 w/GCC Runtime Library
+  exception is an open-source license.
 permissions: []
 conditions: []
 limitations: []

@@ -2,7 +2,9 @@ id: cnri-python-gpl-compatible
 name: CNRI Python Open Source GPL Compatible License Agreement
 creator: []
 since: '1895'
-description: ''
+description: >-
+  Since 1895, the CNRI Python Open Source GPL Compatible License Agreement has
+  been keeping software development transparent.
 permissions: []
 conditions: []
 limitations:

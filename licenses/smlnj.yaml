@@ -2,7 +2,9 @@ id: smlnj
 name: Standard ML of New Jersey License
 creator: []
 since: '2001'
-description: ''
+description: >-
+  Designed as a source-available license, the Standard ML of New Jersey License
+  was published in 2001.
 permissions: []
 conditions: []
 limitations:
