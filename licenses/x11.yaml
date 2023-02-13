@@ -4,7 +4,9 @@ creator: []
 since: '1996'
 description: ''
 permissions: []
-conditions: []
+conditions:
+  - copyright-notice
+  - license-notice
 limitations:
   - warranty
   - liability
