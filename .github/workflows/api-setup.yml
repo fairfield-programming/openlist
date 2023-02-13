@@ -25,4 +25,4 @@ jobs:
           FOLDER: public
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Run Deploy Hook
-        run: curl -X POST $DEPLOY_HOOK
+        run: curl -X POST ${{ secrets.DEPLOY_HOOK }}
