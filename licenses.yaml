@@ -121,15 +121,15 @@
 - id: apsl-1.0
   name: Apple Public Source License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/apsl-1.0
-  since: '7015'
+  since: ''
 - id: apsl-1.1
   name: Apple Public Source License 1.1
   url: https://fairfield-programming.github.io/openlist/licenses/apsl-1.1
-  since: '7015'
+  since: ''
 - id: apsl-1.2
   name: Apple Public Source License 1.2
   url: https://fairfield-programming.github.io/openlist/licenses/apsl-1.2
-  since: '7015'
+  since: ''
 - id: apsl-2.0
   name: Apple Public Source License 2.0
   url: https://fairfield-programming.github.io/openlist/licenses/apsl-2.0
@@ -567,15 +567,15 @@
 - id: cecill-1.0
   name: CeCILL Free Software License Agreement v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/cecill-1.0
-  since: '7575'
+  since: ''
 - id: cecill-1.1
   name: CeCILL Free Software License Agreement v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/cecill-1.1
-  since: '7575'
+  since: ''
 - id: cecill-2.0
   name: CeCILL Free Software License Agreement v2.0
   url: https://fairfield-programming.github.io/openlist/licenses/cecill-2.0
-  since: '7501'
+  since: ''
 - id: cecill-2.1
   name: CeCILL Free Software License Agreement v2.1
   url: https://fairfield-programming.github.io/openlist/licenses/cecill-2.1
@@ -583,11 +583,11 @@
 - id: cecill-b
   name: CeCILL-B Free Software License Agreement
   url: https://fairfield-programming.github.io/openlist/licenses/cecill-b
-  since: '7501'
+  since: ''
 - id: cecill-c
   name: CeCILL-C Free Software License Agreement
   url: https://fairfield-programming.github.io/openlist/licenses/cecill-c
-  since: '7501'
+  since: ''
 - id: cern-ohl-1.1
   name: CERN Open Hardware Licence v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/cern-ohl-1.1
@@ -738,7 +738,7 @@
 - id: egenix
   name: eGenix.com Public License 1.1.0
   url: https://fairfield-programming.github.io/openlist/licenses/egenix
-  since: '4076'
+  since: ''
 - id: elastic-2.0
   name: Elastic License 2.0
   url: https://fairfield-programming.github.io/openlist/licenses/elastic-2.0
@@ -1475,7 +1475,7 @@
 - id: nlpl
   name: No Limit Public License
   url: https://fairfield-programming.github.io/openlist/licenses/nlpl
-  since: '3558'
+  since: ''
 - id: nokia
   name: Nokia Open Source License
   url: https://fairfield-programming.github.io/openlist/licenses/nokia
@@ -1523,7 +1523,7 @@
 - id: occt-pl
   name: Open CASCADE Technology Public License
   url: https://fairfield-programming.github.io/openlist/licenses/occt-pl
-  since: '7828'
+  since: ''
 - id: oclc-2.0
   name: OCLC Research Public License 2.0
   url: https://fairfield-programming.github.io/openlist/licenses/oclc-2.0
@@ -1761,7 +1761,7 @@
 - id: rdisc
   name: Rdisc License
   url: https://fairfield-programming.github.io/openlist/licenses/rdisc
-  since: '2550'
+  since: ''
 - id: rhecos-1.1
   name: Red Hat eCos Public License v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/rhecos-1.1
@@ -1777,7 +1777,7 @@
 - id: rpsl-1.0
   name: RealNetworks Public Source License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/rpsl-1.0
-  since: '7015'
+  since: ''
 - id: rsa-md
   name: RSA Message-Digest License
   url: https://fairfield-programming.github.io/openlist/licenses/rsa-md
@@ -1785,7 +1785,7 @@
 - id: rscpl
   name: Ricoh Source Code Public License
   url: https://fairfield-programming.github.io/openlist/licenses/rscpl
-  since: '2882'
+  since: ''
 - id: ruby
   name: Ruby License
   url: https://fairfield-programming.github.io/openlist/licenses/ruby
@@ -1809,11 +1809,11 @@
 - id: sendmail-8.23
   name: Sendmail License 8.23
   url: https://fairfield-programming.github.io/openlist/licenses/sendmail-8.23
-  since: '9408'
+  since: ''
 - id: sendmail
   name: Sendmail License
   url: https://fairfield-programming.github.io/openlist/licenses/sendmail
-  since: '6475'
+  since: ''
 - id: sgi-b-1.0
   name: SGI Free Software License B v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/sgi-b-1.0
@@ -1845,7 +1845,7 @@
 - id: sissl
   name: Sun Industry Standards Source License v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/sissl
-  since: '7201'
+  since: ''
 - id: sleepycat
   name: Sleepycat License
   url: https://fairfield-programming.github.io/openlist/licenses/sleepycat
@@ -1901,7 +1901,7 @@
 - id: swl
   name: Scheme Widget Library (SWL) Software License Agreement
   url: https://fairfield-programming.github.io/openlist/licenses/swl
-  since: '7013'
+  since: ''
 - id: symlinks
   name: Symlinks License
   url: https://fairfield-programming.github.io/openlist/licenses/symlinks
@@ -1913,7 +1913,7 @@
 - id: tcl
   name: TCL/TK License
   url: https://fairfield-programming.github.io/openlist/licenses/tcl
-  since: '7013'
+  since: ''
 - id: tcp-wrappers
   name: TCP Wrappers License
   url: https://fairfield-programming.github.io/openlist/licenses/tcp-wrappers
@@ -1997,7 +1997,7 @@
 - id: watcom-1.0
   name: Sybase Open Watcom Public License 1.0
   url: https://fairfield-programming.github.io/openlist/licenses/watcom-1.0
-  since: '7015'
+  since: ''
 - id: wsuipa
   name: Wsuipa License
   url: https://fairfield-programming.github.io/openlist/licenses/wsuipa
@@ -2046,11 +2046,11 @@
 - id: ypl-1.0
   name: Yahoo! Public License v1.0
   url: https://fairfield-programming.github.io/openlist/licenses/ypl-1.0
-  since: '9408'
+  since: ''
 - id: ypl-1.1
   name: Yahoo! Public License v1.1
   url: https://fairfield-programming.github.io/openlist/licenses/ypl-1.1
-  since: '9408'
+  since: ''
 - id: zed
   name: Zed License
   url: https://fairfield-programming.github.io/openlist/licenses/zed
@@ -2062,7 +2062,7 @@
 - id: zimbra-1.3
   name: Zimbra Public License v1.3
   url: https://fairfield-programming.github.io/openlist/licenses/zimbra-1.3
-  since: '3401'
+  since: ''
 - id: zimbra-1.4
   name: Zimbra Public License v1.4
   url: https://fairfield-programming.github.io/openlist/licenses/zimbra-1.4
