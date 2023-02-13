@@ -3,7 +3,7 @@
     "name": "Info-ZIP License",
     "creator": [],
     "since": "1990",
-    "description": "",
+    "description": "Written in 1990, the Info-ZIP License is a source-available license.",
     "permissions": [
         "distribution",
         "private-use"

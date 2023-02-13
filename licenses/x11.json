@@ -3,7 +3,7 @@
     "name": "X11 License",
     "creator": [],
     "since": "1996",
-    "description": "",
+    "description": "Written as a source-available license, the X11 License was created in 1996.",
     "permissions": [
         "distribution",
         "commercial-use",
