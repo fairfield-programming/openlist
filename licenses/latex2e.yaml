@@ -3,7 +3,8 @@ name: Latex2e License
 creator: []
 since: '2007'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations: []
 body: >-

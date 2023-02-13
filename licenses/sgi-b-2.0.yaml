@@ -3,7 +3,8 @@ name: SGI Free Software License B v2.0
 creator: []
 since: ''
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions:
   - copyright-notice
   - license-notice

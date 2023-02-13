@@ -3,7 +3,8 @@ name: Newsletr License
 creator: []
 since: '1989'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations: []
 body: >-

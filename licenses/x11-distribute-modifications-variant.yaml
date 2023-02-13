@@ -3,7 +3,8 @@ name: X11 License Distribution Modification Variant
 creator: []
 since: ''
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions:
   - copyright-notice
   - license-notice

@@ -3,7 +3,8 @@ name: Adobe Glyph List License
 creator: []
 since: '1997'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions:
   - copyright-notice
   - license-notice

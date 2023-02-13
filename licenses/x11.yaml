@@ -3,7 +3,8 @@ name: X11 License
 creator: []
 since: '1996'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions:
   - copyright-notice
   - license-notice

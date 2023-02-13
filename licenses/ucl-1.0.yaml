@@ -3,7 +3,8 @@ name: Upstream Compatibility License v1.0
 creator: []
 since: '2005'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty

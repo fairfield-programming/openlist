@@ -3,7 +3,8 @@ name: Bitstream Vera Font License
 creator: []
 since: '2003'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions:
   - license-notice
 limitations:

@@ -3,7 +3,8 @@ name: The MirOS Licence
 creator: []
 since: ''
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty

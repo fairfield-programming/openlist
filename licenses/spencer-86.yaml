@@ -3,7 +3,8 @@ name: Spencer License 86
 creator: []
 since: '1986'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations: []
 body: >-

@@ -3,7 +3,8 @@ name: Enlightenment License (e16)
 creator: []
 since: '2000'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions:
   - copyright-notice
   - license-notice

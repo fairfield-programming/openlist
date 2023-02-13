@@ -3,7 +3,8 @@ name: zlib/libpng License with Acknowledgement
 creator: []
 since: '2002'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations: []
 body: >-

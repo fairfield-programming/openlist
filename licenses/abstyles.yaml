@@ -3,7 +3,8 @@ name: Abstyles License
 creator: []
 since: '1991'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations: []
 body: >-

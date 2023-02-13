@@ -3,7 +3,8 @@ name: feh License
 creator: []
 since: ''
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions:
   - copyright-notice
   - license-notice

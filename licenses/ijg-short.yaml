@@ -3,7 +3,8 @@ name: Independent JPEG Group License - short
 creator: []
 since: '1991'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations: []
 body: >-

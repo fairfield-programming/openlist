@@ -3,7 +3,8 @@ name: MIT License Modern Variant
 creator: []
 since: '1990'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - liability

@@ -3,7 +3,8 @@ name: MIT +no-false-attribs license
 creator: []
 since: ''
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions:
   - copyright-notice
   - license-notice

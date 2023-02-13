@@ -3,7 +3,8 @@ name: mplus Font License
 creator: []
 since: ''
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty

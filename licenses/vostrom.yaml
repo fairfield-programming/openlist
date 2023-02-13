@@ -3,7 +3,8 @@ name: VOSTROM Public License for Open Source
 creator: []
 since: '2007'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - liability

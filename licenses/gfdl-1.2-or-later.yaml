@@ -3,7 +3,8 @@ name: GNU Free Documentation License v1.2 or later
 creator: []
 since: '2000'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations: []
 body: >-

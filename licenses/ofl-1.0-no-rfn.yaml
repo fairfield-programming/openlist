@@ -3,7 +3,8 @@ name: SIL Open Font License 1.0 with no Reserved Font Name
 creator: []
 since: ''
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty

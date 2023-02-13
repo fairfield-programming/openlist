@@ -3,7 +3,8 @@ name: HTML Tidy License
 creator: []
 since: ''
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations: []
 body: >-

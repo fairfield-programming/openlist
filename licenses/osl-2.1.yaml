@@ -3,7 +3,8 @@ name: Open Software License 2.1
 creator: []
 since: '2003'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty

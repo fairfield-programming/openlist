@@ -3,7 +3,8 @@ name: Common Documentation License 1.0
 creator: []
 since: '2001'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty

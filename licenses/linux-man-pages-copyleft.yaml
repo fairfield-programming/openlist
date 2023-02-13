@@ -3,7 +3,8 @@ name: Linux man-pages Copyleft
 creator: []
 since: ''
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations: []
 body: >-

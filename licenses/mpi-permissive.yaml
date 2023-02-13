@@ -3,7 +3,8 @@ name: mpi Permissive License
 creator: []
 since: '2000'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations: []
 body: >-

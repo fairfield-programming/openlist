@@ -3,7 +3,8 @@ name: libpng License
 creator: []
 since: '2004'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations: []
 body: >-

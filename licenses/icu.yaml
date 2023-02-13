@@ -3,7 +3,8 @@ name: ICU License
 creator: []
 since: '1995'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty

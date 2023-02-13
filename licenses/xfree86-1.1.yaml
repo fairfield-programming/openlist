@@ -3,7 +3,8 @@ name: XFree86 License 1.1
 creator: []
 since: '1994'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - liability

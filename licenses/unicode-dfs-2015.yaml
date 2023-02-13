@@ -3,7 +3,8 @@ name: Unicode License Agreement - Data Files and Software (2015)
 creator: []
 since: '1991'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty
