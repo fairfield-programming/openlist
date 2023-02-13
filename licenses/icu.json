@@ -5,7 +5,10 @@
     "since": "1995",
     "description": "",
     "permissions": [
-        "distribution"
+        "distribution",
+        "commercial-use",
+        "private-use",
+        "modification"
     ],
     "conditions": [],
     "limitations": [

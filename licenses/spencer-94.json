@@ -5,7 +5,8 @@
     "since": "",
     "description": "",
     "permissions": [
-        "distribution"
+        "distribution",
+        "private-use"
     ],
     "conditions": [],
     "limitations": [],

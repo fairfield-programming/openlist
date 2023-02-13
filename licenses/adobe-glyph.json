@@ -5,7 +5,9 @@
     "since": "1997",
     "description": "",
     "permissions": [
-        "distribution"
+        "distribution",
+        "commercial-use",
+        "private-use"
     ],
     "conditions": [
         "copyright-notice",

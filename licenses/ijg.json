@@ -5,7 +5,9 @@
     "since": "1991",
     "description": "",
     "permissions": [
-        "distribution"
+        "distribution",
+        "private-use",
+        "modification"
     ],
     "conditions": [],
     "limitations": [],
