@@ -3,7 +3,8 @@ name: RealNetworks Public Source License v1.0
 creator: []
 since: ''
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty

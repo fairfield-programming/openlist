@@ -3,7 +3,8 @@ name: Ricoh Source Code Public License
 creator: []
 since: ''
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty

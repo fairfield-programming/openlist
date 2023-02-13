@@ -3,7 +3,8 @@ name: Erlang Public License v1.1
 creator: []
 since: '1999'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty

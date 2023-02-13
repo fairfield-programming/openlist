@@ -3,7 +3,8 @@ name: Apple Public Source License 1.2
 creator: []
 since: ''
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty

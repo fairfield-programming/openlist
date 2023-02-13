@@ -3,7 +3,8 @@ name: Netscape Public License v1.1
 creator: []
 since: '1998'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty

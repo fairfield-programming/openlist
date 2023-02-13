@@ -3,7 +3,8 @@ name: Adobe Systems Incorporated Source Code License Agreement
 creator: []
 since: '2006'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - liability

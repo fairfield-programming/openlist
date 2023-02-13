@@ -3,7 +3,8 @@ name: Elastic License 2.0
 creator: []
 since: ''
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - liability

@@ -3,7 +3,8 @@ name: ImageMagick License
 creator: []
 since: '1999'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - liability

@@ -3,7 +3,8 @@ name: Reciprocal Public License 1.5
 creator: []
 since: '2001'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty

@@ -3,7 +3,8 @@ name: gSOAP Public License v1.3b
 creator: []
 since: '2001'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty

@@ -3,7 +3,8 @@ name: OSET Public License version 2.1
 creator: []
 since: '2015'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty

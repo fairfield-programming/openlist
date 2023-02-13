@@ -3,7 +3,8 @@ name: PolyForm Small Business License 1.0.0
 creator: []
 since: '2019'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - liability

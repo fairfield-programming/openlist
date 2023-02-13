@@ -3,7 +3,8 @@ name: SCEA Shared Source License
 creator: []
 since: ''
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - liability

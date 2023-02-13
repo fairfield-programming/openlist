@@ -3,7 +3,8 @@ name: Solderpad Hardware License, Version 0.51
 creator: []
 since: ''
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - liability

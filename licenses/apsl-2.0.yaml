@@ -3,7 +3,8 @@ name: Apple Public Source License 2.0
 creator: []
 since: '2007'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty

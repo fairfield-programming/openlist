@@ -3,7 +3,8 @@ name: Nokia Open Source License
 creator: []
 since: ''
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty

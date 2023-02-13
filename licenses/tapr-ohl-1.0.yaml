@@ -3,7 +3,8 @@ name: TAPR Open Hardware License v1.0
 creator: []
 since: '2007'
 description: ''
-permissions: []
+permissions:
+  - distribution
 conditions: []
 limitations:
   - warranty
