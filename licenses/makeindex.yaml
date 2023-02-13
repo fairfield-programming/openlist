@@ -2,7 +2,9 @@ id: makeindex
 name: MakeIndex License
 creator: []
 since: '1989'
-description: The MakeIndex License is a source-available license created in 1989.
+description: >-
+  Designed as a source-available license, the MakeIndex License was published in
+  1989.
 permissions:
   - distribution
   - private-use

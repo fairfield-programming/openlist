@@ -2,7 +2,7 @@ id: apache-2.0
 name: Apache License 2.0
 creator: []
 since: ''
-description: ''
+description: The Apache License 2.0 is an open-source license.
 permissions:
   - distribution
 conditions: []

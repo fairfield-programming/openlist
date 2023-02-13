@@ -2,7 +2,7 @@ id: linux-openib
 name: Linux Kernel Variant of OpenIB.org license
 creator: []
 since: ''
-description: ''
+description: The Linux Kernel Variant of OpenIB.org license is a source-available license.
 permissions: []
 conditions: []
 limitations:

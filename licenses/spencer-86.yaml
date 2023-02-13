@@ -2,9 +2,7 @@ id: spencer-86
 name: Spencer License 86
 creator: []
 since: '1986'
-description: >-
-  Since 1986, the Spencer License 86 has been keeping software development
-  transparent.
+description: Published in 1986, the Spencer License 86 is a source-available license.
 permissions:
   - distribution
   - private-use

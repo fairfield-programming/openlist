@@ -2,7 +2,9 @@ id: mit-enna
 name: enna License
 creator: []
 since: '2000'
-description: Written as a source-available license, the enna License was created in 2000.
+description: >-
+  Designed as a source-available license, the enna License was published in
+  2000.
 permissions:
   - distribution
   - commercial-use

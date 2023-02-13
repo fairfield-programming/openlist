@@ -2,7 +2,7 @@ id: shl-0.5
 name: Solderpad Hardware License v0.5
 creator: []
 since: ''
-description: ''
+description: The Solderpad Hardware License v0.5 is a source-available license.
 permissions:
   - distribution
 conditions: []

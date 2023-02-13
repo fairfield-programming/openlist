@@ -2,9 +2,7 @@ id: cdl-1.0
 name: Common Documentation License 1.0
 creator: []
 since: '2001'
-description: >-
-  Originating in 2001, the Common Documentation License 1.0 is a
-  source-available license.
+description: The Common Documentation License 1.0 is a source-available license.
 permissions:
   - distribution
 conditions: []

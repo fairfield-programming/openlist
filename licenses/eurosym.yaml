@@ -2,9 +2,7 @@ id: eurosym
 name: Eurosym License
 creator: []
 since: '1999'
-description: >-
-  Designed as a source-available license, the Eurosym License was published in
-  1999.
+description: Created in 1999, the Eurosym License is a source-available license.
 permissions:
   - distribution
   - private-use

@@ -2,7 +2,7 @@ id: mit-wu
 name: MIT Tom Wu Variant
 creator: []
 since: '2003'
-description: The MIT Tom Wu Variant is a source-available license created in 2003.
+description: Created in 2003, the MIT Tom Wu Variant is a source-available license.
 permissions:
   - distribution
   - commercial-use

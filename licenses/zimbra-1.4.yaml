@@ -2,7 +2,7 @@ id: zimbra-1.4
 name: Zimbra Public License v1.4
 creator: []
 since: ''
-description: ''
+description: The Zimbra Public License v1.4 is a source-available license.
 permissions:
   - distribution
 conditions: []

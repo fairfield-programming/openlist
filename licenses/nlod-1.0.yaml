@@ -2,7 +2,9 @@ id: nlod-1.0
 name: Norwegian Licence for Open Government Data (NLOD) 1.0
 creator: []
 since: ''
-description: ''
+description: >-
+  The Norwegian Licence for Open Government Data (NLOD) 1.0 is a
+  source-available license.
 permissions: []
 conditions: []
 limitations:

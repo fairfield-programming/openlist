@@ -2,7 +2,9 @@ id: x11-distribute-modifications-variant
 name: X11 License Distribution Modification Variant
 creator: []
 since: ''
-description: ''
+description: >-
+  The X11 License Distribution Modification Variant is a source-available
+  license.
 permissions:
   - distribution
   - commercial-use

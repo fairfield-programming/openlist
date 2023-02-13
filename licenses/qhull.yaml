@@ -2,9 +2,7 @@ id: qhull
 name: Qhull License
 creator: []
 since: '1993'
-description: >-
-  Since 1993, the Qhull License has been keeping software development
-  transparent.
+description: The Qhull License is a source-available license created in 1993.
 permissions: []
 conditions: []
 limitations: []

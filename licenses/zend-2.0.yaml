@@ -2,7 +2,9 @@ id: zend-2.0
 name: Zend License v2.0
 creator: []
 since: '1999'
-description: Written in 1999, the Zend License v2.0 is a source-available license.
+description: >-
+  Designed as a source-available license, the Zend License v2.0 was published in
+  1999.
 permissions: []
 conditions: []
 limitations:

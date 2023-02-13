@@ -2,7 +2,9 @@ id: gnuplot
 name: gnuplot License
 creator: []
 since: '1986'
-description: Originating in 1986, the gnuplot License is a source-available license.
+description: >-
+  Written as a source-available license, the gnuplot License was created in
+  1986.
 permissions: []
 conditions: []
 limitations: []

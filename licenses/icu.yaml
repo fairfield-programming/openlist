@@ -2,7 +2,7 @@ id: icu
 name: ICU License
 creator: []
 since: '1995'
-description: Written in 1995, the ICU License is a source-available license.
+description: Produced in 1995, the ICU License is a source-available license.
 permissions:
   - distribution
   - commercial-use

@@ -2,7 +2,9 @@ id: ofl-1.0-no-rfn
 name: SIL Open Font License 1.0 with no Reserved Font Name
 creator: []
 since: ''
-description: ''
+description: >-
+  The SIL Open Font License 1.0 with no Reserved Font Name is a source-available
+  license.
 permissions:
   - distribution
   - commercial-use

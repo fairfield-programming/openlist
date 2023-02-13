@@ -2,7 +2,7 @@ id: bsd-3-clause-open-mpi
 name: BSD 3-Clause Open MPI variant
 creator: []
 since: ''
-description: ''
+description: The BSD 3-Clause Open MPI variant is a source-available license.
 permissions: []
 conditions: []
 limitations:

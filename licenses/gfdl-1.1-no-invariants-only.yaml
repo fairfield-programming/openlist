@@ -3,8 +3,8 @@ name: GNU Free Documentation License v1.1 only - no invariants
 creator: []
 since: '2000'
 description: >-
-  Written in 2000, the GNU Free Documentation License v1.1 only - no invariants
-  is a source-available license.
+  The GNU Free Documentation License v1.1 only - no invariants is a
+  source-available license.
 permissions:
   - distribution
   - private-use

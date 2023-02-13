@@ -2,9 +2,7 @@ id: mpl-1.1
 name: Mozilla Public License 1.1
 creator: []
 since: '1995'
-description: >-
-  Since 1995, the Mozilla Public License 1.1 has been keeping software
-  development open.
+description: The Mozilla Public License 1.1 is an open-source license.
 permissions:
   - distribution
 conditions: []

@@ -2,9 +2,7 @@ id: psutils
 name: psutils License
 creator: []
 since: '1991'
-description: >-
-  Since 1991, the psutils License has been keeping software development
-  transparent.
+description: Originating in 1991, the psutils License is a source-available license.
 permissions: []
 conditions: []
 limitations: []

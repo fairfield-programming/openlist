@@ -2,7 +2,9 @@ id: cal-1.0-combined-work-exception
 name: Cryptographic Autonomy License 1.0 (Combined Work Exception)
 creator: []
 since: ''
-description: ''
+description: >-
+  The Cryptographic Autonomy License 1.0 (Combined Work Exception) is an
+  open-source license.
 permissions: []
 conditions: []
 limitations:

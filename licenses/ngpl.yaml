@@ -2,9 +2,7 @@ id: ngpl
 name: Nethack General Public License
 creator: []
 since: '1989'
-description: >-
-  Written as an open-source license, the Nethack General Public License was
-  created in 1989.
+description: The Nethack General Public License is an open-source license created in 1989.
 permissions: []
 conditions: []
 limitations: []

@@ -2,7 +2,9 @@ id: antlr-pd-fallback
 name: ANTLR Software Rights Notice with license fallback
 creator: []
 since: ''
-description: ''
+description: >-
+  The ANTLR Software Rights Notice with license fallback is a source-available
+  license.
 permissions: []
 conditions: []
 limitations: []

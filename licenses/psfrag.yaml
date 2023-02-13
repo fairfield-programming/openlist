@@ -2,7 +2,9 @@ id: psfrag
 name: psfrag License
 creator: []
 since: '1996'
-description: Originating in 1996, the psfrag License is a source-available license.
+description: >-
+  Since 1996, the psfrag License has been keeping software development
+  transparent.
 permissions: []
 conditions: []
 limitations: []

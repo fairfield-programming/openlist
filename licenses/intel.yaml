@@ -2,7 +2,9 @@ id: intel
 name: Intel Open Source License
 creator: []
 since: '1996'
-description: Published in 1996, the Intel Open Source License is an open-source license.
+description: >-
+  Written as an open-source license, the Intel Open Source License was created
+  in 1996.
 permissions: []
 conditions: []
 limitations:

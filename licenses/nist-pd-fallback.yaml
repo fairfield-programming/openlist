@@ -2,7 +2,9 @@ id: nist-pd-fallback
 name: NIST Public Domain Notice with license fallback
 creator: []
 since: ''
-description: ''
+description: >-
+  The NIST Public Domain Notice with license fallback is a source-available
+  license.
 permissions: []
 conditions: []
 limitations:

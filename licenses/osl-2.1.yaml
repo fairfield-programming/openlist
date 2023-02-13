@@ -2,9 +2,7 @@ id: osl-2.1
 name: Open Software License 2.1
 creator: []
 since: '2003'
-description: >-
-  Written as an open-source license, the Open Software License 2.1 was created
-  in 2003.
+description: Written in 2003, the Open Software License 2.1 is an open-source license.
 permissions:
   - distribution
 conditions: []

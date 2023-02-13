@@ -2,7 +2,9 @@ id: cnri-jython
 name: CNRI Jython License
 creator: []
 since: '1895'
-description: The CNRI Jython License is a source-available license created in 1895.
+description: >-
+  Designed as a source-available license, the CNRI Jython License was published
+  in 1895.
 permissions: []
 conditions: []
 limitations:

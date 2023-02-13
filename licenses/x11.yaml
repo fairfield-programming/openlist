@@ -2,7 +2,7 @@ id: x11
 name: X11 License
 creator: []
 since: '1996'
-description: Written as a source-available license, the X11 License was created in 1996.
+description: The X11 License is a source-available license.
 permissions:
   - distribution
   - commercial-use
