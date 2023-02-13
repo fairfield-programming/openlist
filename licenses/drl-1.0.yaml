@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this rule set and associated documentation files (the "Rules"), to deal in

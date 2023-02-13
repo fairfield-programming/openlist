@@ -5,7 +5,8 @@ since: '2000'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   Copyright (c) 2000-2001 X.Net, Inc. Lafayette, California, USA
 

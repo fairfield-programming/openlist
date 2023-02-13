@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   1. Definitions. 1.1. "Contributor" means each entity that creates or
   contributes to the creation of Modifications.

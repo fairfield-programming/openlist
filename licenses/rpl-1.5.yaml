@@ -5,7 +5,8 @@ since: '2001'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   Copyright (C) 2001-2007 Technical Pursuit Inc., All Rights Reserved.
 

@@ -5,7 +5,8 @@ since: '2001'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   Copyright © 2001 Apple Computer, Inc.
 

@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   Copyright (C) [dates of first publication] Silicon Graphics, Inc. All Rights
   Reserved.

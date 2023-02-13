@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   This Yahoo! Public License (this "Agreement") is a legal agreement that
   describes the terms under which Yahoo! Inc., a Delaware corporation having its

@@ -5,7 +5,8 @@ since: '1998'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   Allegro is gift-ware. It was created by a number of people working in
   cooperation, and is given to you freely as a gift. You may use, modify,

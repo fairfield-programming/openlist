@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   This Educational Community License (the "License") applies to any original
   work of authorship (the "Original Work") whose owner (the "Licensor") has

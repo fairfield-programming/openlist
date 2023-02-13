@@ -5,7 +5,8 @@ since: '1999'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   1. PREAMBLE This license is for software that provides a 3D graphics
   application program interface (API).The license is intended to offer terms

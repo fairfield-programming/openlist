@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   1. General; Definitions. This License applies to any program or other work
   which Apple Computer, Inc. ("Apple") makes publicly available and which

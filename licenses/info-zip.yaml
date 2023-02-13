@@ -5,7 +5,8 @@ since: '1990'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   Copyright (c) 1990-2009 Info-ZIP. All rights reserved.
 

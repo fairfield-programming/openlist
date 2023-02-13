@@ -5,7 +5,8 @@ since: '2005'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   This Non-Profit Open Software License ("Non-Profit OSL") version 3.0 (the
   "License") applies to any original work of authorship (the "Original Work")

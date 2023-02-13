@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   1. License Grants; No Trademark License Subject to the terms of this License,
   I grant You: a) A non-exclusive, worldwide, perpetual, royalty-free,

@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   THE LICENSED WORK IS PROVIDED UNDER THE TERMS OF THIS ADAPTIVE PUBLIC LICENSE
   ("LICENSE"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE LICENSED WORK

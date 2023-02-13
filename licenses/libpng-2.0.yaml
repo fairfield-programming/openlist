@@ -5,7 +5,8 @@ since: '1995'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   ?-?<-<--------------------------------------->->?-?
 

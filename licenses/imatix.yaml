@@ -5,7 +5,8 @@ since: '1991'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   This license agreement covers your use of the iMatix STANDARD FUNCTION LIBRARY
   (SFL), its source code, documentation, and executable files, hereinafter

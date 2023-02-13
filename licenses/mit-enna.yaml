@@ -5,7 +5,8 @@ since: '2000'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   Copyright (C) 2000 Carsten Haitzler and various contributors (see AUTHORS)
 

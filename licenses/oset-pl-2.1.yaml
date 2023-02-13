@@ -5,7 +5,8 @@ since: '2015'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   (c) 2015 ALL RIGHTS RESERVED VERSION 2.1
 

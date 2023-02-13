@@ -5,7 +5,8 @@ since: '1991'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   ?-?See Terms of Use for definitions of Unicode Inc.'s Data Files and
   Software.?-?

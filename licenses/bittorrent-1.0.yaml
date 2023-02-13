@@ -5,7 +5,8 @@ since: '1995'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   This BitTorrent Open Source License (the "License") applies to the BitTorrent
   client and related software products as well as any updates or maintenance

@@ -5,7 +5,8 @@ since: '2002'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   Copyright © 2002 Affero Inc. 510 Third Street - Suite 225, San Francisco, CA
   94107, USA

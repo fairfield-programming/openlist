@@ -5,7 +5,8 @@ since: '1991'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   Unicode Data Files include all data files under the directories
   http://www.unicode.org/Public/, http://www.unicode.org/reports/, and

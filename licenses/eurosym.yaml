@@ -5,7 +5,8 @@ since: '1999'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   Copyright (c) 1999-2002 Henrik Theiling
 

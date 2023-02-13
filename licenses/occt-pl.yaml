@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   OPEN CASCADE releases and makes publicly available the source code of the
   software Open CASCADE Technology to the free software development community

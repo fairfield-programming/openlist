@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   ?-?Please read this License carefully before downloading this software. By
   downloading and using this software, you are agreeing to be bound by the terms

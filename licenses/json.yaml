@@ -5,7 +5,8 @@ since: '2002'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   Copyright (c) 2002 JSON.org
 

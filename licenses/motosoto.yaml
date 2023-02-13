@@ -5,7 +5,8 @@ since: ''
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   This Motosoto Open Source License (the "License") applies to "Community Portal
   Server" and related software products as well as any updatesor maintenance

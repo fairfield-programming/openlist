@@ -5,7 +5,8 @@ since: '1999'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   Minpack Copyright Notice (1999) University of Chicago. All rights reserved
 

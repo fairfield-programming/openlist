@@ -5,7 +5,8 @@ since: '2007'
 description: ''
 permissions: []
 conditions: []
-limitations: []
+limitations:
+  - warranty
 body: >-
   Copyright © 2007 Free Software Foundation, Inc. <https://fsf.org/>
 
