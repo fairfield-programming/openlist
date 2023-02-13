@@ -8,7 +8,7 @@ on:
     branches: ["main"]
 
 env:
-  DEPLOY_HOOK: ${{ secrets.DEPLOY_HOOK }}
+  DEPLOY_HOOK: ${{ secrets.OPENLIST_DEPLOY_HOOK }}
   
 jobs:
   build:
