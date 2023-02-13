@@ -5,6 +5,7 @@ since: '2002'
 description: ''
 permissions:
   - distribution
+  - private-use
 conditions: []
 limitations: []
 body: >-

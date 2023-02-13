@@ -5,6 +5,8 @@ since: ''
 description: ''
 permissions:
   - distribution
+  - private-use
+  - modification
 conditions: []
 limitations:
   - warranty

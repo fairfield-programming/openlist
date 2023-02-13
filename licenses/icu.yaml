@@ -5,6 +5,9 @@ since: '1995'
 description: ''
 permissions:
   - distribution
+  - commercial-use
+  - private-use
+  - modification
 conditions: []
 limitations:
   - warranty

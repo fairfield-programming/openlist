@@ -5,6 +5,9 @@ since: '2001'
 description: ''
 permissions:
   - distribution
+  - commercial-use
+  - private-use
+  - modification
 conditions:
   - copyright-notice
   - license-notice
