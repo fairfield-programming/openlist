@@ -5,7 +5,10 @@
     "since": "",
     "description": "",
     "permissions": [],
-    "conditions": [],
+    "conditions": [
+        "copyright-notice",
+        "license-notice"
+    ],
     "limitations": [
         "warranty",
         "liability"
