@@ -24,3 +24,5 @@ jobs:
           BRANCH: gh-pages
           FOLDER: public
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Run Deploy Hook
+        run: curl -X POST $DEPLOY_HOOK
