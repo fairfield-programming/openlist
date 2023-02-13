@@ -3,7 +3,7 @@
     "name": "Cube License",
     "creator": [],
     "since": "2001",
-    "description": "Since 2001, the Cube License has been keeping software development transparent.",
+    "description": "The Cube License is a source-available license.",
     "permissions": [
         "distribution",
         "private-use"
