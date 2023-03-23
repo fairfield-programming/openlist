@@ -3,8 +3,12 @@ name: Netizen Open Source License
 creator: []
 since: '1995'
 description: >-
-  Originating in 1995, the Netizen Open Source License is a source-available
-  license.
+  the Netizen Open Source License, which is a type of software license that
+  allows users to access and modify the source code of a software program.
+  Specifically, it is a source-available license, meaning that the source code
+  is available for viewing and modification, but there may be limitations on how
+  the modified code can be used or distributed. This license was first created
+  in 1995 and has been used for various open-source projects since then.
 permissions:
   - distribution
 conditions: []
