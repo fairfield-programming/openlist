@@ -3,8 +3,13 @@ name: Netscape Public License v1.1
 creator: []
 since: '1998'
 description: >-
-  Originating in 1998, the Netscape Public License v1.1 is a source-available
-  license.
+  The Netscape Public License (NPL) v1.1 is a free and open-source software
+  licence used for software supplied by the Netscape Communications Corporation.
+  The licence is intended to be compatible with other open-source licences like
+  the GNU General Public License and is similar to the Mozilla Public License
+  (MPL) (GPL). The NPL v1.1 permits both commercial and non-commercial use,
+  modification, and distribution of the licenced software. It also contains
+  provisions for patent protection.
 permissions:
   - distribution
 conditions: []
