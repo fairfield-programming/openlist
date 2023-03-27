@@ -3,7 +3,7 @@
     "name": "Nokia Open Source License",
     "creator": [],
     "since": "",
-    "description": "The Nokia Open Source License is an open-source license.",
+    "description": "The Nokia Open Source License (NOKOS) was developed by Nokia Corporation and is a permissive, non-copyleft open-source licence. It is intended to promote the unrestricted use, modification, and distribution of software while safeguarding the rights of both users and developers.The license also allows developers to incorporate NOKOS-licensed software into their own projects, without the obligation to release their own code under the same license.",
     "permissions": [
         "distribution"
     ],
